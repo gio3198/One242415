@@ -1,0 +1,466 @@
+#######################################################################################################################################
+<poster>One242415</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message></message> 
+<thumbnail></thumbnail>
+</info>
+##############################################################################################################################
+
+
+<item>
+<title>RomaUNO</title>
+<link>rtmp://188.40.2.148:1935/romaunoplaypath=live.sdp</link>
+<thumbnail>http://www.oocities.org/simbariotv%40rogers.com/img_logo_romauno.gif</thumbnail>
+</item>
+
+<item>
+<title>RMK TV Sicily</title>
+<link>http://stream2.ion.it/rmktv</link>
+<thumbnail>http://rmk.italiabit.net/wp-content/uploads/2013/04/rmk_115_200.jpg</thumbnail>
+</item>
+
+<item>
+<title>RAI 1</title>
+<link>mmsh://212.162.68.162/prodtvr1</link>
+<thumbnail>http://naxlogic.com/img/channels/rai1.png</thumbnail>
+</item>
+
+<item>
+<title>VIDEOLINE ITALIA</title>
+<link>http://178.33.229.111/live/mp4:Videolina/hasbahca.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_R8q2ArW3y2s/Sh-F-rxP2BI/AAAAAAAACXk/Bz98DIGCQVo/s400/videolina1.jpg</thumbnail>
+</item>
+
+<item>
+<title>DI.TV</title>
+<link>rtmp://188.165.205.104/DiTv/tv</link>
+<thumbnail>http://www.monskallentoft.se/upl/images/74218.gif</thumbnail>
+</item>
+
+<item>
+<title>Rai 3</title>
+<link>mmsh://212.162.68.162/prodtvr3</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/5/5c/20100521044325!Logo_Rai_3_2010.svg</thumbnail>
+</item>
+
+<item>
+<title>TeleplasianceURL=mms://88.191.62.80/liveteleplaiz# 1792837type=videoname=Rai Scuola</title>
+<link>mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Storia</title>
+<link>mmsh://212.162.68.163/rai_storia?MSWMExt.asf</link>
+<thumbnail>https://github.com/ocram/picons/diff_blob/27b88708b8720453a5a0c9b0f176fb9473380337/picons/raistoria.png?raw=true</thumbnail>
+</item>
+
+<item>
+<title>Rai Premium</title>
+<link>mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rai_premium.png</thumbnail>
+</item>
+
+<item>
+<title>Rai 2</title>
+<link>mmsh://212.162.68.162/prodtvr2</link>
+<thumbnail>http://naxlogic.com/img/channels/rai2.png</thumbnail>
+</item>
+
+<item>
+<title>RAI GULP</title>
+<link>http://212.162.68.163/Rai_Gulp</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/9/94/RAI_Gulp_2010_Logo.svg/580px-RAI_Gulp_2010_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>RAI YOYO</title>
+<link>http://212.162.68.163/Rai_yoyo</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20100519121157/logopedia/images/4/43/Rai_YoYo_2010.svg</thumbnail>
+</item>
+
+<item>
+<title>Rai Nettuno Sat Uno</title>
+<link>http://212.162.68.163/Rai_Nettuno?auth=daEaadhacdEd0aFb2d8ckaJbJbDd8bmb4bc-bqWzDA-c0-AmyutHn&aifp=V001</link>
+<thumbnail>http://www.tvinstreaming.org/wp-content/uploads/2011/12/Rai-Nettuno-Sat-Uno-in-streaming.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY ITALIA (DOWN - NON FUNZIONA)</title>
+<link>rtmp://69.31.102.226:1935/live?_fcs_vhost=cp49989.live.edgefcs.net&akmfv=1.8playpath=streamRM1@2564</link>
+<thumbnail>http://italychronicles.com/wp-content/uploads/2009/04/skyitalia.jpg</thumbnail>
+</item>
+
+<item>
+<title>Quartarete 4URL=rtmp://wowza1.top-ix.org/quartaretetv/playpath=quartareteweb# 1511019type=videoname=Rete sport</title>
+<link>rtmp://live.6indiretta.com/8046playpath=8046</link>
+<thumbnail>http://movielinktv.superweb.ws/immagini/menu/rete8_sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>Teleturia LIVE</title>
+<link>http://83.147.65.2/TeletruriaLive</link>
+<thumbnail>http://www.eplitalia.com/loghi/teletruria.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBL TV Channel Torino</title>
+<link>rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quickliveplaypath=-11290293_quicklive</link>
+<thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2009/03/cbl-moovie.jpg</thumbnail>
+</item>
+
+<item>
+<title>Blu</title>
+<link>rtmp://194.116.72.51/webtv_liveplaypath=DGA0D0HL0I5O</link>
+<thumbnail>http://www.fitarco-italia.org/Common/News/imageNews.php?id=2352&mode=x&val=280</thumbnail>
+</item>
+
+<item>
+<title>Super Tv</title>
+<link>rtmp://fms.shared.streamshow.it/supertvwebplaypath=supertv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/51/SuperTvLogo.JPG</thumbnail>
+</item>
+
+<item>
+<title>D2 Channel</title>
+<link>rtmp://live.mediaonline.it/liveplaypath=d1television</link>
+<thumbnail>http://sicilia.onderadio.net/Loghi/TV/CT/TVCT_D2.jpg</thumbnail>
+</item>
+
+<item>
+<title>DI-TV</title>
+<link>rtmp://188.165.205.104/DiTv/playpath=tv</link>
+<thumbnail>http://a1.mzstatic.com/us/r1000/071/Purple/ea/dc/99/mzl.erwyapkg.175x175-75.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tele Ponte</title>
+<link>rtmp://streamingpulse.biz:1935/8024playpath=8024</link>
+<thumbnail>http://www.pallamanoitalia.it/wp-content/uploads/2011/09/Teleponte-Logo-300x217.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tele DiogeneURL=rtmp://fms.shared.streamshow.it/tdiogeneplaypath=telediogene# 1410263type=videoname=TeleMia</title>
+<link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv15/mogulus-user-files/chtelemia/2011/09/03/df86d059-f378-4b8b-836a-bf1cfcdd5955</link>
+<thumbnail>http://www.radiocivetta.eu/images/LOGO/logo-telemia.png</thumbnail>
+</item>
+
+<item>
+<title>RadioNorba TV</title>
+<link>rtmp://95.211.144.84:80/radionorbatvplaypath=norbatv_source.stream</link>
+<thumbnail>http://www.dtti.it/wp-content/uploads/2012/03/radionorba-418x215-310x159.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRG TV</title>
+<link>rtmp://46.37.22.123/live/_definst_playpath=trg</link>
+<thumbnail>http://im2.freeforumzone.it/up/29/47/1429676724.png</thumbnail>
+</item>
+
+<item>
+<title>Tele Diogene CROTONE</title>
+<link>rtmp://fms.shared.streamshow.it/tdiogeneplaypath=telediogene</link>
+<thumbnail>http://it.seoguardian.com/thumbs_mini/it/small/t/telediogene.it.jpg</thumbnail>
+</item>
+
+<item>
+<title>QVC ITALY</title>
+<link>rtmp://90.84.52.142:1935/live?_fcs_vhost=cp107861.live.edgefcs.net&akmfv=1.8playpath=QVC_Italy_Stream1200@34577</link>
+<thumbnail>http://cdn.qvc.it/skin/frontend/enterprise/qvc/images/logo-og.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tele Boario (Italy)</title>
+<link>rtmp://91.121.222.160/teleboariotb/playpath=teleboario.sdp</link>
+<thumbnail>http://www.vallecamonicacultura.it/Public/senza-titolo-1_14.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELEROMAGNA</title>
+<link>rtmp://live.teleromagna.it/TeleromagnaLiveplaypath=teleromagna.stream_360p</link>
+<thumbnail>http://images.all-free-download.com/images/graphiclarge/teleromagna_130135.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANALE 7</title>
+<link>rtmp://fms.shared.streamshow.it/canale7playpath=canale7</link>
+<thumbnail>http://movielinktv.superweb.ws/immagini/immagini_loghi_tv/canale7.jpg</thumbnail>
+</item>
+
+<item>
+<title>ROCK ONEURL=http://mediatv2.topix.it:80/24RockOne66# 1408464type=videoname=ITALIA FILM</title>
+<link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv03/mogulus-user-files/chitaliafilm/2009/03/16/f954f60a-c7dc-42bc-bdbc-40eadaab49e6</link>
+<thumbnail>http://www.uploadsblog.com/wp-content/uploads/2008/06/italia_film_net.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBL CLASSIC TVURL=rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quickliveplaypath=-11290293_quicklive# 1408451type=videoname=JO TVURL=rtmp://fms.shared.streamshow.it/jotvplaypath=jotv# 1408438type=videoname=LIRE TVURL=rtmp://streaming.positivonet.it/live/playpath=liratv# 1408436type=videoname=TELECITTA</title>
+<link>rtmp://stream.telepadova.com/live/playpath=tv1</link>
+<thumbnail>http://www.parrocchiaistrana.it/images/stories/sagra/2012/telecitta.jpg</thumbnail>
+</item>
+
+<item>
+<title>D1</title>
+<link>rtmp://live.mediaonline.it/liveplaypath=d1television</link>
+<thumbnail>http://sicilia.onderadio.net/Loghi/TV/CT/TVCT_D1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELEPACE</title>
+<link>rtmp://188.165.206.81:1935/telepacelive2playpath=telepacestream.sdp</link>
+<thumbnail>http://www.storiaradiotv.it/logo%20TELEPACE%20CERNA.jpg</thumbnail>
+</item>
+
+<item>
+<title>RETE SOLE</title>
+<link>mms://95.141.44.225/retesoleroma</link>
+<thumbnail>http://www.terninrete.it/headlines_articoli_immagini_th/HL_PRD_233304/HL_T4_rete%20sole.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOLEIL TV</title>
+<link>http://live240.impek.com:80/soleiltv?MSWMExt=.asf</link>
+<thumbnail>http://www.internet-tv-network.com/thumbnail.php?file=soleil-tv.jpg&size=article_medium</thumbnail>
+</item>
+
+<item>
+<title>SPACE TV</title>
+<link>rtmp://188.165.205.104:1935/DiTvplaypath=turismo</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/SPACE_TV_Former_Logo.svg/317px-SPACE_TV_Former_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>RETE 8 SPORT</title>
+<link>rtmp://live.6indiretta.com/8046playpath=8046</link>
+<thumbnail>http://movielinktv.superweb.ws/immagini/menu/rete8_sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>TG NORBA</title>
+<link>rtmp://95.211.144.84:80/tgnorba_24playpath=tgnorba_24_source.stream</link>
+<thumbnail>http://www.iltoccodiminerva.it/wp-content/uploads/2011/12/preview_tgnorba_itdm.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dance TV</title>
+<link>mms://91.82.85.42/dancetv</link>
+<thumbnail>http://en.kingofsat.net/jpg/dancetv.jpg</thumbnail>
+</item>
+
+<item>
+<title>PIUBLU TV</title>
+<link>rtmp://ondemand.superstreaming.it/piubluplaypath=piublu.sdp</link>
+<thumbnail>http://1.bp.blogspot.com/-6m_Zw-zwI_8/UKb74cm0hVI/AAAAAAAAFJc/sXP0UaPiwNs/s1600/PiuBlu-Lombardia.jpg</thumbnail>
+</item>
+
+<item>
+<title>3 CHANNEL CALABRIA</title>
+<link>rtmp://195.143.226.97/sportplaypath=livestream</link>
+<thumbnail>http://www.televisione10.it/wp-content/uploads/2011/08/logo3channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBL CLASSIC</title>
+<link>rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quickliveplaypath=-11290293_quicklive</link>
+<thumbnail>http://1.bp.blogspot.com/_2NqoKug6ddk/SlzKSvusojI/AAAAAAAAAEc/DqJtHmD8wT0/s200/Live+TV+Italy+-+CBL+Film.jpg</thumbnail>
+</item>
+
+<item>
+<title>105 TV</title>
+<link>rtmp://fms.105.net/live/playpath=105Test2</link>
+<thumbnail>http://www.105.ch/media/uploads/logos/medium/105HitTV_200x200.png</thumbnail>
+</item>
+
+<item>
+<title>RADIO MONTE CARLO</title>
+<link>rtmp://fms.105.net:1935/liveplaypath=rmc1</link>
+<thumbnail>http://100ansderadio.free.fr/HistoiredelaRadio/Radio-Monte-Carlo/Visuel01.jpg</thumbnail>
+</item>
+
+<item>
+<title>CIELO</title>
+<link>rtmp://94.32.97.8/sardegna1/playpath=live1.stream</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/158063_347833622889_1135953882_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iper TV</title>
+<link>http://mediatv2.topix.it/24Ipertv66</link>
+<thumbnail>http://www.avermedia.eu/avertv/IT/Upload/RetailerPic/PER.jpg</thumbnail>
+</item>
+
+<item>
+<title>VIRGIN TV</title>
+<link>rtmp://fms.105.net:1935/liveplaypath=virgin1</link>
+<thumbnail>http://www.theidentgallery.com/virgin1/V1-2008-TRAILER-6.jpg</thumbnail>
+</item>
+
+<item>
+<title>TELE MOLISE</title>
+<link>mms://109.73.187.58/stream2</link>
+<thumbnail>http://www.teleregionemolise.it/Images/Logo_TeleRegioneMolise.png</thumbnail>
+</item>
+
+<item>
+<title>TLT MOLISE</title>
+<link>mms://95.141.44.225/tltmolise</link>
+<thumbnail>http://movielinktv.superweb.ws/immagini/immagini_loghi_tv/tlt.jpg</thumbnail>
+</item>
+
+<item>
+<title>STUDIO 1</title>
+<link>rtmp://94.23.226.227/studiounoplaypath=studiouno.sdp</link>
+<thumbnail>http://www.studio1.it/fileadmin/user_upload/logo_sez_studio1.png</thumbnail>
+</item>
+
+<item>
+<title>KISS TV</title>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-liveplaypath=live</link>
+<thumbnail>http://images.wikia.com/logopedia/images/1/16/KISS_FM_RO.png</thumbnail>
+</item>
+
+<item>
+<title>LA 6</title>
+<link>rtmp://la6.stream.internetone.it:1935/streamingplaypath=la6.stream</link>
+<thumbnail>http://www.uppermichiganssource.com/uploadedImages/wluc/TV6%20Logo%20official.jpg</thumbnail>
+</item>
+
+<item>
+<title>RADIO RADIO</title>
+<link>rtmp://62.196.56.140:1935/liveplaypath=radioradio-tv</link>
+<thumbnail>http://d1bm3dmew779uf.cloudfront.net/large/7b91a31df0dcc533926f8cc09dc30684.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOR MUSIC</title>
+<link>rtmp://wowza1.top-ix.org:1935/quartaretetv1playpath=formusicweb</link>
+<thumbnail>http://a0.twimg.com/profile_images/1640055347/LOGO_NUOVO.jpg</thumbnail>
+</item>
+
+<item>
+<title>RADIO ITALIA TV</title>
+<link>rtmp://cwedge.cdcache.net:1935/cwedgeplaypath=rilive</link>
+<thumbnail>http://www.storiaradiotv.it/radioitaliaTv.jpg</thumbnail>
+</item>
+
+<item>
+<title>ROCK ONE</title>
+<link>http://mediatv2.topix.it/24RockOne66</link>
+<thumbnail>http://www.internet-tv-network.com/thumbnail.php?file=Rock-one-tv.jpg&size=article_medium</thumbnail>
+</item>
+
+<item>
+<title>HSE 24</title>
+<link>rtmp://xapp1023574018c1000286.f.l.f.lb.core-cdn.net:80/1000286copoplaypath=live/app1023574018/w1020002321/live_it_500</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hse_24_italia.png</thumbnail>
+</item>
+
+<item>
+<title>ELEFANTE TELE MARKET</title>
+<link>rtmp://fms2.shared.streamshow.it:443/telemarketplaypath=telemarket</link>
+<thumbnail>http://sim.in.com/f4b131d62a86899b67c64db011c350ce_m.jpg</thumbnail>
+</item>
+
+<item>
+<title>LAB ARTE TIVU</title>
+<link>rtmp://173.255.137.28:80/tuttositiwebplaypath=livestream</link>
+<thumbnail>http://www.equilibriarte.net/upload/places/3449-1316610277.jpg</thumbnail>
+</item>
+
+<item>
+<title>RADIO NORBA</title>
+<link>rtmp://95.211.144.84:80/radionorbatvplaypath=norbatv_source.stream</link>
+<thumbnail>http://www.immaginasalento.it/blog/wp-content/uploads/battiti-live-2009.jpg</thumbnail>
+</item>
+
+<item>
+<title>RADIO NAPOLI</title>
+<link>http://streaming1.bsnewline.com/radioemme</link>
+<thumbnail>http://www.broadcastitalia.it/RADIO/Radio%20Napoli%20City/Immagini/locandina%20di%20radio%20napoli%20city%201975.JPG</thumbnail>
+</item>
+
+<item>
+<title>TV2000</title>
+<link>http://62.101.89.83/Tv2000</link>
+<thumbnail>http://www.chiesacattolica.it/cci_new_v3/allegati/18528/tv2000.jpg</thumbnail>
+</item>
+
+<item>
+<title>WORLD FASHION CHANNEL</title>
+<link>rtmp://83.229.210.89/WFC_EUplaypath=BTVwfceu0</link>
+<thumbnail>http://eksperimient.files.wordpress.com/2011/10/wf_logo_grad-black1-201x300.jpg</thumbnail>
+</item>
+
+<item>
+<title>VIDEOLINA</title>
+<link>rtmp://178.33.229.111/liveplaypath=Videolina</link>
+<thumbnail>http://www.storiaradiotv.it/VIDEOLINA.jpg</thumbnail>
+</item>
+
+<item>
+<title>UMBRIA TV</title>
+<link>rtmp://fl1.mediastreaming.it:80/umbriatvplaypath=livestream</link>
+<thumbnail>http://cdn.cinetivu.com/wp-content/uploads/2009/07/umbria-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVA VICENZA</title>
+<link>rtmp://213.178.196.66:1935/liveplaypath=diretta_1</link>
+<thumbnail>http://www.tvinstreaming.org/wp-content/uploads/2011/11/TVA-Vicenza-in-streaming.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRENTINO TV</title>
+<link>rtmp://77.72.196.214:8554/liveplaypath=TrentinoTV</link>
+<thumbnail>http://www.dttn.it/uploaded/news/trentino%20tv(1).jpg</thumbnail>
+</item>
+
+<item>
+<title>STUDIO 100</title>
+<link>rtmp://fms3.shared.streamshow.it/studio100taplaypath=studio100ta</link>
+<thumbnail>https://si0.twimg.com/profile_images/858384954/logo_blok.jpg</thumbnail>
+</item>
+
+<item>
+<title>SARDEGNA 1</title>
+<link>rtmp://213.205.30.50/sardegna1playpath=live1.stream</link>
+<thumbnail>http://www.latvgratis.it/wp-content/uploads/2012/02/sardegna1tv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTB NETWORK VIRGILIO</title>
+<link>rtmp://fls.6.c3.audiovideoweb.com:443/liveplaypath=6c3flslive2185</link>
+<thumbnail>http://www.lacritica.org/wp-content/uploads/2012/08/logo_rtb_television__40x44mm_verticale.jpg</thumbnail>
+</item>
+
+<item>
+<title>ROMA UNO</title>
+<link>rtmp://188.40.2.148:1935/romaunoplaypath=live.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/roma_uno.png</thumbnail>
+</item>
+
+<item>
+<title>BLOOMBERG TV ITALIA</title>
+<link>http://a627.l2479952251.c24799.g.lm.akamaistream.net:80/D/627/24799/v0001/reflector:52251</link>
+<thumbnail>http://www.mediabistro.com/tvnewser/files/2012/08/BLOOMBERG-tv-LOGO.jpg</thumbnail>
+</item>
+
+<item>
+<title>La Diretta di Espansione Tv</title>
+<link>rtmp://flash3.ipercast.net/espansionetv.it-liveplaypath=live_1</link>
+<thumbnail>http://a1844.phobos.apple.com/us/r1000/071/Purple/v4/20/bb/65/20bb659b-ecdc-dd59-71e5-1a2b83e603b8/mza_7646569372662117134.320x480-75.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARCOIRIS TV</title>
+<link>rtmp://w0-01.cdnplayer.com:1935/vod665playpath=mp4:665/2012/09/03/1210899_amare_acque_dolci-1.mp4</link>
+<thumbnail>http://www.sentieriselvaggi.it/public/articoli/35892/Images/arcoiristv.jpg</thumbnail>
+</item>
+
+<item>
+<title>CALABRIA CHANNEL 1URL=rtmp://fl1.mediastreaming.it:80/calabriachannelplaypath=livestream# 1404050type=videoname=SAT 2000URL=http://89.119.94.181:80/Tv2000?MSWMExt=.asf# 1404048type=videoname=RADIO NAPOLI EMMAURL=http://streaming1.bsnewline.com:80/radioemme/?MSWMExt=.asf# 1403803type=videoname=ITALIA FILM TV</title>
+<link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv04/mogulus-user-files/chitaliafilm/2009/03/13/b4f9e51b-0ae6-425a-ac9b-40eaa2b921c4</link>
+<thumbnail>https://si0.twimg.com/profile_images/2463726906/touzbogpmjzbdhy2zyhr.png</thumbnail>
+</item>
