@@ -10,71 +10,81 @@
 ##############################################################################################################################
 
 <name>Latest Releases</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/Q3QiW6qooj/one24.256.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>IMDb Top 300  Highest Rated Movies</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/k7RE1G2hbg/imdb.png</thumbnail>
 <date>DAILY</date>
 
+<name>The Superheros</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/superhero.xml</link>
+<thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/f87yboX2qZ/superheros.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>Stand Up Comedy</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupcomedy.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/Fy9UEbPi1W/standupcomedy.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Stephen King Collection</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/stephanking.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/-RFwzN79_2/stephenkingmoviecollect1.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>The Mel Brooks Collection</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/melbrookscollection.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/DBC73Lyzs0/melbrooks.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>The Clint Eastwood Collection</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/clinteastwood.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/rZgPLgo2rl/clintEastwood.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Ultimate Western Collection</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/ultimatewestern.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/XSoiWLXWzO/gunslinger_colored_by_leinilyu.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Spaghetti Westerns</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/spaghettiwesterns.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/3jnPKpFR61/spaghettiwestern_.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>LIVE in CONCERT (NEW...LIVE TV & RADIO STREAMS)</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/liveconcert.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/YVjUfXSinE/LIVEINCONCERT_zps23f60c8b.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Italian Content Only</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italiancontent.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/ccT_t5g8RW/ITALIANCONTENTONLYALLNEW.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Live Italian TV</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italianLiveTV.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/B1UmaZffZd/9_wall_g1.jpg</thumbnail>
 <date>DAILY</date>
 
+<name>Italian Series</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italianseries.xml</link>
+<thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/BKOXImdURH/images.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>Foreign Cinema</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/foreigncinema.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/gbQDI3JzL2/FOREIGNCINEMA.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>The Best of Lifetime</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/lifetimebest.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/HQ0HqA9dV6/Lifetime%20logo%202012%20reverse.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Made in Canada</name>
-<link></link>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/madeincanada.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/OlL_9IAHIh/madeincanada.jpg</thumbnail>
 <date>DAILY</date>
