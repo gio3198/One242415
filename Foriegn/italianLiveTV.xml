@@ -8,10 +8,15 @@
 </info>
 ##############################################################################################################################
 
+<item>
+<title>Bergamo TV</title>
+<link>rtmp://213-252.livestream.com/mogulus-stream-edge/bergamotvlive</link>
+<thumbnail>http://www.storiaradiotv.it/BERGAMO%20TV.jpg</thumbnail>
+</item>
 
 <item>
 <title>RomaUNO</title>
-<link>rtmp://188.40.2.148:1935/romaunoplaypath=live.sdp</link>
+<link>rtmp://188.40.2.148:1935/</link>
 <thumbnail>http://www.oocities.org/simbariotv%40rogers.com/img_logo_romauno.gif</thumbnail>
 </item>
 
