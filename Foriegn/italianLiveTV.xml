@@ -46,7 +46,7 @@
 </item>
 
 <item>
-<title>TeleplasianceURL=mms://88.191.62.80/liveteleplaiz# 1792837type=videoname=Rai Scuola</title>
+<title>Rai Scuola</title>
 <link>mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png</thumbnail>
 </item>
@@ -94,7 +94,7 @@
 </item>
 
 <item>
-<title>Quartarete 4URL=rtmp://wowza1.top-ix.org/quartaretetv/playpath=quartareteweb# 1511019type=videoname=Rete sport</title>
+<title>Rete sport</title>
 <link>rtmp://live.6indiretta.com/8046playpath=8046</link>
 <thumbnail>http://movielinktv.superweb.ws/immagini/menu/rete8_sport.jpg</thumbnail>
 </item>
@@ -142,7 +142,7 @@
 </item>
 
 <item>
-<title>Tele DiogeneURL=rtmp://fms.shared.streamshow.it/tdiogeneplaypath=telediogene# 1410263type=videoname=TeleMia</title>
+<title>TeleMia</title>
 <link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv15/mogulus-user-files/chtelemia/2011/09/03/df86d059-f378-4b8b-836a-bf1cfcdd5955</link>
 <thumbnail>http://www.radiocivetta.eu/images/LOGO/logo-telemia.png</thumbnail>
 </item>
@@ -190,13 +190,13 @@
 </item>
 
 <item>
-<title>ROCK ONEURL=http://mediatv2.topix.it:80/24RockOne66# 1408464type=videoname=ITALIA FILM</title>
+<title>ITALIA FILM</title>
 <link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv03/mogulus-user-files/chitaliafilm/2009/03/16/f954f60a-c7dc-42bc-bdbc-40eadaab49e6</link>
 <thumbnail>http://www.uploadsblog.com/wp-content/uploads/2008/06/italia_film_net.jpg</thumbnail>
 </item>
 
 <item>
-<title>CBL CLASSIC TVURL=rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quickliveplaypath=-11290293_quicklive# 1408451type=videoname=JO TVURL=rtmp://fms.shared.streamshow.it/jotvplaypath=jotv# 1408438type=videoname=LIRE TVURL=rtmp://streaming.positivonet.it/live/playpath=liratv# 1408436type=videoname=TELECITTA</title>
+<title>TELECITTA</title>
 <link>rtmp://stream.telepadova.com/live/playpath=tv1</link>
 <thumbnail>http://www.parrocchiaistrana.it/images/stories/sagra/2012/telecitta.jpg</thumbnail>
 </item>
@@ -460,7 +460,7 @@
 </item>
 
 <item>
-<title>CALABRIA CHANNEL 1URL=rtmp://fl1.mediastreaming.it:80/calabriachannelplaypath=livestream# 1404050type=videoname=SAT 2000URL=http://89.119.94.181:80/Tv2000?MSWMExt=.asf# 1404048type=videoname=RADIO NAPOLI EMMAURL=http://streaming1.bsnewline.com:80/radioemme/?MSWMExt=.asf# 1403803type=videoname=ITALIA FILM TV</title>
+<title>ITALIA FILM TV</title>
 <link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv04/mogulus-user-files/chitaliafilm/2009/03/13/b4f9e51b-0ae6-425a-ac9b-40eaa2b921c4</link>
 <thumbnail>https://si0.twimg.com/profile_images/2463726906/touzbogpmjzbdhy2zyhr.png</thumbnail>
 </item>
