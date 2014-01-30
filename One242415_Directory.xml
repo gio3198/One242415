@@ -15,9 +15,15 @@
 <thumbnail>https://dl.dropboxusercontent.com/u/259527702/Mashup%20Shared/one24.256.jpg</thumbnail>
 <date>DAILY</date>
 
+<item>
+<title>Black Entertaint</title>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/blackentertainment.xml</link>
+<thumbnail>https://dl.dropboxusercontent.com/u/259527702/Mashup%20Shared/blackentertainment.jpg</thumbnail>
+</item>
+
 <name>Period Dramas</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/perioddrama.xml</link>
-<thumbnail>https://dl.dropboxusercontent.com/u/259527702/perioddrama.jpg</thumbnail>
+<thumbnail>https://dl.dropboxusercontent.com/u/259527702/Mashup%20Shared/perioddramas.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Sports Movies</name>
