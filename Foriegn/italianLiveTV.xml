@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Monte Carlo</title>
-<link>rtmp://fms.105.net:1935/live/ playpath=rmc1</link>
-<thumbnail>http://tratohechodigital.com/wp-content/uploads/2009/07/Canal-4.jpg</thumbnail>
-</item>
-
-<item>
 <title>RomaUNO</title>
 <link>rtmp://188.40.2.148:1935/romaunoplaypath=live.sdp</link>
 <thumbnail>http://www.oocities.org/simbariotv%40rogers.com/img_logo_romauno.gif</thumbnail>
