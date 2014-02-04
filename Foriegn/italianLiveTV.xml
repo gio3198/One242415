@@ -10,17 +10,16 @@
 
 
 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Idea TV</title>
 <link>rtmp://flash2.bsnewline.com:1935/ideatvplaypath=mp4:live.mp4</link>
 <thumbnail>http://www.digitalgalleryindia.com/blog/wp-content/uploads/2012/07/idea-live-tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rai2</title>
-<link>rtmp://206.190.128.228/zenex</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -109,7 +108,7 @@
 
 <item>
 <title>SKYTG24</title>
-<link>rtmp://cp49989.live.edgefcs.net:1935/live/playpath=streamRM1@2564</link>
+<link>rtmp://69.31.102.226:1935/live?_fcs_vhosX[6playpath=streamRM1@2564</link>
 <thumbnail>http://italychronicles.com/wp-content/uploads/2009/04/skyitalia.jpg</thumbnail>
 </item>
 
