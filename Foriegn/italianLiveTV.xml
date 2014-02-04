@@ -8,9 +8,18 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Idea TV</title>
+<link>rtmp://flash2.bsnewline.com:1935/ideatvplaypath=mp4:live.mp4</link>
+<thumbnail>http://www.digitalgalleryindia.com/blog/wp-content/uploads/2012/07/idea-live-tv.jpg</thumbnail>
+</item>
+
 <item>
 <title>Rai2</title>
-<link>rtmp://206.190.128.228/zenex/playpath=dasfdfdfdww3?id=3165</link>
+<link>rtmp://206.190.128.228/zenex</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -99,8 +108,8 @@
 </item>
 
 <item>
-<title>SKY ITALIA (DOWN - NON FUNZIONA)</title>
-<link>rtmp://69.31.102.226:1935/live?_fcs_vhost=cp49989.live.edgefcs.net&akmfv=1.8playpath=streamRM1@2564</link>
+<title>SKYTG24</title>
+<link>rtmp://cp49989.live.edgefcs.net:1935/live/playpath=streamRM1@2564</link>
 <thumbnail>http://italychronicles.com/wp-content/uploads/2009/04/skyitalia.jpg</thumbnail>
 </item>
 
