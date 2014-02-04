@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>105 Legend (Italy)</title>
+<link>rtmp://fms.105.net:1935/live&autostart=true&stretching=exactfit&mute=falseplaypath=105Test1</link>
+<thumbnail>http://imediacast.net/uploads/thumbs/04098e73a-1.jpg</thumbnail>
+</item>
 <item>
 <title>Quarterete 4</title>
 <link>rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb <swfUrl> <pageUrl></link>
