@@ -12,7 +12,7 @@
 
 <item>
 <title>Quarterete 4</title>
-<link>rtmp://wowza1.top-ix.org/quartaretetvplaypath=quartareteweb <swfUrl> <pageUrl></link>
+<link>rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb <swfUrl> <pageUrl></link>
 <thumbnail>http://www.stereoscopic3d.it/wp-content/uploads/2012/11/1527326909_quartarete_news2.jpg</thumbnail>
 </item>
 
@@ -24,7 +24,7 @@
 
 <item>
 <title>Monte Carlo</title>
-<link>rtmp://fms.105.net:1935/live/playpath=rmc1</link>
+<link>rtmp://fms.105.net:1935/live/ playpath=rmc1</link>
 <thumbnail>http://tratohechodigital.com/wp-content/uploads/2009/07/Canal-4.jpg</thumbnail>
 </item>
 
@@ -108,7 +108,7 @@
 
 <item>
 <title>SKYTG24</title>
-<link>rtmp://69.31.102.226:1935/live?_fcs_vhosX[6playpath=streamRM1@2564</link>
+<link>rtmp://69.31.102.226:1935/live?_fcs_vhosX[6 playpath=streamRM1@2564</link>
 <thumbnail>http://italychronicles.com/wp-content/uploads/2009/04/skyitalia.jpg</thumbnail>
 </item>
 
