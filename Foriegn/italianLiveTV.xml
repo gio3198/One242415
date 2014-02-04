@@ -16,13 +16,13 @@
 </item>
 <item>
 <title>Quarterete 4</title>
-<link>rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb <swfUrl> <pageUrl></link>
+<link>rtmp://wowza1.top-ix.org/quartaretetv/playpath=quartareteweb <swfUrl> <pageUrl></link>
 <thumbnail>http://www.stereoscopic3d.it/wp-content/uploads/2012/11/1527326909_quartarete_news2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Idea TV</title>
-<link>rtmp://flash2.bsnewline.com:1935/ideatvplay=mp4:live.mp4</link>
+<link>rtmp://flash2.bsnewline.com:1935/ideatvplaypath=mp4:live.mp4</link>
 <thumbnail>http://www.digitalgalleryindia.com/blog/wp-content/uploads/2012/07/idea-live-tv.jpg</thumbnail>
 </item>
 
