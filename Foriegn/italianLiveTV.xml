@@ -14,7 +14,7 @@
 
 <item>
 <title>RomaUNO</title>
-<link>rtmp://188.40.2.148:1935/</link>
+<link>rtmp://188.40.2.148:1935/romaunoplaypath=live.sdp</link>
 <thumbnail>http://www.oocities.org/simbariotv%40rogers.com/img_logo_romauno.gif</thumbnail>
 </item>
 
