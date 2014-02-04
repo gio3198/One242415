@@ -9,6 +9,9 @@
 ##############################################################################################################################
 
 
+
+
+
 <item>
 <title>RomaUNO</title>
 <link>rtmp://188.40.2.148:1935/</link>
@@ -269,7 +272,7 @@
 
 <item>
 <title>105 TV</title>
-<link>rtmp://fms.105.net/live/playpath=105Test2</link>
+<link>rtmp://fms.105.net/live/playpath=105Test1</link>
 <thumbnail>http://www.105.ch/media/uploads/logos/medium/105HitTV_200x200.png</thumbnail>
 </item>
 
