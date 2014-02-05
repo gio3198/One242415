@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>Dolce Sport 2</title>
+<link>http://178.21.120.198:1936/live3/flv:dolcesport2/chunklist_w1236310145.m3u8</link>
+<thumbnail>http://fotbal1x2.ro/wp-content/uploads/2012/06/Logo-Dolce-Sport.jpg</thumbnail>
+</item>
+
 <item>
 <title>105 Legend (Italy)</title>
 <link>rtmp://fms.105.net:1935/live&autostart=true&stretching=exactfit&mute=falseplaypath=105Test1</link>
@@ -16,7 +23,7 @@
 </item>
 <item>
 <title>Quarterete 4</title>
-<link>rtmp://wowza1.top-ix.org/quartaretetv/playpath=quartareteweb <swfUrl> <pageUrl></link>
+<link>rtmp://wowza1.top-ix.org/quartaretetv/playpath=quartareteweb</link>
 <thumbnail>http://www.stereoscopic3d.it/wp-content/uploads/2012/11/1527326909_quartarete_news2.jpg</thumbnail>
 </item>
 
@@ -52,7 +59,7 @@
 
 <item>
 <title>DI.TV</title>
-<link>rtmp://188.165.205.104/DiTv/tv</link>
+<link>mmsh://188.165.205.104/DiTv/tv</link>
 <thumbnail>http://www.monskallentoft.se/upl/images/74218.gif</thumbnail>
 </item>
 
