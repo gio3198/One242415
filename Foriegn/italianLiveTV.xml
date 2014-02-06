@@ -484,6 +484,12 @@
 </item>
 
 <item>
+<title>Calabria Channel</title>
+<link>rtmp://fl1.mediastreaming.it:80/calabriachannelplaypath=livestream</link>
+<thumbnail>http://sim.in.com/2/1bac7eaf6e79a7bb7669094404388bb3.jpg</thumbnail>
+</item>
+
+<item>
 <title>ITALIA FILM TV</title>
 <link>rtmp://extondemand.livestream.com/ondemandplaypath=trans/dv04/mogulus-user-files/chitaliafilm/2009/03/13/b4f9e51b-0ae6-425a-ac9b-40eaa2b921c4</link>
 <thumbnail>https://si0.twimg.com/profile_images/2463726906/touzbogpmjzbdhy2zyhr.png</thumbnail>
