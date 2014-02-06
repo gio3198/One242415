@@ -64,12 +64,6 @@
 </item>
 
 <item>
-<title>Rai 3</title>
-<link>mmsh://212.162.68.162/prodtvr3</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/5/5c/20100521044325!Logo_Rai_3_2010.svg</thumbnail>
-</item>
-
-<item>
 <title>Rai Scuola</title>
 <link>mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png</thumbnail>
@@ -85,12 +79,6 @@
 <title>Rai Premium</title>
 <link>mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rai_premium.png</thumbnail>
-</item>
-
-<item>
-<title>Rai 2</title>
-<link>mmsh://212.162.68.162/prodtvr2</link>
-<thumbnail>http://naxlogic.com/img/channels/rai2.png</thumbnail>
 </item>
 
 <item>
