@@ -15,6 +15,12 @@
 </item>
 
 <item>
+<title>Tele1</title>
+<link>http://2.228.126.59:5081/Tele1</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1084241267/tele1_twitter.jpg</thumbnail>
+</item>
+
+<item>
 <title>Antenna 3 Live</title>
 <link>rtmp://93.115.84.226/live playpath=a3</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Antena-3.jpeg</thumbnail>
