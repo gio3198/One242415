@@ -925,3 +925,9 @@
 <link>http://www.youtube.com/watch?v=kTlJqyFSzt4</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM5NzE3ODc0N15BMl5BanBnXkFtZTcwMTU3NjQzMQ%40%40._V1_SY317_CR1,0,214,317_.jpg</thumbnail>
 </item>
+
+<item>
+<title>Family Guy</title>
+<link>rtmp://198.27.74.25/app playpath=familyguy01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/ swfVfy=true live=true</link>
+<thumbnail>http://images5.fanpop.com/image/photos/25200000/family-guy-family-guy-25241951-1920-1200.jpg</thumbnail>
+</item>

@@ -108,7 +108,7 @@
 
 <item>
 <title>SKYTG24</title>
-<link>rtmp://cp49989.live.edgefcs.net:1935/live/</link>
+<link>rtmp://cp49989.live.edgefcs.net:1935/live</link>
 <thumbnail>http://italychronicles.com/wp-content/uploads/2009/04/skyitalia.jpg</thumbnail>
 </item>
 
@@ -174,7 +174,15 @@
 
 <item>
 <title>TRG TV</title>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<link>rtmp://46.37.22.123/live/_definstplaypath=trg</link>
+=======
 <link>rtmp://46.37.22.123/live/_definst_ playpath=trg</link>
+>>>>>>> 7c987531200dcad0193310b85db63fb606f61959
+=======
+<link>rtmp://46.37.22.123/live/_definst_ playpath=trg</link>
+>>>>>>> 7c987531200dcad0193310b85db63fb606f61959
 <thumbnail>http://im2.freeforumzone.it/up/29/47/1429676724.png</thumbnail>
 </item>
 
