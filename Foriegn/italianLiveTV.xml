@@ -15,7 +15,11 @@
 </item>
 
 
-
+<item>
+<title>Club TV</title>
+<link>rtmp://204.107.26.252:8086/live/691.high.stream</link>
+<thumbnail>http://assets.hellocoton.fr/avatars/square-256-17148-8c80a7885d9fef2c25d64863dc8abfa4.png</thumbnail>
+</item>
 
 <item>
 <title>Teleradio Padre Pio</title>
