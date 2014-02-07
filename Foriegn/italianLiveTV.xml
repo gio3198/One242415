@@ -15,6 +15,12 @@
 </item>
 
 <item>
+<title>Antenna 3 Live</title>
+<link>rtmp://93.115.84.226/live playpath=a3</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Antena-3.jpeg</thumbnail>
+</item>
+
+<item>
 <title>Canale 7</title>
 <link>rtmp://fms.shared.streamshow.it/canale7 playpath=canale7</link>
 <thumbnail>http://www.monopolicalcio.it/work/images/stories/canale7.jpg</thumbnail>
