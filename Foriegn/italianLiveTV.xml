@@ -15,6 +15,12 @@
 </item>
 
 <item>
+<title>Eurosport News</title>
+<link>rtmp://ca-edge-3.cdn2.streamago.tv:80/streamagoedge/1915?idutente=1915&idcanale=808&pwd= playpath=808</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/bc/Eurosport_News_logo.png</thumbnail>
+</item>
+
+<item>
 <title>Tele1</title>
 <link>http://2.228.126.59:5081/Tele1</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1084241267/tele1_twitter.jpg</thumbnail>
