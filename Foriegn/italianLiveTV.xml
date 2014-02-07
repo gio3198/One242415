@@ -52,7 +52,7 @@
 
 <item>
 <title>Antenna 3 Live</title>
-<link>rtmp://93.115.84.226/live playpath=a3</link>
+<link>rtmp://217.172.179.76:1935/live playpath=antenna3</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Antena-3.jpeg</thumbnail>
 </item>
 
