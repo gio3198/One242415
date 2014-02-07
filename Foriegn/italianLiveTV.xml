@@ -15,6 +15,12 @@
 </item>
 
 <item>
+<title>Canale 7</title>
+<link>rtmp://fms.shared.streamshow.it/canale7 playpath=canale7</link>
+<thumbnail>http://www.monopolicalcio.it/work/images/stories/canale7.jpg</thumbnail>
+</item>
+
+<item>
 <title>DEEJAY TV</title>
 <link>rtmp://194.116.73.52/quartaretetv1 playpath=formusicweb</link>
 <thumbnail>http://www.mondoblackberry.com/wp-content/uploads/2013/04/logo.jpg</thumbnail>
