@@ -16,6 +16,13 @@
 
 
 
+
+<item>
+<title>Teleradio Padre Pio</title>
+<link>rtmp://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-live/ playpath=live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tele_radio_padre_pio_tv.png</thumbnail>
+</item>
+
 <item>
 <title>VivaItalia</title>
 <link>rtmp://live.cdnplayer.com:1935/live709 playpath=streamitlivevivalitaliachannellive</link>
