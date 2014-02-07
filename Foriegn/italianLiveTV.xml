@@ -14,6 +14,14 @@
 <thumbnail>http://imediacast.net/uploads/thumbs/04098e73a-1.jpg</thumbnail>
 </item>
 
+
+
+<item>
+<title>VivaItalia</title>
+<link>rtmp://live.cdnplayer.com:1935/live709 playpath=streamitlivevivalitaliachannellive</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/viva_litalia_channel.png</thumbnail>
+</item>
+
 <item>
 <title>Eurosport News</title>
 <link>rtmp://ca-edge-3.cdn2.streamago.tv:80/streamagoedge/1915?idutente=1915&idcanale=808&pwd= playpath=808</link>
