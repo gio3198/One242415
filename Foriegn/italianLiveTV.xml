@@ -506,7 +506,7 @@
 
 <item>
 <title>ELEFANTE TELE MARKET</title>
-<link>rtmp://fms2.shared.streamshow.it:443/telemarket playpath=telemarket</link>
+<link>rtmp://fms2.shared.streamshow.it:443/telemarket playpath=telemarket swfUrl=http://www.coolstreaming.us/consolle/StrobeMediaPlayback.swf pageUrl=http://www.coolstreaming.us/blog/telemarket.php live=1</link>
 <thumbnail>http://sim.in.com/f4b131d62a86899b67c64db011c350ce_m.jpg</thumbnail>
 </item>
 
