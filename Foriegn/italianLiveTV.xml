@@ -10,6 +10,12 @@
 
 
 <item>
+<title>ILIKE.TV</title>
+<link>rtmp://ca-edge-6.cdn2.streamago.tv:80/streamagoedge/33902?idutente=33902&idcanale=27961&pwd= playpath=27961 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/33902/ live=1</link>
+<thumbnail>http://b.vimeocdn.com/ps/258/692/2586920_300.jpg</thumbnail>
+</item>
+
+<item>
 <title>DMAX</title>
 <link>rtmp://146.185.25.162/live playpath=dashfjadfhj33sd?id=62548 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/dashfjadfhj33sd/1/500/380 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png</thumbnail>
