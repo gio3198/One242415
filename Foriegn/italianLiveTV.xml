@@ -8,6 +8,14 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>LAB Arte Tivu</title>
+<link>rtmp://173.255.137.28:80/tuttositiweb playpath=livestream swfUrl=http://www.coolstreaming.us/consolle/StrobeMediaPlayback.swf pageUrl=http://www.coolstreaming.us/blog/atv.php live=1</link>
+<thumbnail>http://www.anvaccari.sitiwebs.com/attachments/Image/Lab_arte_tivu.jpg</thumbnail>
+</item>
+
 <item>
 <title>DANCE TV</title>
 <link>rtmp://91.82.85.44:1935/brdcaster/_definst_ playpath=nettv_channel_1 swfUrl=http://www.coolstreaming.us/consolle/StrobeMediaPlayback.swf pageUrl=http://www.coolstreaming.us/blog/dancetv.php live=1</link>
