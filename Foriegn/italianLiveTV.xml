@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>Rai 3</title>
+<link>rtmp://50.22.223.51/live playpath=uyjyjejyjr?id=61396 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/uyjyjejyjr/1/550/380 live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/5/5c/20100521044325!Logo_Rai_3_2010.svg</thumbnail>
+</item>
+
 <item>
 <title>Zenex TV</title>
 <link>rtmp://198.105.209.124/zenex playpath=dasfdfdfdww3?id=3165 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/dasfdfdfdww3/1/550/380 live=1</link>
