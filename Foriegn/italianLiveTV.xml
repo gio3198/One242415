@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>Rai News 24</title>
+<link>rtmp://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1917?idutente=1917&idcanale=810&pwd= playpath=810 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/1917/ live=1</link>
+<thumbnail>http://b.vimeocdn.com/ts/214/742/214742286_640.jpg</thumbnail>
+</item>
 
 <item>
 <title>Rai 3</title>
