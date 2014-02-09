@@ -199,7 +199,7 @@
 
 <item>
 <title>CBL TV Channel Torino</title>
-<link>rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quicklive playpath=-11290293_quicklive</link>
+<link>rtmp://msh0193.stream.seeweb.it/live// playpath=stream00.sdp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.cblchannel.it/public/classic-43-cbl/prova.htm live=1</link>
 <thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2009/03/cbl-moovie.jpg</thumbnail>
 </item>
 
