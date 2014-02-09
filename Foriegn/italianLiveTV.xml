@@ -10,6 +10,12 @@
 
 
 <item>
+<title>ONDA TV</title>
+<link>rtmp://live.streamcaster.net/ondatv_live/ playpath=ondatv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.ondatv.it/ live=1</link>
+<thumbnail>http://www.storiaradiotv.it/onda%20tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>SkyTG24</title>
 <link>rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta live=1</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100531205135/logopedia/images/4/44/Sky_TG24.svg</thumbnail>
