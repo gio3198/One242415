@@ -10,13 +10,13 @@
 
 
 <item>
-<title>Sky SPORTS 1</title>
+<title>Sky SPORTS 1 OFFLINE</title>
 <link>rtmp://31.220.0.103:1935/live playpath=sky1ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1</link>
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/06/sky-SPORTS-1-live.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sky Calcio</title>
+<title>Sky Calcio OFFLINE</title>
 <link>rtmp://31.220.0.103:1935/live playpath=skycalcio00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcio00&vw=620&vh=490 live=1</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
