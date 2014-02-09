@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>TelePavia</title>
+<link>rtmp://wms.shared.streamshow.it:80/telepavia playpath=telepavia swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/telepavia_2.php?width=640&height=360 live=1</link>
+<thumbnail>http://www.dtti.it/wp-content/uploads/2012/01/telepavia.jpg</thumbnail>
+</item>
+
 <item>
 <title>ONDA TV</title>
 <link>rtmp://live.streamcaster.net/ondatv_live/ playpath=ondatv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.ondatv.it/ live=1</link>
