@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>CNN International</title>
+<link>rtmp://ca-edge-5.cdn2.streamago.tv:80/streamagoedge/34960?idutente=34960&idcanale=28965&pwd= playpath=28965 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl>http://www.streamago.tv/iframe/34960/ live=1</link>
+<thumbnail>http://static3.wikia.nocookie.net/__cb20091201100405/logopedia/images/b/b8/CNN-International-Logo.svg</thumbnail>
+</item>
+
 <item>
 <title>DINAMICA CHANNEL</title>
 <link>rtmp://mmds.dinamicachannel.it:1935/dinamicachannel playpath=live swfUrl=http://www.coolstreaming.us/consolle/StrobeMediaPlayback.swf pageUrl=http://www.coolstreaming.us/blog/dynamica.php live=1</link>
