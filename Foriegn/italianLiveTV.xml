@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>DANCE TV</title>
+<link>rtmp://91.82.85.44:1935/brdcaster/_definst_ playpath=nettv_channel_1 swfUrl=http://www.coolstreaming.us/consolle/StrobeMediaPlayback.swf pageUrl=http://www.coolstreaming.us/blog/dancetv.php live=1</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0308/dance.jpg</thumbnail>
+</item>
 
 <item>
 <title>Class NEWS MSNBC</title>
