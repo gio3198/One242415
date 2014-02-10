@@ -8,6 +8,14 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>RAI News 24</title>
+<link>rtmp://rm-edge-5.cdn2.streamago.tv:80/streamagoedge/1917?idutente=1917&idcanale=810&pwd= playpath=810 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/1917/ live=1 timeout=10</link>
+<thumbnail>http://www.cristianocremonini.com/wp-content/uploads/2013/07/RaiNews24-logo.jpg</thumbnail>
+</item>
+
 <item>
 <title>LA 7</title>
 <link>rtmp://109.123.116.26/live playpath=fgfdfgfe44?id=62126 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/fgfdfgfe44/1/550/380 live=1</link>
