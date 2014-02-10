@@ -8,6 +8,15 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Juwelo TV</title>
+<link>rtmp://85.214.103.202/juwelo_it playpath=juwelo_it1 swfUrl=http://www.streamcompany-player.de/streamingworld.eu/livestreams/verkettung/juwelo_it/player.swf pageUrl=http://www.streamcompany-player.de/streamingworld.eu/livestreams/verkettung/juwelo_it/hd_live.htm live=1</link>
+<thumbnail>http://www.tivu.tv/_common/images/cover-canali/juwelo.jpg</thumbnail>
+</item>
+
 <item>
 <title>Radio Napoli Emme</title>
 <link>http://wm1.newradio.it:80/cast:8070/?MSWMExt=.asf</link>
