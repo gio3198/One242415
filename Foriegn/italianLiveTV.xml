@@ -8,15 +8,26 @@
 </info>
 ##############################################################################################################################
 
+<item>
+<title>Sky SPORTS 3</title>
+<link>rtmp://31.220.0.104:1935/live playpath=sky3ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3ita&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://static4.wikia.nocookie.net/__cb20100402114809/logopedia/images/5/56/Sky_Sports_3_logo_2000.svg</thumbnail>
+</item>
 
 <item>
-<title>Sky SPORTS 1 OFFLINE</title>
+<title>Sky SPORTS 2</title>
+<link>rtmp://31.220.0.104:1935/live playpath=skuyx2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skuyx2&vw=620&vh=490 live=1</link>
+<thumbnail>http://www.livefootball247.com/wp-content/uploads/2014/01/sky_mx_sports21.png</thumbnail>
+</item>
+
+<item>
+<title>Sky SPORTS 1</title>
 <link>rtmp://31.220.0.103:1935/live playpath=sky1ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1</link>
 <thumbnail>http://tv-live.tv/wp-content/uploads/2013/06/sky-SPORTS-1-live.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sky Calcio OFFLINE</title>
+<title>Sky Calcio</title>
 <link>rtmp://31.220.0.103:1935/live playpath=skycalcio00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcio00&vw=620&vh=490 live=1</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
