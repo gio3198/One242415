@@ -9,6 +9,24 @@
 ##############################################################################################################################
 
 <item>
+<title>LA 7</title>
+<link>rtmp://109.123.116.26/live playpath=fgfdfgfe44?id=62126 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/fgfdfgfe44/1/550/380 live=1</link>
+<thumbnail>http://a.mytrend.it/prp/2013/02/448400/o.157592.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>rtmp://94.32.97.12/satchannel1 playpath=bbc.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf pageUrl=http://sanlorenzoriccione.jimdo.com/bbc-world-news/ live=1</link>
+<thumbnail>http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png</thumbnail>
+</item>
+
+<item>
+<title>San Marino TV</title>
+<link>rtmp://o2.senape.tv:1935/webtv_live4 playpath=0QBXFQ2L0I5P swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://sanlorenzoriccione.jimdo.com/san-marino-tv/ live=1</link>
+<thumbnail>http://www.digital-sat.it/files-admin/Simone/sanmarino-tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Sky SPORTS 3</title>
 <link>rtmp://31.220.0.104:1935/live playpath=sky3ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3ita&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://static4.wikia.nocookie.net/__cb20100402114809/logopedia/images/5/56/Sky_Sports_3_logo_2000.svg</thumbnail>
