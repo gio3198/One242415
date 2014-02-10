@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>RTB Newtwork</title>
+<link>rtmp://fls.6.c3.audiovideoweb.com:443/live playpath=6c3flslive2185 swfUrl=http://custlogin.audiovideoweb.com/cl/assets/mo/mo.swf pageUrl=http://www.rtbnetwork.it/rtb.php?tv=diretta_tv&canale=rtb_international live=1</link>
+<thumbnail>http://www.comunicangolo.com/wp-content/uploads/2013/01/rtb.jpeg</thumbnail>
+</item>
 
 <item>
 <title>Juwelo TV</title>
