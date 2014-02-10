@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>TV UNO</title>
+<link>http://159.253.145.182:80/tvunoaq?MSWMExt=.asf</link>
+<thumbnail>http://www.tvunoaq.tv/immagini/tv1aqlogo12.jpg</thumbnail>
+</item>
+
 <item>
 <title>Sky SPORTS 1</title>
 <link>rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1ita&vw=620&vh=490 live=1</link>
