@@ -66,7 +66,7 @@
 
 <item>
 <title>FASHION TV</title>
-<link>rtmp://stream-23.vty.dailymotion.com:1935/live-dm?auth=1391942689-c1c1c79ad2cc4008908d30b153cdd05d playpath=x12o8so_sd?auth=1391942689-c1c1c79ad2cc4008908d30b153cdd05d swfUrl=http://www.dailymotion.com/[[IMPORT]]/static1.dmcdn.net/flash/dmplayerv4/dmplayer-prod-compressed.swf.vc8c6f869bc7299641?withLoader=1 pageUrl=http://www.dailymotion.com/embed/video/x12o8so live=1</link>
+<link>rtmp://stream-23.vty.dailymotion.com:1935/live-dm?auth=1391942689-c1c1c79ad2cc4008908d30b153cdd05d playpath=x12o8so_sd?auth=1391942689-c1c1c79ad2cc4008908d30b153cdd05d swfUrl=http://www.dailymotion.com/[[IMPORT]]/static1.dmcdn.net/flash/dmplayerv4/dmplayer-prod-compressed.swf.vc8c6f869bc7299641?withLoader=1 pageUrl=http://www.dailymotion.com/embed/video/x12o8so live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_ca.png</thumbnail>
 </item>
 
