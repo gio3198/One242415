@@ -8,6 +8,15 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Canale 5</title>
+<link>rtmp://174.37.222.57/live playpath=dfsdfffd?id=62760 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/dfsdfffd/1/550/380 live=1</link>
+<thumbnail>http://media.tvblog.it/C/Can/Canale5_01.jpg</thumbnail>
+</item>
+
 <item>
 <title>Juwelo TV</title>
 <link>rtmp://85.214.103.202/juwelo_it playpath=juwelo_it1 swfUrl=http://www.streamcompany-player.de/streamingworld.eu/livestreams/verkettung/juwelo_it/player.swf pageUrl=http://www.streamcompany-player.de/streamingworld.eu/livestreams/verkettung/juwelo_it/hd_live.htm live=1</link>
@@ -124,7 +133,7 @@
 
 <item>
 <title>SkyTG24</title>
-<link>rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta live=1 timeout=10</link>
+<link>rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta live=1</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20100531205135/logopedia/images/4/44/Sky_TG24.svg</thumbnail>
 </item>
 
