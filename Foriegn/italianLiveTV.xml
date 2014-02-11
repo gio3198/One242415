@@ -414,12 +414,6 @@
 </item>
 
 <item>
-<title>FOR MUSIC</title>
-<link>rtmp://wowza1.top-ix.org:1935/quartaretetv1 playpath=formusicweb</link>
-<thumbnail>http://a0.twimg.com/profile_images/1640055347/LOGO_NUOVO.jpg</thumbnail>
-</item>
-
-<item>
 <title>RADIO ITALIA TV</title>
 <link>rtmp://cwedge.cdcache.net:1935/cwedge playpath=rilive</link>
 <thumbnail>http://www.storiaradiotv.it/radioitaliaTv.jpg</thumbnail>
