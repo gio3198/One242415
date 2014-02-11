@@ -8,6 +8,15 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Sky SPORTS NEWS</title>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=skyspnews?b8fd7=77ae3fe2489167aa5096e4a988dd4d84 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=skyspnews&width=530&height=400&domain=www.igoal.tv live=1 timeout=10</link>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/302121d1358595649-devlin-saga-everton-football-club-sky-sports-news-uk-logo.png</thumbnail>
+</item>
+
 <item>
 <title>Bein Sports 2</title>
 <link>rtmp://31.220.0.103:1935/live playpath=bt2s swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2s&vw=620&vh=490 live=1 timeout=15</link>
