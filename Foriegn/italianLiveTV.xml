@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>Bein Sports 2</title>
+<link>rtmp://31.220.0.103:1935/live playpath=bt2s swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2s&vw=620&vh=490 live=1 timeout=15</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/beIN-SPORT-logo.jpg</thumbnail>
+</item>
 
 <item>
 <title>SN360(English)</title>
