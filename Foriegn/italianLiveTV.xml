@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>Class CNBC Italia</title>
+<link>http://tilive2.alice.cdn.interbusiness.it/classcnbcbck</link>
+<thumbnail>http://www.classcnbc.it/images/logo1.gif</thumbnail>
+</item>
+
 <item>
 <title>Raido Canale</title>
 <link>rtmp://ca-edge-7.cdn2.streamago.tv:80/streamagoedge/32564?idutente=32564&idcanale=26630&pwd= playpath=26630 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/32564/ live=1 timeout=10</link>
