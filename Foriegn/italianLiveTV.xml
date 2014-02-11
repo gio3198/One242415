@@ -294,12 +294,6 @@
 </item>
 
 <item>
-<title>QVC ITALY</title>
-<link>rtmp://90.84.52.142:1935/live?_fcs_vhost=cp107861.live.edgefcs.net&akmfv=1.8 playpath=QVC_Italy_Stream1200@34577</link>
-<thumbnail>http://cdn.qvc.it/skin/frontend/enterprise/qvc/images/logo-og.jpg</thumbnail>
-</item>
-
-<item>
 <title>Tele Boario (Italy)</title>
 <link>rtmp://91.121.222.160/teleboariotb/ playpath=teleboario.sdp</link>
 <thumbnail>http://www.vallecamonicacultura.it/Public/senza-titolo-1_14.jpg</thumbnail>
