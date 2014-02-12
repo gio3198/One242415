@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>TV Luna</title>
+<link>rtmp://vs2.streamcaster.net:1935/test_live playpath=telebn swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/video/live.aspx?live=2 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_luna_sat.png</thumbnail>
+</item>
 
 <item>
 <title>luna Sport</title>
