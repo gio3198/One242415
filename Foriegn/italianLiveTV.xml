@@ -7,7 +7,11 @@
 <thumbnail></thumbnail>
 </info>
 ##############################################################################################################################
-
+<item>
+<title>Senato TV</title>
+<link>rtmp://flash3.glb.ipercast.net:1935/webtv.senato.it-live/_definst_/ playpath=stream2 swfUrl=http://webtv.senato.it/application/xmanager/projects/leg17/js/webtv/player.swf pageUrl=http://webtv.senato.it/3861 live=1 timeout=10</link>
+<thumbnail>http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg</thumbnail>
+</item>
 
 <item>
 <title>Channel 24</title>
