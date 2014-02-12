@@ -12,7 +12,11 @@
 
 
 
-
+<item>
+<title>jo TV</title>
+<link>rtmp://wms.shared.streamshow.it:80/jotv playpath=jotv swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/jotv.php?height=170&width=300 live=1 timeout=10</link>
+<thumbnail>http://www.jotv.tv/images/homepage/logo_jotv_grande.png</thumbnail>
+</item>
 
 <item>
 <title>History Lab</title>
