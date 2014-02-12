@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>LIRATV</title>
+<link>rtmp://streaming.positivonet.it/live/ playpath=liratv swfUrl=http://streaming.positivonet.it/flowplayer.commercial-3.2.8.swf pageUrl=http://streaming.positivonet.it/streamingplayer.html live=1 timeout=10</link>
+<thumbnail>http://www.liratv.com/wp-content/themes/bignews/images/streaming.jpg</thumbnail>
+</item>
 
 <item>
 <title>jo TV</title>
