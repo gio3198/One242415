@@ -113,12 +113,6 @@
 </item>
 
 <item>
-<title>Italia News</title>
-<link>rtsp://streaming.rai.it/Newsvod/x/vod/ri/italianews/2010/20100127134831italianews_del_27_01_2010.wmv</link>
-<thumbnail>http://www.diariotv.it/wp-content/uploads/2013/06/ITALIA-NEWS-24.png</thumbnail>
-</item>
-
-<item>
 <title>Bein Sports 3 Seria A</title>
 <link>rtmp://31.220.0.133:1935/live playpath=beins3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=beins3&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://por-img.cimcontent.net/cms/data/assets/bin-201311/32c2444aa6b633e3bbc51bc3fe81d227.jpg</thumbnail>
