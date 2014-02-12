@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>Brescia Info 24</title>
+<link>rtmp://wms.shared.streamshow.it:80/bresciainfo24 playpath=bresciainfo24 swfUrl=http://www.bresciasat.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://www.bresciasat.it/brescia-info24.html#.Uvsgw7SGdS4 live=1 timeout=10</link>
+<thumbnail>http://www.wave-tech.it/img/brescia_info_24.png</thumbnail>
+</item>
+
 <item>
 <title>arte network</title>
 <link>rtmp://173.255.137.28:80/tuttositiweb/ playpath=livestream swfUrl=http://173.255.137.28:8000/jw5/player.swf pageUrl=http://www.canale78.it/streaming/streamingcanale78.html live=1 timeout=10</link>
