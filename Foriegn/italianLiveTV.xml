@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>arte network</title>
+<link>rtmp://173.255.137.28:80/tuttositiweb/ playpath=livestream swfUrl=http://173.255.137.28:8000/jw5/player.swf pageUrl=http://www.canale78.it/streaming/streamingcanale78.html live=1 timeout=10</link>
+<thumbnail>http://b.vimeocdn.com/ts/275/221/275221212_640.jpg</thumbnail>
+</item>
 
 <item>
 <title>ab Channel</title>
