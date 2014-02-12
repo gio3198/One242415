@@ -10,6 +10,14 @@
 
 
 
+
+
+<item>
+<title>napoli CANALE 21</title>
+<link>rtmp://live.streamcaster.net:1935/canale21_live playpath=canale21 swfUrl=http://canale21.kronopress.com/script/Flowplayer/flowplayer-3.2.16.swf pageUrl=http://canale21.kronopress.com/player.aspx live=1 timeout=10</link>
+<thumbnail>http://4vector.com/thumb_data/afd-33504.jpg</thumbnail>
+</item>
+
 <item>
 <title>TV Luna</title>
 <link>rtmp://vs2.streamcaster.net:1935/test_live playpath=telebn swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/video/live.aspx?live=2 live=1 timeout=10</link>
