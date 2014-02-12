@@ -12,7 +12,11 @@
 
 
 
-
+<item>
+<title>RADIO BRUNO TV</title>
+<link>rtmp://stream1.troydesign.it/ditv/ playpath=channel3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.radiobruno.it/radio-bruno-tv live=1 timeout=10</link>
+<thumbnail>http://b.vimeocdn.com/ps/599/599836_300.jpg</thumbnail>
+</item>
 
 <item>
 <title>PIEMONTE+</title>
