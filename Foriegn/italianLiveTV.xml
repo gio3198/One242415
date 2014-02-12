@@ -107,12 +107,6 @@
 </item>
 
 <item>
-<title>Rete 4</title>
-<link>rtmp://46.165.251.74/zenex playpath=dhdfkjfgjkilk?id=2915 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/dhdfkjfgjkilk/1/550/380 live=1 timeout=10</link>
-<thumbnail>http://static2.wikia.nocookie.net/__cb20100523132140/logopedia/images/9/98/Rete_4_logo_old.svg</thumbnail>
-</item>
-
-<item>
 <title>Bein Sports 3 Seria A</title>
 <link>rtmp://31.220.0.133:1935/live playpath=beins3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=beins3&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://por-img.cimcontent.net/cms/data/assets/bin-201311/32c2444aa6b633e3bbc51bc3fe81d227.jpg</thumbnail>
