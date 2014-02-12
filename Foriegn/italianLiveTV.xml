@@ -12,6 +12,14 @@
 
 
 
+
+
+<item>
+<title>PIEMONTE+</title>
+<link>http://83.221.105.39:8080/ConsorzioTV_liveweb</link>
+<thumbnail>http://1.bp.blogspot.com/-EeA6suO36xI/UGMa3vPnzrI/AAAAAAAACC4/4POz-hdPJgM/s1600/426266_3817060826430_305363618_n.jpg</thumbnail>
+</item>
+
 <item>
 <title>napoli CANALE 21</title>
 <link>rtmp://live.streamcaster.net:1935/canale21_live playpath=canale21 swfUrl=http://canale21.kronopress.com/script/Flowplayer/flowplayer-3.2.16.swf pageUrl=http://canale21.kronopress.com/player.aspx live=1 timeout=10</link>
