@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>sky SPORTS F1 HD</title>
+<link>rtmp://akamai.kbps.tv:1935/live playpath=skyspf1?27cf9=9d0329272d903cd97f52912257a39f15 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed3.php?s=skyspf1&width=600&height=450&domain=hdembed.com live=1 timeout=10</link>
+<thumbnail>http://thefootball.biz/wp-content/thumbs/custom/S/Sky-Sports-F1-Live-Stream.png</thumbnail>
+</item>
+
 <item>
 <title>play.me</title>
 <link>rtmp://cp107974.live.edgefcs.net/live/ playpath=beep-flash-live@34654 swfUrl=http://s.play.me/img/playmetv/playerDADA.swf?v=0.002 pageUrl=http://www.musicbox.it/ live=1 timeout=10</link>
