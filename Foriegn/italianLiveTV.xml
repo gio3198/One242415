@@ -10,13 +10,6 @@
 
 
 
-
-<item>
-<title>Sky NEWS</title>
-<link>rtmp://50.22.223.48/spull playpath=2069.high.stream </link>
-<thumbnail>http://www.trickybusiness.co.uk/wp-content/uploads/2011/12/skynews_logo.png</thumbnail>
-</item>
-
 <item>
 <title>sky POKER LIVE</title>
 <link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
