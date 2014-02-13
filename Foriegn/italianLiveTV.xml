@@ -11,6 +11,12 @@
 
 
 <item>
+<title>RETE 8</title>
+<link>rtmp://mi-edge-1.cdn2.streamago.tv:80/streamagoedge/39648?idutente=39648&idcanale=36567&pwd= playpath=36567 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/39648/rete-8-sport/ live=1 timeout=10</link>
+<thumbnail>http://www.rete8.it/it/images/template/rete8_sport_630.png</thumbnail>
+</item> 
+
+<item>
 <title>VERGOGNA TV</title>
 <link>rtmp://8fm.stream.internetone.it/streaming/ playpath=8fm.stream swfUrl=http://webtv.vergogna.tv/swf/player-5_8.swf pageUrl=http://webtv.vergogna.tv/ live=1 timeout-10</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtunuG11NGbkMcuDTxrnnjhQ_k2fp4SqmMMTtHQZXNBBqPx94s</thumbnail>
