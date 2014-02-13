@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>play.me</title>
+<link>rtmp://cp107974.live.edgefcs.net/live/ playpath=beep-flash-live@34654 swfUrl=http://s.play.me/img/playmetv/playerDADA.swf?v=0.002 pageUrl=http://www.musicbox.it/ live=1 timeout=10</link>
+<thumbnail>http://b.vimeocdn.com/ps/617/61753_300.jpg</thumbnail>
+</item>
 
 <item>
 <title>8 Video Calabria</title>
