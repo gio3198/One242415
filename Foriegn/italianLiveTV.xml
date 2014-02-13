@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>Musjca TV</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv02/mogulus-user-files/chmusjca/2008/05/23/f4bc0a51-c9ca-4660-95ab-b01a1fddf53e swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&browseMode=false pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Musjca+TV+%28Italy%29&idtv=1946&TVSESS=1022c7a849e8521da8acf4b70ac054d2 live=1 timeout=10</link>
+<thumbnail>http://movies247.mobie.in/images/movies_logo_5.gif</thumbnail>
+</item>
+
 <item>
 <title>sky POKER LIVE</title>
 <link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
