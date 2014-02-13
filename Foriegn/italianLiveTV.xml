@@ -12,6 +12,12 @@
 
 
 <item>
+<title>TELEARENA VERONA</title>
+<link>rtmp://wma07.fluidstream.net/TeleArena playpath=livestream swfUrl=http://media.larena.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://tv-online.in/tele-arena-verona-live live=1 timeout=10</link>
+<thumbnail>http://www.manueldevecchi.com/images/telearena.jpg</thumbnail>
+</item>
+
+<item>
 <title>Italia Film</title>
 <link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chitaliafilm/2009/03/12/fbb97d47-1068-42e4-a0c0-706cbbbbecb0 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&browseMode=false pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Italia+Film+%28Italy%29&idtv=1806&TVSESS=1022c7a849e8521da8acf4b70ac054d2 live=1 timeout=10</link>
 <thumbnail>http://thegothamrogue.files.wordpress.com/2014/01/movies_logo.gif</thumbnail>
