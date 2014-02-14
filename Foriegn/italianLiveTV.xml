@@ -9,12 +9,6 @@
 ##############################################################################################################################
 
 
-
-<info>
-<message>Please use my Italian Live TV in the Mashupxbmc LIVESTREAMS section, which has more reliable links that work.</message>
-<thumbnail></thumbnail>
-</info>
-
 <item>
 <title>Primocanale</title>
 <link>rtmpt://mediamouse.it:8081/live/ playpath=primocanale1 swfUrl=http://www.primocanale.it/player/player2.swf pageUrl=http://www.primocanale.it/class/outstreaming.php?w=629&h=335&autostart live=1 timeout=10</link>
