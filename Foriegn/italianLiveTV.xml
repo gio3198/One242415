@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>TeleRadioErre</title>
+<link>rtmp://www.teleradioerre.com/live playpath=teleradioerre swfUrl=http://www.teleradioerre.it/stream/live.swf pageUrl=http://www.teleradioerre.it/stream/ live=1 timeout=10</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000378386786/517a813367ad6f091d4e53e4c651ef9c.jpeg</thumbnail>
+</item>
 
 <item>
 <title>TeleSerio</title>
