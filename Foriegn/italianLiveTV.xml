@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>ILikeTV</title>
+<link>rtmp://rm-edge-5.cdn2.streamago.tv:80/streamagoedge/33902?idutente=33902&idcanale=27961&pwd= playpath=27961 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=http://www.streamago.tv/channel/27961/default/iframe/ live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/7/72/Iliketv.png</thumbnail>
+</item>
 
 <item>
 <title>TeleMia La TV Dei Due Mari</title>
