@@ -8,6 +8,13 @@
 </info>
 ##############################################################################################################################
 
+
+<item>
+<title>CNN International</title>
+<link>rtmp://a.cdn.livenewschat.eu/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://weplaylive.tv/international-stream/ live=1 timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/-uO_jCDv-1SI/UafIFX1DwFI/AAAAAAAAurY/qLzUx0f158g/s1600/CNN%2BInternational%2Blogo%2B2011.png</thumbnail>
+</item>
+
 <item>
 <title>ILikeTV</title>
 <link>rtmp://rm-edge-5.cdn2.streamago.tv:80/streamagoedge/33902?idutente=33902&idcanale=27961&pwd= playpath=27961 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=http://www.streamago.tv/channel/27961/default/iframe/ live=1 timeout=10</link>
