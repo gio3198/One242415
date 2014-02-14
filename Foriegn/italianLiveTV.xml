@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>TeleSerio</title>
+<link>http://159.253.145.182:80/tvunoaq?MSWMExt=.asf</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TeleSirio.jpg</thumbnail>
+</item>
+
 <item>
 <title>CNN International</title>
 <link>rtmp://a.cdn.livenewschat.eu/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://weplaylive.tv/international-stream/ live=1 timeout=10</link>
