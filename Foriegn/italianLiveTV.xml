@@ -508,8 +508,8 @@
 </item>
 
 <item>
-<title>RMK TV Sicily</title>
-<link>http://stream2.ion.it/rmktv</link>
+<title>RMK TV Sicilia</title>
+<link>http://stream2.ion.it:80/rmktv?MSWMExt=.asf</link>
 <thumbnail>http://rmk.italiabit.net/wp-content/uploads/2013/04/rmk_115_200.jpg</thumbnail>
 </item>
 
