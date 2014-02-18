@@ -11,7 +11,11 @@
 
 
 
-
+<item>
+<title>CTS Sicilia</title>
+<link>rtmp://vs2.streamcaster.net:1935/cts_live playpath=ctsnotizie swfUrl=http://www.ctstv.it/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.ctstv.it/ live=1 timeout=10</link>
+<thumbnail>http://www.ctstv.it/images/bannerCTS.jpg</thumbnail>
+</item>
 
 <item>
 <title>Alpa Uno Sicilia</title>
