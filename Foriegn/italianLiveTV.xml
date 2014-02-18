@@ -624,12 +624,6 @@
 </item>
 
 <item>
-<title>RADIO MONTE CARLO</title>
-<link>rtmp://fms.105.net:1935/live playpath=rmc1</link>
-<thumbnail>http://100ansderadio.free.fr/HistoiredelaRadio/Radio-Monte-Carlo/Visuel01.jpg</thumbnail>
-</item>
-
-<item>
 <title>CIELO</title>
 <link>rtmp://94.32.97.8/sardegna1/ playpath=live1.stream</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/158063_347833622889_1135953882_n.jpg</thumbnail>
