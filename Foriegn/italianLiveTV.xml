@@ -203,7 +203,7 @@
 </item> 
 
 <item>
-<title>VERGOGNA TV</title>
+<title>VERGOGNA TV Varese</title>
 <link>rtmp://8fm.stream.internetone.it/streaming/ playpath=8fm.stream swfUrl=http://webtv.vergogna.tv/swf/player-5_8.swf pageUrl=http://webtv.vergogna.tv/ live=1 timeout-10</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtunuG11NGbkMcuDTxrnnjhQ_k2fp4SqmMMTtHQZXNBBqPx94s</thumbnail>
 </item>
