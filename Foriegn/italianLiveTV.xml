@@ -101,12 +101,6 @@
 </item>
 
 <item>
-<title>AC Milan TV (VOD)</title>
-<link>rtmp://cdnbalancer.twww.tv:1935/vod1 playpath=mp4:1/2013/07/15/1252626_1373879462.mp4 swfUrl=http://milannewstv.twww.tv/embed.swf pageUrl=http://milannewstv.twww.tv/?eonair live=1 timeout=10</link>
-<thumbnail>http://1.bp.blogspot.com/-Ywb2AGQYMaA/T4vS9UZoBLI/AAAAAAAABJU/or-pRV_bnQ8/s1600/BLOGSPOT-ACMILAN-LOGO-6.JPG</thumbnail>
-</item>
-
-<item>
 <title>Radio Italy Live New York</title>
 <link>http://tier1.radiostreamlive.com:8040/radioitaly_128</link>
 <thumbnail>http://a3.mzstatic.com/us/r30/Purple/v4/50/be/85/50be85b1-8c0d-b728-d7bd-00d6401d377c/screen480x480.jpeg</thumbnail>
