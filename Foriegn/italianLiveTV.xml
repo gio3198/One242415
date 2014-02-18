@@ -155,18 +155,6 @@
 </item>
 
 <item>
-<title>Primocanale</title>
-<link>rtmpt://mediamouse.it:8081/live/ playpath=primocanale1 swfUrl=http://www.primocanale.it/player/player2.swf pageUrl=http://www.primocanale.it/class/outstreaming.php?w=629&h=335&autostart live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/primocanale.png</thumbnail>
-</item>
-
-<item>
-<title>Primocanale Sport</title>
-<link>rtmpt://mediamouse.it:8081/live/ playpath=primocanale1 swfUrl=http://www.primocanale.it/player/player2.swf pageUrl=http://www.primocanale.it/class/outstreaming.php?w=500&h=398&message live=1 timeout=10</link>
-<thumbnail>http://www.maremontiarenzano.org/uploads/images/primocanalesport.jpg</thumbnail>
-</item>
-
-<item>
 <title>TEN TeleuropaNetwork</title>
 <link>rtmp://212-70.livestream.com/mogulus-stream-edge/tenlive playpath>rtmp://212-96.livestream.com/affiliateStream/tenlive/6c69766572657065617465723a72746d703a2f2f3231322d39362eÈc69766573747265616d2e636f6d2f6d6f67756c75732f74656e6c6976652f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?time=&iconColor=0x555555&borderColor=0xCCCCCC&autoPlay=true&allowchat=false&hideInfo=true&lschannel=true&allowChat=true&showBorderControlBar=false&browseMode=false&showMoreVideos=false&jsEnabled=false&textLines=2&t=690433&hideChannelBranding=true&mode=false pageUrl=http://www.livestream.com/embed/tenlive?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=690433 live=1 timeout=10</link>
 <thumbnail>https://pbs.twimg.com/profile_images/707025002/ten_logo.jpg</thumbnail>
