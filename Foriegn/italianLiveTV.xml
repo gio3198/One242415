@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>TV7</title>
+<title>TV7 Benevento</title>
 <link>rtmp://37.9.228.45:1949/itstream65 playpath=itstream65 swfUrl=http://embed.itstream.tv/jwp/5/player.swf pageUrl=http://embed.itstream.tv/palinsesto.php?code=65&width=560&height=336&position_logo=top-left live=1 timeout=10</link>
 <thumbnail>http://cdn8.staztic.com/app/a/2256/2256212/tv7-benevento-2-0-s-307x512.jpg</thumbnail>
 </item>
