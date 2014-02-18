@@ -125,7 +125,7 @@
 </item>
 
 <item>
-<title>TRM TV</title>
+<title>TRM TV Potenza</title>
 <link>rtmp://flash.streamingmedia.it/TRM playpath=livestream swfUrl=http://flash.streamingmedia.it:8000/player/player.swf pageUrl>http://www.trmtv.it/home/ live=1 timeout=10</link>
 <thumbnail>http://www.trmtv.it/home/wp-content/themes/trmtv/styles/default/img/logo_trm_site_big.png</thumbnail>
 </item>
