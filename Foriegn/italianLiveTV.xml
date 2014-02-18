@@ -192,7 +192,7 @@
 </item>
 
 <item>
-<title>8 Video Calabria</title>
+<title>8 Video Calabria Crotone</title>
 <link>rtmp://wms.shared.streamshow.it:80/videocalabria playpath=videocalabria swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/videocalabria.php?height=420&width=729 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/76/8_Video_Calabria_-_Logo.jpg</thumbnail>
 </item>
