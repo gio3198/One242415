@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>AzzurraTV Novara</title>
+<link>rtmp://188.40.2.148:1935/azzurranews playpath=live.sdp swfUrl=http://www.tuttonotizie.info/jwplayer/player.swf pageUrl=http://www.tuttonotizie.info/webtv.html live=1 timeout=10</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Azzurra-TV.jpg</thumbnail>
+</item>
+
 <item>
 <title>Telebelluno Dolomiti Belluno, Veneto</title>
 <link>rtmp://video.reteveneta.it:1935/live playpath=ReteVenetaStream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.reteveneta.it/live.aspx live=1 timeout=10</link>
