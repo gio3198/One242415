@@ -240,7 +240,7 @@
 </item>
 
 <item>
-<title>luna Sport</title>
+<title>Luna Sport Caserta</title>
 <link>rtmp://vs2.streamcaster.net:1935/test_live playpath=lunasport swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/video/live.aspx?live=3 live=1 timeout=10</link>
 <thumbnail>http://www.salernobasket92.it/wp-content/uploads/2013/10/Lunasport.jpg</thumbnail>
 </item>
