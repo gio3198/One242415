@@ -10,6 +10,15 @@
 
 
 
+
+
+
+<item>
+<title>Alpa Uno Sicilia</title>
+<link>rtmp://vs2.streamcaster.net:1935/test_live playpath=alpauno swfUrl=http://www.alpauno.com/wp-content/themes/newspress/includes/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.alpauno.com/ live=1 timeout=10</link>
+<thumbnail>https://lh5.googleusercontent.com/-We645pgFA2U/AAAAAAAAAAI/AAAAAAAAACs/XA9l9qhbHho/photo.jpg</thumbnail>
+</item>
+
 <item>
 <title>RADIO MONTE CARLO</title>
 <link>rtmp://fms.105.net:1935/live playpath=rmc1 swfUrl=http://video.radiomontecarlo.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=http://video.radiomontecarlo.net/com/universalmind/tv/rmc/videoXML.xml&advXML=http://video.radiomontecarlo.net/com/universalmind/adsWizzConfig/1.xml pageUrl=http://www.radiomontecarlo.net/video/ live=1 timeout=10</link>
