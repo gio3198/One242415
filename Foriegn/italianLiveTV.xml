@@ -10,6 +10,14 @@
 
 
 
+
+
+<item>
+<title>Telescout Europa Sicilia</title>
+<link>rtmp://fls.5.c3.audiovideoweb.com:443/live playpath=5c3flslive2715 swfUrl=http://custlogin.audiovideoweb.com/cl/assets/mo/mo.swf pageUrl=http://www.tsetv.it/TSE_Telescouteuropa//Home_page_files/widget2_markup.html live=1 timeout=10</link>
+<thumbnail>http://www.storiaradiotv.it/TSE%20TELESCOUTEUROPA%20LOGO.jpg</thumbnail>
+</item>
+
 <item>
 <title>TELE 8 Sicilia</title>
 <link>rtmp://vs2.streamcaster.net:1935/tele8_live playpath=tele8 swfUrl=http://www.tele8tv.com/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.tele8tv.com/video/live.aspx?live=1&token=#$f5c286423cac4a6e762 live=1 timeout=10</link>
