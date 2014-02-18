@@ -342,7 +342,7 @@
 </item>
 
 <item>
-<title>Canale Dieci</title>
+<title>Canale Dieci Roma</title>
 <link>rtmp://176.31.226.78/ch10live playpath=stream1.sdp swfUrl=http://www.canaledieci.it/Flash/flowplayer.commercial-3.2.13.swf pageUrl=http://www.canaledieci.it/ live=1</link>
 <thumbnail>http://www.canaledieci.it/Images/Home/LogoCh10.png</thumbnail>
 </item>
