@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>TELE 8 Sicilia</title>
+<link>rtmp://vs2.streamcaster.net:1935/tele8_live playpath=tele8 swfUrl=http://www.tele8tv.com/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.tele8tv.com/video/live.aspx?live=1&token=#$f5c286423cac4a6e762 live=1 timeout=10</link>
+<thumbnail>http://www.mazaraonline.it/public_html/wp-content/uploads/2010/04/tele8.jpg</thumbnail>
+</item>
 
 <item>
 <title>Teleacras Sicilia</title>
