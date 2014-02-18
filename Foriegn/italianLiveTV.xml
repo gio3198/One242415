@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>Tele Sicilia</title>
+<link>rtmp://vs2.streamcaster.net:1935/cts_live playpath=telesicilia swfUrl=http://www.ctstv.it/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.ctstv.it/ live=1 timeout=10</link>
+<thumbnail>http://vs2.streamcaster.net/ctstv/web/logocanaleweb_72Logo%20Telesicilia%203.jpg</thumbnail>
+</item>
 
 <item>
 <title>CTS Sicilia</title>
