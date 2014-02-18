@@ -11,7 +11,7 @@
 
 
 <item>
-<title>Telebelluno Dolomiti </title>
+<title>Telebelluno Dolomiti Belluno, Veneto</title>
 <link>rtmp://video.reteveneta.it:1935/live playpath=ReteVenetaStream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.reteveneta.it/live.aspx live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/5/5e/Telebelluno_logo.jpg</thumbnail>
 </item>
