@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>BLUSTAR TV</title>
+<title>BLUSTAR TV Taranto</title>
 <link>rtmp://wms.shared.streamshow.it:80/blustartv playpath=blustartv swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/blustar.php?height=270&width=480 live=1 timeout=10</link>
 <thumbnail>http://cdn7.staztic.com/app/a/2268/2268698/blustar-tv-2-0-s-307x512.jpg</thumbnail>
 </item>
