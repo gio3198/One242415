@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>Teleacras Sicilia</title>
+<link>rtmp://37.59.30.11/teleacras-tv1 playpath=teleacras-tv1 swfUrl=http://www.teleacras.com/site_01/site_04/modules/mod_jwmedia/player.swf pageUrl=http://www.teleacras.com/site_01/site_04/ live=1 timeout=10</link>
+<thumbnail>http://www.teleacras.com/home_02/images/stories/LAVORO/teleacras.jpg</thumbnail>
+</item>
+
 <item>
 <title>Tele Sicilia</title>
 <link>rtmp://vs2.streamcaster.net:1935/cts_live playpath=telesicilia swfUrl=http://www.ctstv.it/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.ctstv.it/ live=1 timeout=10</link>
