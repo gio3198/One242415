@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>TV7</title>
+<link>rtmp://37.9.228.45:1949/itstream65 playpath=itstream65 swfUrl=http://embed.itstream.tv/jwp/5/player.swf pageUrl=http://embed.itstream.tv/palinsesto.php?code=65&width=560&height=336&position_logo=top-left live=1 timeout=10</link>
+<thumbnail>http://cdn8.staztic.com/app/a/2256/2256212/tv7-benevento-2-0-s-307x512.jpg</thumbnail>
+</item>
+
 <item>
 <title>TOP GUSTO LOMBARDIA</title>
 <link>http://www.youtube.com/api/manifest/hls_playlist/id/NQipN3BbZe8.1/itag/93/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/newshard/yes/hls_chunk_host/www.youtube.com/gir/yes/dg_shard/NQipN3BbZe8.1_93/maudio/1/cp/U0hYR1ZSVl9OTUNOOF9OTFpJOmtLaVhEYUxQTnFq/pmbypass/yes/playlist_type/LIVE/upn/asPn2oKa1FI/sver/3/fexp/935612,930005,914073,916612,919815,937417,913434,936910,936913,902907/cpn/c0Vu-UZ1N7_QKSIU/ip/192.0.249.146/ipbits/8/expire/1392678893/sparams/ip,ipbits,expire,id,itag,source,ratebypass,live,cmbypass,newshard,hls_chunk_host,gir,dg_shard,maudio,cp,pmbypass,playlist_type/signature/8C3F7E15D20B779C502383C6B90CBB2C8EF7DFDE.199ED3B784155957A9D8A65E3253565F5AA19FB1/key/dg_yt0/file/index.m3u8?start_seq=361163</link>
