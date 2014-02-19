@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>Fano TV Fano, Marche</title>
+<link>rtmp://live.streamcaster.net:1935/live playpath=fanotv swfUrl=http://fanotvlive.kronopress.com/script/Flowplayer/flowplayer-3.2.16.swf pageUrl=http://fanotvlive.kronopress.com/player.aspx live=1 timeout=10</link>
+<thumbnail>http://www.livestream.com/filestore/logos/ed739632-b63f-0089-186e-331f2fa14c7d-banner.jpg</thumbnail>
+</item>
 
 <item>
 <title>Teleischia Ischia, Campania</title>
