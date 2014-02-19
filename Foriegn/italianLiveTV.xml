@@ -12,6 +12,12 @@
 
 
 <item>
+<title>Telenuova Pagani, Campania</title>
+<link>rtmp://streaming.positivonet.it/live playpath=idroid swfUrl=http://www.telenuova.tv/streaming/flowplayer.commercial-3.2.8.swf pageUrl=http://www.telenuova.tv/streaming/telenuova.html live=1 timeout=10</link>
+<thumbnail>http://www.telenuova.tv/streaming/Telenuova.jpg</thumbnail>
+</item>
+
+<item>
 <title>AzzurraTV Novara</title>
 <link>rtmp://188.40.2.148:1935/azzurranews playpath=live.sdp swfUrl=http://www.tuttonotizie.info/jwplayer/player.swf pageUrl=http://www.tuttonotizie.info/webtv.html live=1 timeout=10</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Azzurra-TV.jpg</thumbnail>
