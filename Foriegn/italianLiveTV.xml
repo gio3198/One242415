@@ -9,9 +9,6 @@
 ##############################################################################################################################
 
 
-
-
-
 <item>
 <title>TeleStudio Modena, Emilia-Romagna</title>
 <link>rtmp://fms2.shared.streamshow.it/telestudiomo playpath=telestudiomo swfUrl=http://www.telestudiomodena.it/flowplayer/flowplayer.commercial-3.2.15.swf pageUrl=http://www.telestudiomodena.it/telestudio.html live=1 timeout=10</link>
