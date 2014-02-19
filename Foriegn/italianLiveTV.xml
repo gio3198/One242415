@@ -331,7 +331,7 @@
 
 <item>
 <title>Sky SPORTS NEWS</title>
-<link>http://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+<link>rtmp://31.220.0.133:1935/live playpath>ssns swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssns&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/302121d1358595649-devlin-saga-everton-football-club-sky-sports-news-uk-logo.png</thumbnail>
 </item>
 
