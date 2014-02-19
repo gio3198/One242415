@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>DI.TV  Imola, Emilia-Romagna</title>
+<link>rtmp://stream1.troydesign.it/ditv/playpath=channel1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.di-tv.net/streaming/ditv90.html live=1 timeout=10</link>
+<thumbnail>http://www.monskallentoft.se/upl/images/74218.gif</thumbnail>
+</item>
 
 <item>
 <title>TELEDUCATO PIACENZA</title>
