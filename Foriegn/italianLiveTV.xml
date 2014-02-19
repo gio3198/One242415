@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>TELEDUCATO PARMA</title>
+<link>rtmp://wms.shared.streamshow.it:80/teleducatopr playpath=teleducatopr swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/teleducatopr.php?height=320&width=480 live=1 timeout=10</link>
+<thumbnail>http://www.teleducato.it/themes/template/img/logo_top.png</thumbnail>
+</item>
 
 <item>
 <title>Primocanale</title>
