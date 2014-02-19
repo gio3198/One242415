@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>TELEDUCATO PIACENZA</title>
+<link>rtmp://wms.shared.streamshow.it:80/teleducatopc playpath=teleducatopc swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/teleducatopc.php?height=320&width=480 live=1 timeout=10</link>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t1/s160x160/1460039_397737293692349_510682772_a.png</thumbnail>
+</item>
+
 <item>
 <title>TELEDUCATO PARMA</title>
 <link>rtmp://wms.shared.streamshow.it:80/teleducatopr playpath=teleducatopr swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/teleducatopr.php?height=320&width=480 live=1 timeout=10</link>
