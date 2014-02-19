@@ -11,6 +11,13 @@
 
 
 
+
+<item>
+<title>Teleischia Ischia, Campania</title>
+<link>rtmp://live.streamcaster.net/test_live playpath=teleischia swfUrl=http://www.teleischia.it/script/Flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.teleischia.it/default.aspx live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/0/07/Logo_teleischia.png</thumbnail>
+</item>
+
 <item>
 <title>Telenuova Pagani, Campania</title>
 <link>rtmp://streaming.positivonet.it/live playpath=idroid swfUrl=http://www.telenuova.tv/streaming/flowplayer.commercial-3.2.8.swf pageUrl=http://www.telenuova.tv/streaming/telenuova.html live=1 timeout=10</link>
