@@ -10,6 +10,15 @@
 
 
 
+
+
+
+<item>
+<title>VideoTolentino Tolentino, Marche</title>
+<link>http://streaming1.bsnewline.com:80/videotolentino</link>
+<thumbnail>http://www.tvdream.net/immagini/videotolentino.gif</thumbnail>
+</item>
+
 <item>
 <title>Fano TV Fano, Marche</title>
 <link>rtmp://live.streamcaster.net:1935/live playpath=fanotv swfUrl=http://fanotvlive.kronopress.com/script/Flowplayer/flowplayer-3.2.16.swf pageUrl=http://fanotvlive.kronopress.com/player.aspx live=1 timeout=10</link>
