@@ -13,6 +13,18 @@
 
 
 <item>
+<title>E TV Marche</title>
+<link>rtmp://vs2.streamcaster.net:1935/etvmarche_live playpath=etvmarche swfUrl=http://www.etvmarche.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.etvmarche.it/video/live.aspx?live=1&token=56c9b6f592bf9d3cde2</link>
+<thumbnail>http://www.sutorbasket.it/img/public/etv.jpg</thumbnail>
+</item>
+
+<item>
+<title>CLASS CNBC</title>
+<link>mms://se-rm4-7.se.tilive1.alice.cdn.interbusiness.it/classcnbc</link>
+<thumbnail>http://www.classcnbc.it/images/logo1.gif</thumbnail>
+</item>
+
+<item>
 <title>ALTO ADIGE TV Bolzano</title>
 <link>rtsp://77.72.196.214:8554/live/mp4:AltoAdigeTV</link>
 <thumbnail>http://www.altoadigetv.it/images/live_480x360.jpg</thumbnail>
