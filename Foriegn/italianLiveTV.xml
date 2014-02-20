@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>Sky Movies Premiere</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movprem swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<thumbnail>http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/premiere.png_1237299444.png</thumbnail>
+</item>
 
 <item>
 <title>Bein Sport 15 HD</title>
