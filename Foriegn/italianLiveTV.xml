@@ -564,7 +564,7 @@
 
 <item>
 <title>Sky SPORTS 3</title>
-<link>rtmp://31.220.0.104:1935/live playpath=sky3ita swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3ita&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.23:1935/redirect/skysport3 pageurl=http://hdcast.org/</link>
 <thumbnail>http://static4.wikia.nocookie.net/__cb20100402114809/logopedia/images/5/56/Sky_Sports_3_logo_2000.svg</thumbnail>
 </item>
 
