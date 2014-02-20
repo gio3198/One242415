@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>ALTO ADIGE TV Bolzano</title>
+<link>rtsp://77.72.196.214:8554/live/mp4:AltoAdigeTV</link>
+<thumbnail>http://www.altoadigetv.it/images/live_480x360.jpg</thumbnail>
+</item>
+
 <item>
 <title>TeleStudio Modena, Emilia-Romagna</title>
 <link>rtmp://fms2.shared.streamshow.it/telestudiomo playpath=telestudiomo swfUrl=http://www.telestudiomodena.it/flowplayer/flowplayer.commercial-3.2.15.swf pageUrl=http://www.telestudiomodena.it/telestudio.html live=1 timeout=10</link>
