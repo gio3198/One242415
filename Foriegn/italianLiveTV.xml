@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>Brescia Punto TV</title>
+<link>rtmp://wma07.fluidstream.net/BresciaTV playpath=livestream swfUrl=http://media.bresciaoggi.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.bresciaoggi.it/publisher/647_live/section/ live=1 timeout=10</link>
+<thumbnail>http://riflessiluce.altervista.org/wp-content/uploads/brescia-punto-tv.jpg</thumbnail>
+</item>
+
 <item>
 <title>TELEMANTOVA  Mantova, Lombardia</title>
 <link>rtmp://wma07.fluidstream.net/TeleMantova playpath=livestream swfUrl=http://media.telemantova.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.telemantova.it/publisher/724_live/section/ live=1 timeout=10</link>
