@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>ITALIA 1</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://208.43.81.145/zenex playpath=werty456254?id=2880 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=1 pageUrl=http://www.zenex.tv/embedplayer/werty456254/1/550/380 conn=S:OK</link>
+<thumbnail>http://www.qualitydubbing.com/emittenti/data/thumbnails1/09)_italia_1.png</thumbnail>
+</item>
+
 <item>
 <title>Football TV VOD</title>
 <link>http://cdnbalancer.twww.tv:1935/vod361/_definst_/mp4:361/2013/06/18/1248727_1371549902.mp4/stml.m3u8</link>
