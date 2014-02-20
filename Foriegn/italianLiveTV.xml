@@ -11,7 +11,11 @@
 
 
 
-
+<item>
+<title>RETE55 Varese</title>
+<link>rtmp://rete55.stream.internetone.it/streaming playpath=rete55.stream swfUrl=http://webtv.rete55news.tv/swf/player-5_8.swf pageUrl=http://webtv.rete55news.tv/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png</thumbnail>
+</item>
 
 <item>
 <title>Rete Oro Roma</title>
