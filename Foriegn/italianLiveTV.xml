@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>TELEMANTOVA  Mantova, Lombardia</title>
+<link>rtmp://wma07.fluidstream.net/TeleMantova playpath=livestream swfUrl=http://media.telemantova.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.telemantova.it/publisher/724_live/section/ live=1 timeout=10</link>
+<thumbnail>http://media.telemantova.it/media/siti/tmn/images/tmn.jpg</thumbnail>
+</item>
 
 <item>
 <title>Extra TV Frosinone</title>
