@@ -8,6 +8,15 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Eurosport</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/65es9l1s2x2ei80 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
+<thumbnail>http://static.3dsconnect.com/2011/12/eurosport.png</thumbnail>
+</item>
+
 <item>
 <title>EuroNews Italia</title>
 <link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/it_video750_rtp.sdp</link>
