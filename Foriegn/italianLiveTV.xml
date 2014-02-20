@@ -9,6 +9,15 @@
 ##############################################################################################################################
 
 
+
+
+
+<item>
+<title>Bein Sport 15 HD</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to/edge playpath=vi4ymd491z30eu6 swfUrl=http://www.ilive.to/player/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h34 </link>
+<thumbnail>http://3.bp.blogspot.com/-y-C2LpPukAM/UstOdvCGLLI/AAAAAAAAA9s/rWEBQFwZVO8/s1600/bein+sport+15HD.png</thumbnail>
+</item>
+
 <item>
 <title>TSD TV Arezzo</title>
 <link>rtmp://fls.6.c3.audiovideoweb.com:443/live playpath=6c3flslive2198 swfUrl=http://custlogin.audiovideoweb.com/cl/assets/mo/mo.swf pageUrl=http://www.tsdtv.it/live/ live=1</link>
