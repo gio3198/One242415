@@ -563,7 +563,7 @@
 
 <item>
 <title>Sky Calcio</title>
-<link>rtmp://31.220.0.103:1935/live playpath=skycalcio00 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcio00&vw=620&vh=490 live=1</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/7f4uk9psy3gtok7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
 
