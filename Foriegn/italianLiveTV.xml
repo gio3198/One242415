@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>,Real Madrid TV</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/v70gtfkuakbsmbm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+</item>
 
 <item>
 <title>Eurosport</title>
