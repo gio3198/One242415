@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>Extra TV Frosinone</title>
+<link>rtmp://msh0080.stream.seeweb.it:80/live playpath=extratv1.sdp swfUrl=http://www.extratv.it/player.swf pageUrl=http://www.extratv.it/streaming.html live=1 timeout=10</link>
+<thumbnail>http://www.laprovinciaquotidiano.it/wp-content/uploads/2012/10/extratv.jpeg</thumbnail>
+</item>
+
 <item>
 <title>RAI Sport</title>
 <link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge</link>
