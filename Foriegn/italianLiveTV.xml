@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>EuroNews Italia</title>
+<link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/it_video750_rtp.sdp</link>
+<thumbnail>http://3.bp.blogspot.com/_T961o3r1ib8/SsUvf5oUsOI/AAAAAAAAByI/gFu2MnQeZlM/s1600/800px-EuroNews_svg.png</thumbnail>
+</item>
 
 <item>
 <title>Sky Movies Premiere</title>
