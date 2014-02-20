@@ -11,6 +11,13 @@
 
 
 
+
+<item>
+<title>RETESOLE Roma</title>
+<link>mms://streaming1.bsnewline.com/retesoleroma</link>
+<thumbnail>http://www.freeetv.com//images/tv7/retesole.jpg</thumbnail>
+</item>
+
 <item>
 <title>RETE55 Varese</title>
 <link>rtmp://rete55.stream.internetone.it/streaming playpath=rete55.stream swfUrl=http://webtv.rete55news.tv/swf/player-5_8.swf pageUrl=http://webtv.rete55news.tv/</link>
