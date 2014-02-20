@@ -13,7 +13,7 @@
 
 
 <item>
-<title>E TV Marche</title>
+<title>E TV Marche Ancona</title>
 <link>rtmp://vs2.streamcaster.net:1935/etvmarche_live playpath=etvmarche swfUrl=http://www.etvmarche.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.etvmarche.it/video/live.aspx?live=1&token=56c9b6f592bf9d3cde2</link>
 <thumbnail>http://www.sutorbasket.it/img/public/etv.jpg</thumbnail>
 </item>
