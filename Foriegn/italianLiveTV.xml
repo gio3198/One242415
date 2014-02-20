@@ -10,59 +10,7 @@
 
 
 
-<item>
-<title>ITALIA 1</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://208.43.81.145/zenex playpath=werty456254?id=2880 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=1 pageUrl=http://www.zenex.tv/embedplayer/werty456254/1/550/380 conn=S:OK</link>
-<thumbnail>http://www.qualitydubbing.com/emittenti/data/thumbnails1/09)_italia_1.png</thumbnail>
-</item>
 
-<item>
-<title>Football TV VOD</title>
-<link>http://cdnbalancer.twww.tv:1935/vod361/_definst_/mp4:361/2013/06/18/1248727_1371549902.mp4/stml.m3u8</link>
-<thumbnail>http://www.dpcdsb.org/NR/rdonlyres/2903F7D4-388D-414C-A7FE-83FAB02602B7/84333/soccer.gif</thumbnail>
-</item>
-
-<item>
-<title>RAI 2</title>
-<link>http://212.162.68.162/prodtvr2</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/8/83/20100521044209!Logo_Rai_2_2010.svg</thumbnail>
-</item>
-
-<item>
-<title>SkySports F1 HD</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/tc4kwcn5dqfvncd pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
-<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2009/03/500px-Sky_Sports_F1_HD.svg_.png</thumbnail>
-</item>
-
-<item>
-<title>,Real Madrid TV</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/v70gtfkuakbsmbm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eurosport</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/65es9l1s2x2ei80 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
-<thumbnail>http://static.3dsconnect.com/2011/12/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>EuroNews Italia</title>
-<link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/it_video750_rtp.sdp</link>
-<thumbnail>http://3.bp.blogspot.com/_T961o3r1ib8/SsUvf5oUsOI/AAAAAAAAByI/gFu2MnQeZlM/s1600/800px-EuroNews_svg.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Premiere</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movprem swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
-<thumbnail>http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/premiere.png_1237299444.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 15 HD</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to/edge playpath=vi4ymd491z30eu6 swfUrl=http://www.ilive.to/player/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to/ token=abc109h34 </link>
-<thumbnail>http://3.bp.blogspot.com/-y-C2LpPukAM/UstOdvCGLLI/AAAAAAAAA9s/rWEBQFwZVO8/s1600/bein+sport+15HD.png</thumbnail>
-</item>
 
 <item>
 <title>TSD TV Arezzo</title>
