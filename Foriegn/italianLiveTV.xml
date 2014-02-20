@@ -10,6 +10,15 @@
 
 
 
+
+
+
+<item>
+<title>Orler TV</title>
+<link>rtsp://173.255.137.28:80/orler/livestream</link>
+<thumbnail>https://lh5.googleusercontent.com/-ckgyKOfZ1wY/Tfk4UpJFmOI/AAAAAAAAceY/XZtGinuwCFM/s1600/ORLER%252520TV%252520133.jpg</thumbnail>
+</item>
+
 <item>
 <title>Landscape Channel HD</title>
 <link>http://130.88.20.233:1237/test.flv</link>
