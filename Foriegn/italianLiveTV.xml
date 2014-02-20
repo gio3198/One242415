@@ -13,6 +13,18 @@
 
 
 <item>
+<title>Tele Luna</title>
+<link>rtmp://vs2.streamcaster.net:1935/test_live playpath=teleluna swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/ live=1</link>
+<thumbnail>http://vs2.streamcaster.net/lunaset/6330b29a-cf7f-4ceb-a19a-d1160095e944.png</thumbnail>
+</item>
+
+<item>
+<title>Siena TV</title>
+<link>rtmp://live.cdnplayer.com:1935/live729/streamitlivesienatv</link>
+<thumbnail>http://b.vimeocdn.com/ps/669/669768_300.jpg</thumbnail>
+</item>
+
+<item>
 <title>RETESOLE Roma</title>
 <link>mms://streaming1.bsnewline.com/retesoleroma</link>
 <thumbnail>http://www.freeetv.com//images/tv7/retesole.jpg</thumbnail>
