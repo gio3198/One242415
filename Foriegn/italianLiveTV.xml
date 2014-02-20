@@ -9,6 +9,19 @@
 ##############################################################################################################################
 
 
+
+
+
+
+
+
+
+<item>
+<title>SkySports F1 HD</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/tc4kwcn5dqfvncd pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
+<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2009/03/500px-Sky_Sports_F1_HD.svg_.png</thumbnail>
+</item>
+
 <item>
 <title>,Real Madrid TV</title>
 <link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/v70gtfkuakbsmbm pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
