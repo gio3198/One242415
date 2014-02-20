@@ -570,7 +570,7 @@
 
 <item>
 <title>Sky SPORTS 2</title>
-<link>rtmp://31.220.0.104:1935/live playpath=skuyx2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skuyx2&vw=620&vh=490 live=1</link>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.23:1935/redirect/skysport2 pageurl=http://hdcast.org/</link>
 <thumbnail>http://www.livefootball247.com/wp-content/uploads/2014/01/sky_mx_sports21.png</thumbnail>
 </item>
 
