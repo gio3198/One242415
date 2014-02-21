@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>NBC</title>
+<link>rtmp://188.0.226.104/hot/ playpath=onbc?v=ca5f588c6a433701ea00837919e7087b swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=onbc&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/e/ec/20120215074647!NBC_logo_2011.png</thumbnail>
+</item>
+
 <item>
 <title>SN360 2</title>
 <link>rtmp://109.236.80.109/liverepeater playpath=489 swfUrl=http://embed.cast333.in/jwplayer.swf pageUrl=http://player.cast333.in/stream.php?id=489&width=600&height=400 live=1 timeout=10</link>
