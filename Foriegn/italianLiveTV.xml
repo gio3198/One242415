@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>SN360 2</title>
+<link>rtmp://109.236.80.109/liverepeater playpath=489 swfUrl=http://embed.cast333.in/jwplayer.swf pageUrl=http://player.cast333.in/stream.php?id=489&width=600&height=400 live=1 timeout=10</link>
+<thumbnail>http://www.sogetel.com/fichiers/chaine/sportsnet_west_1.png</thumbnail>
+</item>
 
 <item>
 <title>Horse Racing</title>
