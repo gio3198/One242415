@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>Lamezia TV</title>
+<link>rtmp://extondem.and.livestream.com/ondemand playpath=Ztrans/dv15/mogulus-user-files/chlameziatv2/2012/06/02/32a63896-ca8f-4563-91ff-f48717a03246 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerap.i.swf? pageUrl=3http://www.lameziaweb.biz/lameziatv/lameziatv2.html live=1 timeout=10</link>
+<thumbnail>http://www.lameziaweb.biz/lameziatv/immagini/lameziatv.png</thumbnail>
+</item>
+
 <item>
 <title>Cosenza TV</title>
 <link>rtmp://r80327.3594006896.1.614910.channel.live.ums.ustream.tv:1935/ Playpath=ustream swfurl=http://static-cdn1.ustream.tv/swf pageurl=http://www.nuovacosenza.com/tv/tv1.html live=1 timeou.t=10</link>
