@@ -11,6 +11,12 @@
 
 
 <item>
+<title>Bein Sport</title>
+<link>rtmp://174.36.1.75/live playpath=187957?313339333038323035385f3834643261303363366237333530333539313231313462383237613462623536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png</thumbnail>
+</item>
+
+<item>
 <title>GOL TV</title>
 <link>rtmp://live.freelivetv.tv/live?token=4iKhN5ZpsOgwgO3GzSZbPgExpired=1393085167 playpath=goltvss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 pageUrl=http://freelivetv.tv/embed/embed.php?channel=goltvss&w=650&h=400 live=1 timeout=10</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/gol-tv-logo-1.png</thumbnail>
