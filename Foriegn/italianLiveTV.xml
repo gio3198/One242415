@@ -23,7 +23,7 @@
 
 <item>
 <title>Cosenza TV</title>
-<link>rtmp://r80327.3594006896.1.614910.channel.live.ums.ustream.tv:1935/ Playpath=ustream swfurl=http://static-cdn1.ustream.tv/swf pageurl=http://www.nuovacosenza.com/tv/tv1.html live=1 timeou.t=10</link>
+<link>rtmp://r80327.3594006896.1.614910.channel.live.ums.ustream.tv:1935/ playpath=ustream swfurl=http://static-cdn1.ustream.tv/swf pageurl=http://www.nuovacosenza.com/tv/tv1.html live=1 timeout=10</link>
 <thumbnail>https://pbs.twimg.com/profile_images/3582609948/951fd8d07ccc82fd6411ce98533ea312.jpeg</thumbnail>
 </item>
 
