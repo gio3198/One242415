@@ -9,12 +9,6 @@
 ##############################################################################################################################
 
 <item>
-<title>RTV Reggio Calabria</title>
-<link>http://livestream-f.akamaihd.net/717423_1829086_26117139_1_446@71777?v=3.0.3&fp=WIN%2012,0,0,70&r=EWPEF&g=CSKSRXSSJRXK</link>
-<thumbnail>http://www.storiaradiotv.it/RTV%20REGGIO%20TV.jpg</thumbnail>
-</item>
-
-<item>
 <title>Bein Sport</title>
 <link>rtmp://174.36.1.75/live playpath=187957?313339333038323035385f3834643261303363366237333530333539313231313462383237613462623536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png</thumbnail>
@@ -30,18 +24,6 @@
 <title>Antenna 3 Nordest San Biagio di Callalta</title>
 <link>rtmp://live.cdnplayer.com:1935/live781/streamitlivea3nordest</link>
 <thumbnail>https://yt3.ggpht.com/-SePvJIeJTFE/AAAAAAAAAAI/AAAAAAAAAAA/1-UFoanmliI/s900-c-k-no/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Lamezia TV</title>
-<link>rtmp://extondem.and.livestream.com/ondemand playpath=Ztrans/dv15/mogulus-user-files/chlameziatv2/2012/06/02/32a63896-ca8f-4563-91ff-f48717a03246 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerap.i.swf? pageUrl=3http://www.lameziaweb.biz/lameziatv/lameziatv2.html live=1 timeout=10</link>
-<thumbnail>http://www.lameziaweb.biz/lameziatv/immagini/lameziatv.png</thumbnail>
-</item>
-
-<item>
-<title>Cosenza TV</title>
-<link>rtmp://r80327.3594006896.1.614910.channel.live.ums.ustream.tv:1935/ playpath=ustream swfurl=http://static-cdn1.ustream.tv/swf pageurl=http://www.nuovacosenza.com/tv/tv1.html live=1 timeout=10</link>
-<thumbnail>https://pbs.twimg.com/profile_images/3582609948/951fd8d07ccc82fd6411ce98533ea312.jpeg</thumbnail>
 </item>
 
 <item>
@@ -90,12 +72,6 @@
 <title>CLASS LIFE</title>
 <link>http://se-mi1-7.se.tilive2.alice.cdn.interbusiness.it/classlifebck</link>
 <thumbnail>http://www.cioccolatoinfranchising.it/en/images/stories/news/class-life.jpg</thumbnail>
-</item>
-
-<item>
-<title>Automotive TV Italia</title>
-<link>rtsp://46.249.213.87/broadcast/automotivetv-tablet.3gp</link>
-<thumbnail>https://lh5.googleusercontent.com/-UBP8S1A7dqw/AAAAAAAAAAI/AAAAAAAAAA4/5pFUTiPbMDg/photo.jpg</thumbnail>
 </item>
 
 <item>
@@ -207,12 +183,6 @@
 </item>
 
 <item>
-<title>DI.TV  Imola, Emilia-Romagna</title>
-<link>rtmp://stream1.troydesign.it/ditv/playpath=channel1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.di-tv.net/streaming/ditv90.html live=1 timeout=10</link>
-<thumbnail>http://www.monskallentoft.se/upl/images/74218.gif</thumbnail>
-</item>
-
-<item>
 <title>TELEDUCATO PIACENZA</title>
 <link>rtmp://wms.shared.streamshow.it:80/teleducatopc playpath=teleducatopc swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/teleducatopc.php?height=320&width=480 live=1 timeout=10</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t1/s160x160/1460039_397737293692349_510682772_a.png</thumbnail>
@@ -222,12 +192,6 @@
 <title>TELEDUCATO PARMA</title>
 <link>rtmp://wms.shared.streamshow.it:80/teleducatopr playpath=teleducatopr swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/teleducatopr.php?height=320&width=480 live=1 timeout=10</link>
 <thumbnail>http://www.teleducato.it/themes/template/img/logo_top.png</thumbnail>
-</item>
-
-<item>
-<title>Primocanale</title>
-<link>rtmpt://mediamouse.it:8081/live/ playpath=primocanale1 swfUrl=http://www.primocanale.it/player/player2.swf pageUrl=http://www.primocanale.it/class/outstreaming.php?w=629&h=335&autostart=true live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/primocanale.png</thumbnail>
 </item>
 
 <item>
@@ -270,12 +234,6 @@
 <title>RETE VENETA Bassano del Grappa, Veneto</title>
 <link>rtmp://video.reteveneta.it:1935/live playpath=ReteVenetaStream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.reteveneta.it/live.aspx live=1 timeout=10</link>
 <thumbnail>http://dtti.it/wp-content/uploads/2011/12/reteveneta.jpg</thumbnail>
-</item>
-
-<item>
-<title>SICILIATV</title>
-<link>rtmp://stream-17.vty.dailymotion.com:1935/live-dm?auth=1392741432-7033931ebad91f473483f4cf83233923 playpath=xsrrcv_sd?auth=1392741432-7033931ebad91f473483f4cf83233923 swfUrl=http://www.dailymotion.com/[[IMPORT]]/static1.dmcdn.net/flash/dmplayerv4/dmplayer-prod-compressed.swf.v3665d66808fda8911?withLoader=1 pageUrl=http://www.dailymotion.com/embed/video/xsrrcv live=1 timeout=10</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Sicilia-TV.jpg</thumbnail>
 </item>
 
 <item>
@@ -738,12 +696,6 @@
 <title>RomaUNO</title>
 <link>rtmp://188.40.2.148:1935/romauno playpath=live.sdp</link>
 <thumbnail>http://www.oocities.org/simbariotv%40rogers.com/img_logo_romauno.gif</thumbnail>
-</item>
-
-<item>
-<title>RMK TV Sicilia</title>
-<link>http://stream2.ion.it:80/rmktv?MSWMExt=.asf</link>
-<thumbnail>http://rmk.italiabit.net/wp-content/uploads/2013/04/rmk_115_200.jpg</thumbnail>
 </item>
 
 <item>
