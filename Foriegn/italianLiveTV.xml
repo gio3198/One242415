@@ -598,8 +598,8 @@
 </item>
 
 <item>
-<title>Sky Calcio (DOWN)</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/7f4uk9psy3gtok7 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=12345dsagf4</link>
+<title>Sky Calcio (New Link)</title>
+<link>rtmp://31.220.0.134:1935/live playpath=calciocric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=calciocric&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
 
