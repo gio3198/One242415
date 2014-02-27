@@ -10,8 +10,6 @@
 
 
 
-
-
 <item>
 <title>FOX SPORTS</title>
 <link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=fc24a7f81ca502536c5b1520ee219bf8 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=600&height=450&domain=www.pogotv.eu live=1 timeout=10</link>
