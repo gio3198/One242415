@@ -8,6 +8,14 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>Tutto Juve VOD</title>
+<link>rtmp://cdnbalancer.twww.tv:1935/vod363 playpath=mp4:363/2014/02/26/1279316_1393428721.mp4 swfUrl=http://tuttojuvetv.twww.tv/embed.swf pageUrl=http://tuttojuvetv.twww.tv/?eonair|mute live=1 timeout=10</link>
+<thumbnail>http://i1.ytimg.com/i/HjgfIRxa6h1fqxdJhM-szA/mq1.jpg?v=ba60fc</thumbnail>
+</item>
+
 <item>
 <title>Radio Luna Network  CAMPOBASSO MOLISE</title>
 <link>mms://109.73.187.58/multicast_luna</link>
