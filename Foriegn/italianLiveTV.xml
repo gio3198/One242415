@@ -8,6 +8,14 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>trg media Città di Castello, Umbria</title>
+<link>rtmp://www.trgmedia.it/live/_definst_/ playpath=trg swfUrl=http://www.trgmedia.it/player.swf pageUrl=http://www.trgmedia.it/diretta.aspx live=1 timeout=10</link>
+<thumbnail>http://immagini.tipiace.it/tv/canali/trg-media.jpg</thumbnail>
+</item>
+
 <item>
 <title>Bein Sport</title>
 <link>rtmp://174.36.1.75/live playpath=187957?313339333038323035385f3834643261303363366237333530333539313231313462383237613462623536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me live=1 timeout=10</link>
