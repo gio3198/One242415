@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>WEBCAM Trevi Fountain Roma</title>
+<link>rtmp://178.32.140.240/skyline3 playpath=530e9cad888591920249146 swfUrl=https://cdn.skylinewebcams.com/player/skylinewebcams.swf pageUrl=https://www.skylinewebcams.com/skyline/skyline-live.php?w=286&lang=en-gb live=1 timeout=10</link>
+<thumbnail>http://i.telegraph.co.uk/multimedia/archive/02456/trevi_2456115b.jpg</thumbnail>
+</item>
 
 <item>
 <title>WEBCAM Catanzaro Lido</title>
