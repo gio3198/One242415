@@ -8,8 +8,16 @@
 </info>
 ##############################################################################################################################
 
+
+
 <item>
-<title>Latin Mare WEBCAM</title>
+<title>WEBCAM Catanzaro Lido</title>
+<link>rtmp://178.32.140.240/skyline3 playpath=530e9ad6ce0be1920249146 swfUrl=https://cdn.skylinewebcams.com/player/skylinewebcams.swf pageUrl=https://www.skylinewebcams.com/skyline/skyline-live.php?w=1&lang=en-gb live=1 timeout=10</link>
+<thumbnail>http://s.visioray.com/skyline/1_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>WEBCAM Latin Mare </title>
 <link>rtmp://95.110.157.56:1935/latina playpath=latina.stream swfUrl=http://vedetta.org/vplayer.swf pageUrl=http://vedetta.org/locations.php?view=7 live=1 timeout=10</link>
 <thumbnail>http://w0.fast-meteo.com/locationmaps/Latina.10.gif</thumbnail>
 </item>
