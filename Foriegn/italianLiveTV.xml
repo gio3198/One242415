@@ -69,12 +69,6 @@
 </item>
 
 <item>
-<title>Olympics 2014</title>
-<link>rtmp://31.220.0.104:1935/live playpath=c9 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=c9&vw=620&vh=490 live=1</link>
-<thumbnail>http://www.chfi.com/files/Sochi-2014-Company-Olympics.png</thumbnail>
-</item>
-
-<item>
 <title>Brescia Punto TV</title>
 <link>rtmp://wma07.fluidstream.net/BresciaTV playpath=livestream swfUrl=http://media.bresciaoggi.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.bresciaoggi.it/publisher/647_live/section/ live=1 timeout=10</link>
 <thumbnail>http://riflessiluce.altervista.org/wp-content/uploads/brescia-punto-tv.jpg</thumbnail>
