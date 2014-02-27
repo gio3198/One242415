@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>Latin Mare WEBCAM</title>
+<link>rtmp://95.110.157.56:1935/latina playpath=latina.stream swfUrl=http://vedetta.org/vplayer.swf pageUrl=http://vedetta.org/locations.php?view=7 live=1 timeout=10</link>
+<thumbnail>http://w0.fast-meteo.com/locationmaps/Latina.10.gif</thumbnail>
+</item>
 
 <item>
 <title>Tutto Juve VOD</title>
