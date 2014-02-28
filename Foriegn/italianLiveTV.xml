@@ -10,7 +10,7 @@
 
 <item>
 <title>TEST ONLY</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcalabriatvweb/2009/06/29/3652793872873400296 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf pageUrl=http://cdn.livestream.com/embed/calabriatvweb?layout=3&autoPlay=true&width=800&height=500 live=1 timeout=10</link>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chesse_tivu/2011/08/28/7d99d830-7464-49e7-a6e0-287f1af56c90 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf pageUrl=http://cdn.livestream.com/embed/esse_tivu?layout=4&color=0x006ccd&autoPlay=true&mute=false&iconColorOver=0xe4f2ff&iconColor=0xb5dcff&allowchat=true live=1 timeout=10</link>
 <thumbnail></thumbnail>
 </item>
 
