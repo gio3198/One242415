@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>TEST ONLY</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcalabriatvweb/2009/06/29/3652793872873400296 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf pageUrl=http://cdn.livestream.com/embed/calabriatvweb?layout=3&autoPlay=true&width=800&height=500 live=1 timeout=10</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>FOX SPORTS</title>
