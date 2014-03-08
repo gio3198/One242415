@@ -598,7 +598,7 @@
 
 <item>
 <title>Sky SPORTS 3 (New Link)</title>
-<link>rtmp://31.220.0.133:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3cric&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://31.220.0.82:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3cric&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://static4.wikia.nocookie.net/__cb20100402114809/logopedia/images/5/56/Sky_Sports_3_logo_2000.svg</thumbnail>
 </item>
 
