@@ -88,3 +88,93 @@
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
 <thumbnail>http://s25.postimg.org/n026xk533/imdb.png</thumbnail>
 <date>DAILY</date>
+
+<name>The Superheros</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/superhero.xml</link>
+<thumbnail>http://s25.postimg.org/spifhvb9b/superheros.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Stand Up Comedy</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/standupcomedy.xml</link>
+<thumbnail>http://s25.postimg.org/kk5fgttbz/standupcomedy.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Celebrity Roasts</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/roasts.xml</link>
+<thumbnail>http://s25.postimg.org/hs3bnvkcf/roasts.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Stephen King Collection</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/stephanking.xml</link>
+<thumbnail>http://s25.postimg.org/4n6nk40xr/stephenkingmoviecollect1.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Mel Brooks Collection</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/melbrookscollection.xml</link>
+<thumbnail>http://s25.postimg.org/uwrq2wmv3/melbrooks.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Clint Eastwood Collection</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/clinteastwood.xml</link>
+<thumbnail>http://s25.postimg.org/dq8gcznwf/clint_Eastwood.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Ultimate Western Collection</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/ultimatewestern.xml</link>
+<thumbnail>http://s25.postimg.org/okckt2jsv/gunslinger_colored_by_leinilyu.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Spaghetti Westerns</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/spaghettiwesterns.xml</link>
+<thumbnail>http://s25.postimg.org/mh25lejzz/spaghettiwestern.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>LIVE in CONCERT (NEW...LIVE TV & RADIO STREAMS)</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Misc/liveconcert.xml</link>
+<thumbnail>http://s25.postimg.org/qrgtgzp33/LIVEINCONCERT_zps23f60c8b.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Italian Content Only</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italiancontent.xml</link>
+<thumbnail>http://s25.postimg.org/68lxbxb5r/ITALIANCONTENTONLYALLNEW.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Live Italian TV</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italianLiveTV.xml</link>
+<thumbnail>http://s25.postimg.org/pzfj3wzpb/italian_Live_TV.png</thumbnail>
+<date>DAILY</date>
+
+<name>Italian Series</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/italianseries.xml</link>
+<thumbnail>http://s25.postimg.org/q4hwrgs73/images.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Foreign Cinema</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Foriegn/foreigncinema.xml</link>
+<thumbnail>http://s25.postimg.org/gbrt5qhfj/FOREIGNCINEMA.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Best of Lifetime</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/lifetimebest.xml</link>
+<thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Made in Canada</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/canada.xml</link>
+<thumbnail>http://s25.postimg.org/4kmrx9xa7/madeincanada.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Canadian Films</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/canadianfilms.xml</link>
+<thumbnail>http://s25.postimg.org/f3mt9zcfz/MIC.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Twilight Zone</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/TwilightZone/twilightzone_directory.xml</link>
+<thumbnail>http://s25.postimg.org/v4jyd5n7j/twilightzone.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>The Twilight Zone 2002</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Collections/TZ2002.xml</link>
+<thumbnail>http://s25.postimg.org/stbseqzsv/tz2002.jpg</thumbnail>
+<date>DAILY</date>
