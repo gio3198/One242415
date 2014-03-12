@@ -29,6 +29,11 @@
 <thumbnail>http://s25.postimg.org/npq2ukofz/bestitalianfilms.jpg</thumbnail>
 <date>DAILY</date>
 
+<name>Canadian Films</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/Movies/canadianfilms.xml</link>
+<thumbnail>http://s25.postimg.org/f3mt9zcfz/MIC.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>Best Picture Oscars</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Collections/oscars.xml</link>
 <thumbnail>http://s25.postimg.org/6ucqdj1z3/oscars.jpg</thumbnail>
@@ -147,11 +152,6 @@
 <name>The Best of Lifetime</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/lifetimebest.xml</link>
 <thumbnail>http://s25.postimg.org/mm5wv2rb3/Lifetime_logo_2012_reverse.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Canadian Films</name>
-<link>https://raw2.github.com/mash2k3/One242415/master/Movies/canadianfilms.xml</link>
-<thumbnail>http://s25.postimg.org/f3mt9zcfz/MIC.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>The Twilight Zone</name>
