@@ -10,6 +10,14 @@
 
 
 
+
+
+<item>
+<title>FIMMINA TV</title>
+<link>rtmp://cdnbalancer.twww.tv:1935/vod908 playpath=mp4:908/2013/07/05/1251375_1373020083.mp4 swfUrl=http://fimminatv.twww.tv/streamit.swf pageUrl=http://fimminatv.twww.tv/video.php?lang=IT#video.php?nav=1&lang=EN</link>
+<thumbnail>http://www.calabriaday.it/wp-content/uploads/2012/10/Fimmina-Tv.jpg</thumbnail>
+</item>
+
 <item>
 <title>FOX SPORTS</title>
 <link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=fc24a7f81ca502536c5b1520ee219bf8 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=600&height=450&domain=www.pogotv.eu live=1 timeout=10</link>
