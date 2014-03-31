@@ -179,6 +179,11 @@
 <thumbnail>http://s25.postimg.org/so6p6hq67/tvland.jpg</thumbnail>
 <date>DAILY</date>
 
+<name>National Geographic</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/NationalGeographic/NationalGeographicDirectory.xml</link>
+<thumbnail>http://s3.postimg.org/nqu8md3gj/nationalgeographic.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>COMING SOON: Monty Pythons Flying Circus</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/MontyPython/MontyPythonsFlyingCircus.xml</link>
 <thumbnail>http://s25.postimg.org/60rg0cam7/montypythonfoot.jpg</thumbnail>
