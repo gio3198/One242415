@@ -19,45 +19,15 @@
 </item>
 
 <item>
-<title>FOX SPORTS</title>
-<link>rtmp://akamai.kbps.tv:1935/live playpath=foxsp?=fc24a7f81ca502536c5b1520ee219bf8 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=foxsp&width=600&height=450&domain=www.pogotv.eu live=1 timeout=10</link>
-<thumbnail>http://u.jimdo.com/www61/o/s96cd8fc9aa326755/img/i7e52359618f0bfda/1373097482/std/image.jpg</thumbnail>
-</item>
-
-<item>
-<title>Top Calcio 27/02/14</title>
-<link>http://www.youtube.com/watch?feature=player_embedded&v=Uh-PEkbjSw4</link>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCYlUTe5z7FsrzT0QzrfL2Dnsrgu0_i8MEp0k4rpOqATZ10r8e</thumbnail>
-</item>
-
-<item>
 <title>Radio Reggio Live</title>
 <link>http://159.253.145.180:7316/;</link>
 <thumbnail>http://www.radioreggio.it/img/player/onair_sfondoBtt.png</thumbnail>
 </item>
 
 <item>
-<title>Tele Reggio Special Video</title>
-<link>http://telereggio.media-display.it/albums/album-5/lg/film_inaugurazione_091113_OK_mp4.mp4</link>
-<thumbnail>http://www.telereggio.it/wp-content/themes/telereggio/images/logos/telereggio.jpg</thumbnail>
-</item>
-
-<item>
 <title>TELERAMA</title>
 <link>tmpt://194.116.73.48/leccecalcio playpath=streaming swfUrl=http://eventilive.top-ix.org/player/flowplayer.swf pageUrl=http://eventilive.top-ix.org/leccecalcio/ipad.html live=1 timeout=10</link>
 <thumbnail>https://lh5.ggpht.com/w1cRbMjMn7FRZxl8erzlQpqSSAUW1bYEEz1Gz-wLZEA2jlE5JWnUNvzIogFrWJ9FiQ=h900</thumbnail>
-</item>
-
-<item>
-<title>WEBCAM Latin Mare </title>
-<link>rtmp://95.110.157.56:1935/latina playpath=latina.stream swfUrl=http://vedetta.org/vplayer.swf pageUrl=http://vedetta.org/locations.php?view=7 live=1 timeout=10</link>
-<thumbnail>http://w0.fast-meteo.com/locationmaps/Latina.10.gif</thumbnail>
-</item>
-
-<item>
-<title>Tutto Juve VOD</title>
-<link>rtmp://cdnbalancer.twww.tv:1935/vod363 playpath=mp4:363/2014/02/26/1279316_1393428721.mp4 swfUrl=http://tuttojuvetv.twww.tv/embed.swf pageUrl=http://tuttojuvetv.twww.tv/?eonair|mute live=1 timeout=10</link>
-<thumbnail>http://i1.ytimg.com/i/HjgfIRxa6h1fqxdJhM-szA/mq1.jpg?v=ba60fc</thumbnail>
 </item>
 
 <item>
@@ -70,12 +40,6 @@
 <title>trg media Città di Castello, Umbria</title>
 <link>rtmp://www.trgmedia.it/live/_definst_/ playpath=trg swfUrl=http://www.trgmedia.it/player.swf pageUrl=http://www.trgmedia.it/diretta.aspx live=1 timeout=10</link>
 <thumbnail>http://immagini.tipiace.it/tv/canali/trg-media.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport</title>
-<link>rtmp://174.36.1.75/live playpath=187957?313339333038323035385f3834643261303363366237333530333539313231313462383237613462623536 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15495&wh=650&ht=480&r=www.stream2watch.me live=1 timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png</thumbnail>
 </item>
 
 <item>
@@ -100,12 +64,6 @@
 <title>Extra TV Frosinone</title>
 <link>rtmp://msh0080.stream.seeweb.it:80/live playpath=extratv1.sdp swfUrl=http://www.extratv.it/player.swf pageUrl=http://www.extratv.it/streaming.html live=1 timeout=10</link>
 <thumbnail>http://www.laprovinciaquotidiano.it/wp-content/uploads/2012/10/extratv.jpeg</thumbnail>
-</item>
-
-<item>
-<title>RAI Sport</title>
-<link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -178,12 +136,6 @@
 <title>Orler TV</title>
 <link>rtsp://173.255.137.28:80/orler/livestream</link>
 <thumbnail>https://lh5.googleusercontent.com/-ckgyKOfZ1wY/Tfk4UpJFmOI/AAAAAAAAceY/XZtGinuwCFM/s1600/ORLER%252520TV%252520133.jpg</thumbnail>
-</item>
-
-<item>
-<title>Landscape Channel HD</title>
-<link>http://130.88.20.233:1237/test.flv</link>
-<thumbnail>http://b.vimeocdn.com/ts/100/080/100080676_640.jpg</thumbnail>
 </item>
 
 <item>
@@ -397,12 +349,6 @@
 </item>
 
 <item>
-<title>Italia Film</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chitaliafilm/2009/03/12/fbb97d47-1068-42e4-a0c0-706cbbbbecb0 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false&browseMode=false pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Italia+Film+%28Italy%29&idtv=1806&TVSESS=1022c7a849e8521da8acf4b70ac054d2 live=1 timeout=10</link>
-<thumbnail>http://thegothamrogue.files.wordpress.com/2014/01/movies_logo.gif</thumbnail>
-</item>
-
-<item>
 <title>sky POKER LIVE</title>
 <link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sky_Poker.png/220px-Sky_Poker.png</thumbnail>
@@ -529,27 +475,9 @@
 </item>
 
 <item>
-<title>Bein Sports 3 Seria A</title>
-<link>rtmp://31.220.0.103:1935/live playpath=bein3 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein3&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://por-img.cimcontent.net/cms/data/assets/bin-201311/32c2444aa6b633e3bbc51bc3fe81d227.jpg</thumbnail>
-</item>
-
-<item>
 <title>Raido Canale</title>
 <link>rtmp://ca-edge-7.cdn2.streamago.tv:80/streamagoedge/32564?idutente=32564&idcanale=26630&pwd= playpath=26630 swfUrl=http://www.streamago.tv/app/StreamVideo.swf pageUrl=http://www.streamago.tv/iframe/32564/ live=1 timeout=10</link>
 <thumbnail>http://d1bm3dmew779uf.cloudfront.net/large/eb513c21335258628cc634488ecd615a.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky SPORTS NEWS</title>
-<link>rtmp://37.220.32.55:443/liverepeater playpath=23701 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23701&width=640&height=460 live=1 timeout=10</link>
-<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/302121d1358595649-devlin-saga-everton-football-club-sky-sports-news-uk-logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sports 2</title>
-<link>rtmp://31.220.0.134:1935/live playpath=bein2xx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bein2xx&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/beIN-SPORT-logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -577,12 +505,6 @@
 </item>
 
 <item>
-<title>Sky SPORTS 1 (New Link)</title>
-<link>rtmp://31.220.0.104:1935/live playpath=sky1cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1cric&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
-</item>
-
-<item>
 <title>LA 7</title>
 <link>rtmp://109.123.116.26/live playpath=fgfdfgfe44?id=62126 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/fgfdfgfe44/1/550/380 live=1</link>
 <thumbnail>http://a.mytrend.it/prp/2013/02/448400/o.157592.jpg</thumbnail>
@@ -601,19 +523,7 @@
 </item>
 
 <item>
-<title>Sky SPORTS 3 (New Link)</title>
-<link>rtmp://31.220.0.82:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3cric&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://static4.wikia.nocookie.net/__cb20100402114809/logopedia/images/5/56/Sky_Sports_3_logo_2000.svg</thumbnail>
-</item>
-
-<item>
-<title>Sky SPORTS 2 (New Link)</title>
-<link>rtmp://31.220.0.134:1935/live playpath=sky2cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky2cric&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://www.livefootball247.com/wp-content/uploads/2014/01/sky_mx_sports21.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio (New Link)</title>
+<title>Sky Calcio</title>
 <link>rtmp://31.220.0.82:1935/live playpath=calciocric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=calciocric&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
@@ -700,12 +610,6 @@
 <title>DEEJAY TV</title>
 <link>rtmp://194.116.73.52/quartaretetv1 playpath=formusicweb</link>
 <thumbnail>http://www.mondoblackberry.com/wp-content/uploads/2013/04/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Dolce Sport 2</title>
-<link>http://178.21.120.198:1936/live3/flv:dolcesport2/chunklist_w1236310145.m3u8</link>
-<thumbnail>http://fotbal1x2.ro/wp-content/uploads/2012/06/Logo-Dolce-Sport.jpg</thumbnail>
 </item>
 
 <item>
