@@ -10,6 +10,19 @@
 
 
 
+
+<item>
+<title>Canale 46 Sicilia</title>
+<link>rtmp://vs2.streamcaster.net:1935/test_live playpath=canale46 swfUrl=http://www.canale46.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.canale46.it/portale_web/lib/archivio.aspx?canale=1&id=1 live=1 timeout=10</link>
+<thumbnail>http://www.canale46.it/logocanale_192Logo%20traspok1%20300.gif</thumbnail>
+</item>
+
+<item>
+<title>Reggio TV</title>
+<link>http://livestream-f.akamaihd.net/717423_1829086_84070779_1_446@71777?v=3.0.3&fp=WIN%2013,0,0,182&r=SQUIM&g=KTBBCGJWNDXZ</link>
+<thumbnail>http://www.storiaradiotv.it/reggio%20TV%20RTV.jpg</thumbnail>
+</item>
+
 <item>
 <title>Roxy Bar TV</title>
 <link>rtmp://94.32.101.18/cachestreamit playpath=mp4:webtv-b2b/streamit/575/2011/12/30/1146729_EV_-_Prof._Umberto_Veronesi.m4v swfUrl=http://roxybar.twww.tv/streamit.swf pageUrl=http://roxybar.twww.tv/?onair#video.php?nav=1&lang=EN live=1 timeout=10</link>
