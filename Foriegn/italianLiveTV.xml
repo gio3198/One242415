@@ -9,6 +9,25 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>Roxy Bar TV</title>
+<link>rtmp://94.32.101.18/cachestreamit playpath=mp4:webtv-b2b/streamit/575/2011/12/30/1146729_EV_-_Prof._Umberto_Veronesi.m4v swfUrl=http://roxybar.twww.tv/streamit.swf pageUrl=http://roxybar.twww.tv/?onair#video.php?nav=1&lang=EN live=1 timeout=10</link>
+<thumbnail>http://www.chiararagnini.it/wp-content/uploads/2012/02/Logotitolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CoRTOONS TV</title>
+<link>rtmp://94.32.97.10/cachestreamit playpath=mp4:webtv-b2b/streamit/63/2012/05/29/1188883_denti-1.mp4 swfUrl=http://www.streamit.it/streamit.swf pageUrl=http://www.streamit.it/?c=1#index_channels.php?nav=2&lang=EN live=1 timeout=10</link>
+<thumbnail>http://www.baritalianews.it/wp-content/uploads/2014/03/live_tv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Leonardo TV</title>
+<link>http://evcs-ocsp.ws.symantec.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQckPwgwK2Thdm9JYVwXQ4ERz3XDQQUo47PGUI9MeGrIYmEbcvZeaKysloCEEJy5dc%2BQ2KLHPP38tX1S60%3D</link>
+<thumbnail>http://www.cloud-tivu.net/Blog/wp-content/uploads/2014/01/Leonardo-Tv-in-Diretta-Streaming.png</thumbnail>
+</item>
+
 <item>
 <title>ODEON TV</title>
 <link>rtmp://highvolume03.streampartner.nl/odeon_livestream/_definst_ playpath=mp4:live.stream_720p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://media.streampartner.nl/player.php?url=odeo45afa2ead0c1a51 live=1 timeout=10</link>
