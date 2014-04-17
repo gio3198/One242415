@@ -522,7 +522,7 @@
 
 <item>
 <title>San Marino TV</title>
-<link>rtmp://o2.senape.tv:1935/webtv_live4 playpath=0QBXFQ2L0I5P swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://sanlorenzoriccione.jimdo.com/san-marino-tv/ live=1</link>
+<link>rtmp://194.116.72.51/webtv_live4 playpath=0QBXFQ2L0I5P swfUrl=http://stream.senape.tv/scripts/player.swf pageUrl=http://www.smtvsanmarino.sm/programmi/web-tv live=1 timeout=10</link>
 <thumbnail>http://www.digital-sat.it/files-admin/Simone/sanmarino-tv.jpg</thumbnail>
 </item>
 
