@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Leonardo TV</title>
-<link>http://evcs-ocsp.ws.symantec.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQckPwgwK2Thdm9JYVwXQ4ERz3XDQQUo47PGUI9MeGrIYmEbcvZeaKysloCEEJy5dc%2BQ2KLHPP38tX1S60%3D</link>
-<thumbnail>http://www.cloud-tivu.net/Blog/wp-content/uploads/2014/01/Leonardo-Tv-in-Diretta-Streaming.png</thumbnail>
-</item>
-
-<item>
 <title>ODEON TV</title>
 <link>rtmp://highvolume03.streampartner.nl/odeon_livestream/_definst_ playpath=mp4:live.stream_720p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://media.streampartner.nl/player.php?url=odeo45afa2ead0c1a51 live=1 timeout=10</link>
 <thumbnail>http://www.tvstreaming.tv/wp-content/uploads/2009/11/Odeon-TV-Logo.jpg</thumbnail>
