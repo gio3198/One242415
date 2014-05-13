@@ -10,6 +10,11 @@
 
 
 
+<item>
+<title>Sky Sports 1</title>
+<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20100531205308/logopedia/images/0/05/Sky_Sport_1_Italy.svg</thumbnail>
+</item>
 
 <item>
 <title>Canale 46 Sicilia</title>
