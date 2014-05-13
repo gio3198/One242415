@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>Sky Sports News (English)</title>
+<link>rtmp://31.220.0.196:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-ejR1k3Lz6M0/UE8YX_X3jUI/AAAAAAAAH4Y/92dCJx2Rhqk/s1600/SSN.jpg</thumbnail>
+</item>
+
 <item>
 <title>Sky Sports F1</title>
 <link>rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=1 timeout=10</link>
