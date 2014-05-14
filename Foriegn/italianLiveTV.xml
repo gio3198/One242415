@@ -9,7 +9,41 @@
 ##############################################################################################################################
 
 
+<item>
+<title>bien sports 6 (English)</title>
+<link>rtmp://31.220.0.103:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b6r&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-sd6.jpg</thumbnail>
+</item>
 
+<item>
+<title>ESPN UK (English)</title>
+<link>rtmp://31.220.0.195:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/12/ESPN-UK.jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT (English)</title>
+<link>rtmp://31.220.0.86:1935/live playpath=euro1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.vip.it/wp-content/uploads/2013/12/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 2 (English)</title>
+<link>rtmp://31.220.0.103:1935/live playpath=euro2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1 (English)</title>
+<link>rtmp://31.220.0.196:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130806193244/logopedia/images/6/68/BT_Sport_1_(pre-launch).svg</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2 (English)</title>
+<link>rtmp://31.220.0.86:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
 
 <item>
 <title>Sky Sports News (English)</title>
@@ -30,7 +64,7 @@
 </item>
 
 <item>
-<title>Sky Sports 1</title>
+<title>Sky Sports 1 (a volte offline)</title>
 <link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100531205308/logopedia/images/0/05/Sky_Sport_1_Italy.svg</thumbnail>
 </item>
@@ -582,7 +616,7 @@
 </item>
 
 <item>
-<title>Sky Calcio</title>
+<title>Sky Calcio (Sometimes OFFLINE/a volte offline)</title>
 <link>rtmp://31.220.0.103:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
