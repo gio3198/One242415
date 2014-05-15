@@ -10,13 +10,6 @@
 
 
 
-
-<item>
-<title>BBC 1</title>
-<link>rtmp://173.193.32.166/live playpath=188074? swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15584&wh=600&ht=380&r=goatd.net live=1 timeout=10</link>
-<thumbnail>http://www.towntalk.co.uk/subdomains/lib/image.php/38488_5829.jpg?domain=.co.uk&image=http://www.peckham.towntalk.co.uk/images_folder/eventsimg/38488_5829.jpg</thumbnail>
-</item>
-
 <item>
 <title>TEN SPORTS (English)</title>
 <link>rtmp://31.220.0.195:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
