@@ -8,6 +8,15 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>NBA TV (English)</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=20719 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream4.html live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png</thumbnail>
+</item>
+
 <item>
 <title>Liverpool TV (English)</title>
 <link>rtmp://173.192.223.75:443/liverepeater playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream26.html live=1 timeout=10</link>
