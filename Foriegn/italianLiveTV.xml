@@ -9,7 +9,11 @@
 ##############################################################################################################################
 
 
-
+<item>
+<title>Manchester United TV (English)</title>
+<link>http://img2.wikia.nocookie.net/__cb20100330071549/logopedia/images/b/bb/MUTV_logo.svg</link>
+<thumbnail>rtmp://173.192.223.75:443/liverepeater playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream27.html live=1 timeout=10</thumbnail>
+</item>
 
 <item>
 <title>NBA TV (English)</title>
