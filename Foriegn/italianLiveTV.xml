@@ -9,8 +9,22 @@
 ##############################################################################################################################
 
 
+
+
 <item>
-<title>bien sports 6 (English)</title>
+<title>FOX Sports 1 (English)</title>
+<link>rtmp://31.220.0.104:1935/live playpath=fox1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=fox1&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.brctv.com/sites/default/files/upload/FOX_Sports_1_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>FOX Sports 2 (English)</title>
+<link>rtmp://31.220.0.103:1935/live playpath=fox2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=fox2&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fd/FOX_Sports_2_logo.png</thumbnail>
+</item>
+
+<item>
+<title>biEN sports 6 (English)</title>
 <link>rtmp://31.220.0.103:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b6r&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-sd6.jpg</thumbnail>
 </item>
