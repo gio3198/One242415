@@ -9,7 +9,29 @@
 ##############################################################################################################################
 
 
+<item>
+<title>TEN SPORTS (English)</title>
+<link>rtmp://31.220.0.195:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://yesjar.co/folderscreen/2543.png</thumbnail>
+</item>
 
+<item>
+<title>Sky Sports Italia 2</title>
+<link>rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20100531205525/logopedia/images/c/cc/Sky_Sport_2_Italy.svg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Italia 3</title>
+<link>rtmp://31.220.0.134:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20100531205721/logopedia/images/5/57/Sky_Sport_3_Italy.svg</thumbnail>
+</item>
+
+<item>
+<title>GOLF TV (English)</title>
+<link>rtmp://31.220.0.195:1935/live playpath=golf swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=golf&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.eastlink.ca/portals/0/CableDigitalTV/Channel%20Thumbnails/golftv_generic.bmp</thumbnail>
+</item>
 
 <item>
 <title>FOX Sports 1 (English)</title>
@@ -24,7 +46,7 @@
 </item>
 
 <item>
-<title>biEN sports 6 (English)</title>
+<title>biEN sports 6</title>
 <link>rtmp://31.220.0.103:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b6r&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-sd6.jpg</thumbnail>
 </item>
@@ -66,19 +88,19 @@
 </item>
 
 <item>
-<title>Sky Sports F1</title>
+<title>Sky Sports F1 (English)</title>
 <link>rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
 </item>
 
 <item>
-<title>SportsNet World</title>
+<title>SportsNet World (English)</title>
 <link>rtmp://31.220.0.195:1935/live playpath=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://a1.mzstatic.com/us/r30/Purple2/v4/40/b6/79/40b67992-455b-a221-4bda-4ad137e11e85/mzl.jeplcrsi.175x175-75.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 1 (a volte offline)</title>
+<title>Sky Sports Italia 1 (a volte offline)</title>
 <link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100531205308/logopedia/images/0/05/Sky_Sport_1_Italy.svg</thumbnail>
 </item>
@@ -456,7 +478,7 @@
 </item>
 
 <item>
-<title>sky POKER LIVE</title>
+<title>sky POKER LIVE (English)</title>
 <link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sky_Poker.png/220px-Sky_Poker.png</thumbnail>
 </item>
