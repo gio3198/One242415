@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>GOL TV</title>
+<link>rtmp://live.freelivetv.tv/live?token=GJdzkGaHyk0pHIAGCBs6PAExpired=1400274277 playpath=goltvss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 pageUrl=http://freelivetv.tv/embed/embed.php?channel=goltvss&w=530&h=370 live=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/93/GolTV_logo.png</thumbnail>
+</item> 
+
 <item>
 <title>NFL Network (English)</title>
 <link>rtmp://37.220.32.52:443/liverepeater playpath=20723 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream5.html live=1 timeout=10</link>
