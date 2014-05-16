@@ -10,6 +10,13 @@
 
 
 
+
+<item>
+<title>Chelsea TV (English)</title>
+<link>rtmp://cp96798.live.edgefcs.net/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true pageUrl=http://coolsport.tv/chelseatv.html live=1 timeout=10</link>
+<thumbnail>http://img141.imageshack.us/img141/1757/chelseatv.png</thumbnail>
+</item>
+
 <item>
 <title>ESPN USA (English)</title>
 <link>rtmp://37.220.32.36:443/liverepeater playpath=stream3 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream3.html live=1 timeout=10</link>
