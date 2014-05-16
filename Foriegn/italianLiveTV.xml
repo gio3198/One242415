@@ -10,9 +10,9 @@
 
 
 <item>
-<title>RAI News 24</title>
-<link>rtmp://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1917?idutente=1917&idcanale=810&pwd= playpath=810 swfUrl=https://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=https://www.streamago.tv/channel/810/default/iframe/ live=1 timeout=10</link>
-<thumbnail>http://www.suigiornali.it/images/content/articles/1000003.png</thumbnail>
+<title>LA 7</title>
+<link>rtmp://80.82.78.38/liverepeat playpath=la7 swfUrl=http://abcast.biz/pla.swf pageUrl=http://abcast.biz/embed.php?file=la7&width=550&height=380 live=1 timeout=10</link>
+<thumbnail>http://www.mashfrog.com/contents/wp-content/uploads/2012/12/thumb_la7_tv.jpg</thumbnail>
 </item>
 
 <item>
