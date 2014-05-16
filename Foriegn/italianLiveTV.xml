@@ -191,7 +191,7 @@
 </item>
 
 <item>
-<title>trg media Città di Castello, Umbria</title>
+<title>TRG media Città di Castello, Umbria</title>
 <link>rtmp://www.trgmedia.it/live/_definst_/ playpath=trg swfUrl=http://www.trgmedia.it/player.swf pageUrl=http://www.trgmedia.it/diretta.aspx live=1 timeout=10</link>
 <thumbnail>http://immagini.tipiace.it/tv/canali/trg-media.jpg</thumbnail>
 </item>
@@ -503,13 +503,13 @@
 </item>
 
 <item>
-<title>sky POKER LIVE (English)</title>
+<title>Sky POKER LIVE (English)</title>
 <link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sky_Poker.png/220px-Sky_Poker.png</thumbnail>
 </item>
 
 <item>
-<title>play.me</title>
+<title>Play.me</title>
 <link>rtmp://cp107974.live.edgefcs.net/live/ playpath=beep-flash-live@34654 swfUrl=http://s.play.me/img/playmetv/playerDADA.swf?v=0.002 pageUrl=http://www.musicbox.it/ live=1 timeout=10</link>
 <thumbnail>http://b.vimeocdn.com/ps/617/61753_300.jpg</thumbnail>
 </item>
@@ -551,7 +551,7 @@
 </item>
 
 <item>
-<title>napoli CANALE 21</title>
+<title>Napoli CANALE 21</title>
 <link>rtmp://live.streamcaster.net:1935/canale21_live playpath=canale21 swfUrl=http://canale21.kronopress.com/script/Flowplayer/flowplayer-3.2.16.swf pageUrl=http://canale21.kronopress.com/player.aspx live=1 timeout=10</link>
 <thumbnail>http://4vector.com/thumb_data/afd-33504.jpg</thumbnail>
 </item>
@@ -575,7 +575,7 @@
 </item>
 
 <item>
-<title>jo TV</title>
+<title>JO TV</title>
 <link>rtmp://wms.shared.streamshow.it:80/jotv playpath=jotv swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/jotv.php?height=170&width=300 live=1 timeout=10</link>
 <thumbnail>http://www.jotv.tv/images/homepage/logo_jotv_grande.png</thumbnail>
 </item>
@@ -599,7 +599,7 @@
 </item>
 
 <item>
-<title>ab Channel Abruzzo</title>
+<title>AB Channel Abruzzo</title>
 <link>rtmp://live.6indirettastreaming.it/8128 playpath=8128 swfUrl=http://www.abchannel.it/player.swf pageUrl=http://www.abchannel.it/ live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png</thumbnail>
 </item>
@@ -1029,7 +1029,6 @@
 <link>http://a627.l2479952251.c24799.g.lm.akamaistream.net:80/D/627/24799/v0001/reflector:52251</link>
 <thumbnail>http://www.mediabistro.com/tvnewser/files/2012/08/BLOOMBERG-tv-LOGO.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Calabria Channel</title>
