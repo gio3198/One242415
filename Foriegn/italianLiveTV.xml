@@ -115,7 +115,7 @@
 
 <item>
 <title>Sky Sports News (English)</title>
-<link>rtmp://31.220.0.196:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://37.220.34.18:443/liverepeater playpath=23701 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss.html live=1 timeout=10</link>
 <thumbnail>http://3.bp.blogspot.com/-ejR1k3Lz6M0/UE8YX_X3jUI/AAAAAAAAH4Y/92dCJx2Rhqk/s1600/SSN.jpg</thumbnail>
 </item>
 
