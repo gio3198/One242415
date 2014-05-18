@@ -268,12 +268,6 @@
 </item>
 
 <item>
-<title>CLASS LIFE</title>
-<link>http://se-mi1-7.se.tilive2.alice.cdn.interbusiness.it/classlifebck</link>
-<thumbnail>http://www.cioccolatoinfranchising.it/en/images/stories/news/class-life.jpg</thumbnail>
-</item>
-
-<item>
 <title>TSD TV Arezzo</title>
 <link>rtmp://fls.6.c3.audiovideoweb.com:443/live playpath=6c3flslive2198 swfUrl=http://custlogin.audiovideoweb.com/cl/assets/mo/mo.swf pageUrl=http://www.tsdtv.it/live/ live=1</link>
 <thumbnail>https://pbs.twimg.com/profile_images/3744722891/2cc52792d2c92d38e1ce1ddc3d587ab2.png</thumbnail>
@@ -343,12 +337,6 @@
 <title>E TV Marche Ancona</title>
 <link>rtmp://vs2.streamcaster.net:1935/etvmarche_live playpath=etvmarche swfUrl=http://www.etvmarche.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.etvmarche.it/video/live.aspx?live=1&token=56c9b6f592bf9d3cde2</link>
 <thumbnail>http://www.sutorbasket.it/img/public/etv.jpg</thumbnail>
-</item>
-
-<item>
-<title>CLASS CNBC</title>
-<link>mms://se-rm4-7.se.tilive1.alice.cdn.interbusiness.it/classcnbc</link>
-<thumbnail>http://www.classcnbc.it/images/logo1.gif</thumbnail>
 </item>
 
 <item>
