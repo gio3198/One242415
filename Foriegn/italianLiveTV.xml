@@ -24,18 +24,6 @@
 </item>
 
 <item>
-<title>FOX MOVIES</title>
-<link>rtmp://178.33.241.201:1935/teledunet playpath=fox_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id0=8.33080812602E+13&channel=fox_movies pageUrl=http://www.teledunet.com/mobile/?con live=1 timeout=10</link>
-<thumbnail>http://2.bp.blogspot.com/-413OexeazHo/T1LgUftoq3I/AAAAAAAAA_M/PSjA7nISnDU/s1600/Fox_Moxie_Channel.png</thumbnail>
-</item>
-
-<item>
-<title>GOL TV</title>
-<link>rtmp://live.freelivetv.tv/live?token=GJdzkGaHyk0pHIAGCBs6PAExpired=1400274277 playpath=goltvss swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1&kpublica=68100 pageUrl=http://freelivetv.tv/embed/embed.php?channel=goltvss&w=530&h=370 live=1 timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/93/GolTV_logo.png</thumbnail>
-</item> 
-
-<item>
 <title>NFL Network (English)</title>
 <link>rtmp://37.220.32.52:443/liverepeater playpath=20723 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream5.html live=1 timeout=10</link>
 <thumbnail>http://www.shermanreport.com/wp-content/uploads/2013/11/nfl_network.png</thumbnail>
