@@ -12,6 +12,18 @@
 
 
 <item>
+<title>Sky Calcio 2</title>
+<link>rtmp://31.220.0.194:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.texmaster.it/index2_Sky-calcio-show-sfondo-trasparente.gif</thumbnail>
+</item>
+
+<item>
+<title>Setanta Sports</title>
+<link>rtmp://31.220.0.103:1935/live playpath>=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 live=1 timeout=10</link>
+<thumbnail>http://www.swimireland.ie/wp-content/uploads/2013/04/Setanta-Sports.jpg</thumbnail>
+</item>
+
+<item>
 <title>FOX MOVIES</title>
 <link>rtmp://178.33.241.201:1935/teledunet playpath=fox_movies swfUrl=http://www.teledunet.com/mobile/player.swf?id0=8.33080812602E+13&channel=fox_movies pageUrl=http://www.teledunet.com/mobile/?con live=1 timeout=10</link>
 <thumbnail>http://2.bp.blogspot.com/-413OexeazHo/T1LgUftoq3I/AAAAAAAAA_M/PSjA7nISnDU/s1600/Fox_Moxie_Channel.png</thumbnail>
