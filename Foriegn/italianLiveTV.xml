@@ -545,7 +545,7 @@
 
 <item>
 <title>Sky POKER LIVE (English)</title>
-<link>rtmp://23.15.5.164:1935/live?_fcs_vhost=cp67698.live.edgefcs.net&akmfv=1.8 playpath=SkyPoker_500k@9124 swfUrl=http://www.skypoker.com/img/cms/live_tv_player.swf pageUrl=http://www.skypoker.com/cms/poker_live_tv.shtm?dcmp=p_tv_865 live=1 timeout=10</link>
+<link>rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FALSE live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sky_Poker.png/220px-Sky_Poker.png</thumbnail>
 </item>
 
