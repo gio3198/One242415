@@ -12,8 +12,8 @@
 
 
 <item>
-<title>TEST</title>
-<link>rtmp://185.2.137.204:443/liverepeater playpath=stream30 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream30_.html live=1 timeout=10</link>
+<title>TESt</title>
+<link>rtmp://flash0.80137-live0.dna.qbrick.com:80/80137-live0 playpath=sevillafc swfUrl=http://professional.player.qbrick.com/Flash/p3/modules/mediaplayer.swf?v=D705CC2F pageUrl=http://www.sevillafc.es/nuevaweb/medios/tvdirecto live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg</thumbnail>
 </item>
 
