@@ -13,7 +13,7 @@
 
 <item>
 <title>TEST</title>
-<link>rtmp://mi-edge-2.cdn2.streamago.tv:80/streamagoedge/1917?idutente=1917&idcanale=810&pwd= playpath=810 swfUrl=https://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=https://www.streamago.tv/channel/810/default/iframe/ live=1 timeout=10</link>
+<link>rtmp://mi-edge-2.cdn2.streamago.tv:80/streamagoedge/1917?idutente=1917&idcanale=810&pwd= playpath=810 swfUrl=https://www.streamago.tv/inc/app/StreamVideo.swf pageUrl=https://www.streamago.tv/channel/810/default/iframe live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg</thumbnail>
 </item>
 
