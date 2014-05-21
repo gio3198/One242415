@@ -10,6 +10,11 @@
 
 
 
+<item>
+<title>La Nuova TV</title>
+<link>rtmp://lanuovatvbas.srfms.com:1961/live playpath=livestream swfUrl=http://www.serverroom.net/jwplayer5/player.swf pageUrl=http://www.lanuovatv.it/ live=1 timeout=10</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/La-Nuova-TV.gif</thumbnail>
+</item>
 
 <item>
 <title>SFC TV</title>
