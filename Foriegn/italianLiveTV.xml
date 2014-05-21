@@ -10,12 +10,6 @@
 
 
 <item>
-<title>Alpa Uno TV</title>
-<link>http://vs2.streamcaster.net:1935/test_live/alpauno/playlist.m3u8</link>
-<thumbnail>http://www.spaziotv.net/Immagini/CANALI%20LOCALI/SICILIA/alpauno.jpg</thumbnail>
-</item>
-
-<item>
 <title>CTS TV</title>
 <link>http://vs2.streamcaster.net:1935/cts_live/ctsnotizie/playlist.m3u8</link>
 <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/3237/brand.gif</thumbnail>
