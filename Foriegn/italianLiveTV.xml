@@ -9,6 +9,101 @@
 ##############################################################################################################################
 
 
+<item>
+<title>Alpa Uno TV</title>
+<link>http://vs2.streamcaster.net:1935/test_live/alpauno/playlist.m3u8</link>
+<thumbnail>http://www.spaziotv.net/Immagini/CANALI%20LOCALI/SICILIA/alpauno.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTS TV</title>
+<link>http://vs2.streamcaster.net:1935/cts_live/ctsnotizie/playlist.m3u8</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/3237/brand.gif</thumbnail>
+</item>
+
+<item>
+<title>Tele 8</title>
+<link>http://vs2.streamcaster.net:1935/tele8_live/tele8/playlist.m3u8</link>
+<thumbnail>http://sicilia.onderadio.net/Loghi/TV/TP/TVTP_Tele81.GIF</thumbnail>
+</item>
+
+<item>
+<title>ITVIP TV</title>
+<link>http://wms.iptv.4wardstream.net/itviptv/itviptv/playlist.m3u8</link>
+<thumbnail>http://www.tvover.net/content/binary/VIPTV_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Visual Radio TV</title>
+<link>http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8</link>
+<thumbnail>http://www.radio-vision.tv/images/radio-vision.gif</thumbnail>
+</item>
+
+<item>
+<title>Vera TV</title>
+<link>http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8</link>
+<thumbnail>https://lh3.ggpht.com/EQ8nIAtEP6oMScuxpCxP_euu_ov1nxphDeq9Cn0uoEA_OM94uw6rVoLDAXndWZ_BUhw=w300</thumbnail>
+</item>
+
+<item>
+<title>TVRS TV</title>
+<link>http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8</link>
+<thumbnail>http://www.tvrs.ca/wp-content/themes/TVRS/img/TVRS.png</thumbnail>
+</item>
+
+<item>
+<title>TeleSondrio TV</title>
+<link>http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8</link>
+<thumbnail>http://www.ilovelivigno.com/liv/wp-content/uploads/2013/05/tsn1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TeleSondrio News</title>
+<link>http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8</link>
+<thumbnail>http://www.logfm.com/radio/6579-radiotsn-it/200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telemonteneve 3 TV</title>
+<link>http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8</link>
+<thumbnail>http://www.mottolino.com/getattachment/e871a91d-7079-4f2d-b25e-e7149c3c7cfb/Guarda-TeleMonteNeve,-la-tv-di-Livigno,-direttamen.aspx?maxSideSize=200</thumbnail>
+</item>
+
+<item>
+<title>Telemonteneve TV</title>
+<link>http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8</link>
+<thumbnail>http://www.altarezianews.it/wp-content/uploads/2012/06/telemonteneve.jpg</thumbnail>
+</item>
+
+<item>
+<title>Studio 100</title>
+<link>http://wms2.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8</link>
+<thumbnail>http://www.radiotvsalento.net/wp-content/uploads/2012/11/studio100tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Lucania TV</title>
+<link>http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8</link>
+<thumbnail>http://www.lucania.tv.it/images/header.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canale 2</title>
+<link>http://wms.iptv.4wardstream.net/canale2iptv/canale2iptv/playlist.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Canale-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Brescia Live TV</title>
+<link>http://wms.shared.streamshow.it/brescialivetv/brescialivetv/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000770496046/c48ca40a85f1625af7213351a3d2d188.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TeleDucato</title>
+<link>http://wms.shared.streamshow.it/teleducatopc/teleducatopc/playlist.m3u8</link>
+<thumbnail>http://www.storiaradiotv.it/tele%20ducato%20-%20logo.JPG</thumbnail>
+</item>
 
 <item>
 <title>TEST ONLY</title>
