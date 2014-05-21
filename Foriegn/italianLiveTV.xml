@@ -95,7 +95,7 @@
 
 <item>
 <title>TEST ONLY</title>
-<link>rtmp://50.115.122.156/zenex playpath sdfdtgergq?id=1195 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/sdfdtgergq/1/550/380 live=1 timeout=10</link>
+<link>rtmp://s01.futubox.to/live?lp=INSERT_YOUR_LP playpath=z050223.stream swfUrl=http://futubox.com/donottouch/fpv3.39.swf pageUrl=http://tv.futubox.com:1935/live/z050223.stream/playlist.m3u8</link>
 <thumbnail>http://i185.photobucket.com/albums/x217/Andi_VYB/testpatterns/testpattern2.jpg</thumbnail>
 </item>
 
