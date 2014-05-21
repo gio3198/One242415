@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>Channel Italy</title>
+<link>mms://83.222.161.217/channel_italy</link>
+<thumbnail>http://1.bp.blogspot.com/-54c3uqdc3tQ/Tk1GzMpGdpI/AAAAAAAAAqw/jwilk3bP45k/s1600/Italy+flag.jpg</thumbnail>
+</item>
 
 <item>
 <title>Tele Madrid (Espanol)</title>
@@ -183,7 +187,7 @@
 
 <item>
 <title>NBA TV (English)</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=20719 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream4.html live=1 timeout=10</link>
+<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png</thumbnail>
 </item>
 
