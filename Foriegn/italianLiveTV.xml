@@ -11,6 +11,12 @@
 
 
 <item>
+<title>TEST ONLY</title>
+<link>rtmp://50.115.122.156/zenex playpath sdfdtgergq?id=1195 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/sdfdtgergq/1/550/380 live=1 timeout=10</link>
+<thumbnail>http://i185.photobucket.com/albums/x217/Andi_VYB/testpatterns/testpattern2.jpg</thumbnail>
+</item>
+
+<item>
 <title>La Nuova TV</title>
 <link>rtmp://lanuovatvbas.srfms.com:1961/live playpath=livestream swfUrl=http://www.serverroom.net/jwplayer5/player.swf pageUrl=http://www.lanuovatv.it/ live=1 timeout=10</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/La-Nuova-TV.gif</thumbnail>
