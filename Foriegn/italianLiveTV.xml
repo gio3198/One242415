@@ -46,6 +46,7 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
 </item>
 
+
 <item>
 <title>Sky Calcio 2</title>
 <link>rtmp://31.220.0.195:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490 live=1 timeout=10</link>
