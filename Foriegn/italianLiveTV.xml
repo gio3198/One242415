@@ -115,7 +115,7 @@
 
 <item>
 <title>TEST ONLY</title>
-<link>rtmp://s01.futubox.to/live?lp=INSERT_YOUR_LP playpath=z050223.stream swfUrl=http://futubox.com/donottouch/fpv3.39.swf pageUrl=http://tv.futubox.com:1935/live/z050223.stream/playlist.m3u8</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=nx82e47g1025mdc swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/45469/watch-live-CBSstreaming-channel</link>
 <thumbnail>http://i185.photobucket.com/albums/x217/Andi_VYB/testpatterns/testpattern2.jpg</thumbnail>
 </item>
 
