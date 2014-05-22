@@ -11,6 +11,24 @@
 
 
 <item>
+<title>Test 4</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/ live=1 timeout=10</link>
+<thumbnail>http://www.sandrazampa.it/wp-content/uploads/2012/04/tvlocali.jpg</thumbnail>
+</item>
+
+<item>
+<title>Test 3</title>
+<link>rtmp://217.169.112.21:1935/live/CH09</link>
+<thumbnail>http://www.sandrazampa.it/wp-content/uploads/2012/04/tvlocali.jpg</thumbnail>
+</item>
+
+<item>
+<title>Media TV</title>
+<link>mmsh://mediatv2.topix.it/24Ipertv66</link>
+<thumbnail>http://www.media-tv.ro/logo-media-tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>RED BULL TV (English)</title>
 <link>http://redbulwebtvhd-f.akamaihd.net/webtvhd_3_696@54840?videoId=1389549382001&lineUpId=&pubId=710858724001&playerId=1398061561001&</link>
 <thumbnail>http://www.shalomlife.com/img/2013/01/18549/red_bull_logo_.jpg</thumbnail>
