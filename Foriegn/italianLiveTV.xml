@@ -301,13 +301,13 @@
 
 <item>
 <title>EUROSPORT (English)</title>
-<link>rtmp://31.220.0.86:1935/live playpath=euro1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490 live=1 timeout=10</link>
+<link>http://91.240.87.34:4004/udp/224.200.202.20:1234</link>
 <thumbnail>http://www.vip.it/wp-content/uploads/2013/12/eurosport.png</thumbnail>
 </item>
 
 <item>
 <title>EUROSPORT 2 (English)</title>
-<link>rtmp://31.220.0.103:1935/live playpath=euro2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490 live=1 timeout=10</link>
+<link>http://91.240.87.34:4004/udp/224.200.202.24:1234</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
 </item>
 
