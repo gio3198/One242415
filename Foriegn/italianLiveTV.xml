@@ -228,7 +228,7 @@
 
 <item>
 <title>ESPN USA (English)</title>
-<link>rtmp://37.220.32.36:443/liverepeater playpath=stream3 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream3.html live=1 timeout=10</link>
+<link>rtmp://173.192.70.176:443/liverepeater playpath=stream30 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream30_.html live=1 timeout=10</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2009/08/espn-300x300.jpg</thumbnail>
 </item>
 
