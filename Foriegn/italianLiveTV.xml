@@ -8,6 +8,14 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>Cartoon Network</title>
+<link>http://8.12.105.44:8085/udp/239.34.153.85:1234</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20111202140926/logopedia/images/1/1f/Cartoon_Network_2004.svg</thumbnail>
+</item>
+
 <item>
 <title>Sport TV</title>
 <link>http://149.255.39.122/aasd/8814/index.m3u8</link>
