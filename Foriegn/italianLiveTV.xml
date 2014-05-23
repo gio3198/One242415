@@ -9,9 +9,9 @@
 ##############################################################################################################################
 
 <item>
-<title>HBO</title>
-<link>rtmp://$OPT:rtmp-raw=rtmpe://198.24.174.90:1935/goLive playpath=hbo.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://i1.ytimg.com/i/VTQuK2CaWaTgSsoNkn5AiQ/mq1.jpg?v=51d20450</thumbnail>
+<title>BBC NEWS AMERICA</title>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430</link>
+<thumbnail>http://www.mnilive.com/wp-content/uploads/2011/07/bbc_world_news_usa.jpg</thumbnail>
 </item>
 
 <item>
