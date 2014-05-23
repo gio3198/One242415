@@ -10,7 +10,11 @@
 
 
 
-
+<item>
+<title>TEST Channel</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=fox1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Italia News</title>
