@@ -9,6 +9,11 @@
 ##############################################################################################################################
 
 
+<item>
+<title>ArenaSport 1</title>
+<link>http://149.255.39.122/aasd/8812/index.m3u8</link>
+<thumbnail>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</thumbnail>
+</item>
 
 <item>
 <title>Cartoon Network</title>
@@ -20,12 +25,6 @@
 <title>Sport TV</title>
 <link>http://149.255.39.122/aasd/8814/index.m3u8</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ArenaSport 1</title>
-<link>http://149.255.39.122/aasd/8812/index.m3u8</link>
-<thumbnail>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</thumbnail>
 </item>
 
 <item>
