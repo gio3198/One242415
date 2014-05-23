@@ -8,8 +8,53 @@
 </info>
 ##############################################################################################################################
 
+<item>
+<title>HBO</title>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://198.24.174.90:1935/goLive playpath=hbo.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
+<thumbnail>http://i1.ytimg.com/i/VTQuK2CaWaTgSsoNkn5AiQ/mq1.jpg?v=51d20450</thumbnail>
+</item>
 
+<item>
+<title>FOX Sports Plus</title>
+<link>rtmp://fmaster.servep2p.com:1935/live/sport3.stream</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRJHolt57iDpXzeS0anWfLlwwCS3NtHrgmvFTnneDa3vbq52GLxrg</thumbnail>
+</item>
 
+<item>
+<title>Astro Supersport</title>
+<link>rtmp://fmaster.servep2p.com:1935/live/sport6.stream</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOX Sports</title>
+<link>rtmp://fmaster.servep2p.com:1935/live/sport1.stream</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
+</item>
+
+<item>
+<title>Star Sports</title>
+<link>rtmp://fmaster.servep2p.com:1935/live/sport3.stream</link>
+<thumbnail>http://static.sportskeeda.com/wp-content/uploads/2013/11/star-sports-1990816.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arenasport 3</title>
+<link>http://85.114.139.20:2048/</link>
+<thumbnail>http://www.miskobobic.com/wp-content/uploads/2010/08/arena-sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>Eurosport News</title>
+<link>http://159.224.165.2:8888/udp/238.0.16.153:1234</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_news.png</thumbnail>
+</item>
+
+<item>
+<title>English Club TV</title>
+<link>http://159.224.165.2:8888/udp/238.0.0.52:1234</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/english_club_tv.png</thumbnail>
+</item>
 
 <item>
 <title>NHL Network</title>
