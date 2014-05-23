@@ -9,6 +9,14 @@
 ##############################################################################################################################
 
 
+
+
+<item>
+<title>NHL Network</title>
+<link>rtmp://173.192.81.170:443/liverepeater playpath=stream21 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream21_.html live=1 timeout=10</link>
+<thumbnail>http://paranoidpuck.files.wordpress.com/2011/12/updatenhln.gif</thumbnail>
+</item>
+
 <item>
 <title>TEST 5</title>
 <link>rtmp://50.7.133.154/iguide playpath=u3wlbmq82fuz4pi swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD live=1</link>
