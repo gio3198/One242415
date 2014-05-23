@@ -169,7 +169,7 @@
 
 <item>
 <title>TEST ONLY</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=nx82e47g1025mdc swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/45469/watch-live-CBSstreaming-channel</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490</link>
 <thumbnail>http://i185.photobucket.com/albums/x217/Andi_VYB/testpatterns/testpattern2.jpg</thumbnail>
 </item>
 
