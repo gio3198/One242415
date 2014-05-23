@@ -960,8 +960,8 @@
 </item>
 
 <item>
-<title>BBC World News</title>
-<link>rtmp://94.32.97.12/satchannel1 playpath=bbc.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf pageUrl=http://sanlorenzoriccione.jimdo.com/bbc-world-news/ live=1</link>
+<title>BBC News The Daily Politics</title>
+<link>mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv</link>
 <thumbnail>http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png</thumbnail>
 </item>
 
