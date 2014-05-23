@@ -9,6 +9,35 @@
 ##############################################################################################################################
 
 
+<item>
+<title>Sky Sports 4 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:051A:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:119F:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>City Of Boston TV</title>
+<link>rtmp://streaming.cityofboston.gov/live/cable</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/ff/Panoramic_Boston.jpg</thumbnail>
+</item>
 
 <item>
 <title>FOX Sports Plus</title>
