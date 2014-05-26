@@ -138,7 +138,7 @@
 
 <item>
 <title>Test 4</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=sky3cric swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/</link>
+<link>rtmp://67.228.235.73/zenex playpath=italaliicic?id=1405 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/italaliicic/1/550/380 live=1 timeout=10</link>
 <thumbnail>http://www.sandrazampa.it/wp-content/uploads/2012/04/tvlocali.jpg</thumbnail>
 </item>
 
