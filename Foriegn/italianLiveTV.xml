@@ -8,7 +8,11 @@
 </info>
 ##############################################################################################################################
 
-
+<item>
+<title>BBC News</title>
+<link>rtmp://hd4.lsops.net/live playpath=bbcnews_en_364 swfUrl=http://mediavid.net/player/Player.swf pageUrl=http://mediavid.net/partners/bbc.php?n=bbcnews_en_364&vw=650&vh=450 live=1 timeout=10</link>
+<thumbnail>http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg</thumbnail>
+</item>
 
 <item>
 <title>TEST Channel</title>
