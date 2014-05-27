@@ -10,6 +10,12 @@
 
 
 <item>
+<title>Venezolana de Television</title>
+<link>rtmp://50.7.67.76:1935/vtvweb/ playpath=vtvweb swfUrl=http://www.movipbox.com/nuevo/player/player.swf pageUrl=http://www.movipbox.com/nuevo/embed/vtv/index1.html live=1 timeout=10</link>
+<thumbnail>http://www.vtv.gob.ve/articulos/2012/11/10/tves-trae-en-noviembre-nuevas-producciones-independientes-4132.html/tveslogo.jpg/@@images/355263cd-2b26-4395-8401-24258ef2edb4.jpeg</thumbnail>
+</item>
+
+<item>
 <title>TN 24 HORAS HD ARGENTINA</title>
 <link>rtsp://stream.tn.com.ar/live/tnhd1</link>
 <thumbnail>http://lh4.googleusercontent.com/-OTCJN3s_ArM/AAAAAAAAAAI/AAAAAAAAADw/czZiyTiwkT8/photo.jpg?sz=155</thumbnail>
