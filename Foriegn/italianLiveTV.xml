@@ -71,8 +71,8 @@
 
 <item>
 <title>TEST Channel</title>
-<link>rtmp://67.228.235.73/ playpath=italaliicic?id=1405 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/italaliicic/1/550/380 live=1 timeout=10</link>
-<thumbnail></thumbnail>
+<link>rtmp://$OPT:rtmp-raw=rtmp://109.123.126.34/live playpath=fsgaeewr?id=62026 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/fsgaeewr/1/500/380 conn=S:OK</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Real_time_Italy.png</thumbnail>
 </item>
 
 <item>
