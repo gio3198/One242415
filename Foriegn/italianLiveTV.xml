@@ -8,6 +8,21 @@
 </info>
 ##############################################################################################################################
 
+
+
+
+<item>
+<title>Sevilla FC</title>
+<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
+<thumbnail>http://www.wallsave.com/wallpapers/1024x768/sevilla/111536/sevilla-fondos-de-pantalla-cf-111536.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRACE SPORTS (English)</title>
+<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
+<thumbnail>http://api.ning.com/files/2mjloAWAx2dVyg2jl8pjm1gTUsnFgKYvG7nzkIw09yzuHkgshyzAO9P3dl53VmWKvkuVCvbY-RiCDLHz6Lvidycf9ZH2Vpwx/TRACESportsLogo.png</thumbnail>
+</item>
+
 <item>
 <title>BBC News</title>
 <link>rtmp://hd4.lsops.net/live playpath=bbcnews_en_364 swfUrl=http://mediavid.net/player/Player.swf pageUrl=http://mediavid.net/partners/bbc.php?n=bbcnews_en_364&vw=650&vh=450 live=1 timeout=10</link>
