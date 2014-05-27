@@ -10,12 +10,6 @@
 
 
 <item>
-<title>Real Madrid TV</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://178.162.199.165:5587/loadbalance playpath=realmadridsd swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed.php</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/170px-Real_Madrid_CF.svg.png</thumbnail>
-</item>
-
-<item>
 <title>TN 24 HORAS HD ARGENTINA</title>
 <link>rtsp://stream.tn.com.ar/live/tnhd1</link>
 <thumbnail>http://lh4.googleusercontent.com/-OTCJN3s_ArM/AAAAAAAAAAI/AAAAAAAAADw/czZiyTiwkT8/photo.jpg?sz=155</thumbnail>
