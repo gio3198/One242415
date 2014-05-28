@@ -9,10 +9,49 @@
 ##############################################################################################################################
 
 
+
+
+
 <item>
-<title>UK/Irish Horse Racing</title>
-<link>rtsp://live1.fifaembed.com:1935/live/attheraces-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NTQ6NDIgQU0maGFzaF92YWx1ZT1CV0RTTHVmNWVwWGFRcURITGxsdUpRPT0mdmFsaWRtaW51dGVzPTIw</link>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcS8lfuKJxlFfwLHZA4D1kSLiHp77uDitjRuuE8ZXYMCWyueP6qdvQ</thumbnail>
+<title>TirrenoSat</title>
+<link>http://xtirrenosatx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://i1.ytimg.com/i/X-I5eJi2cl5tGF6uEPnyEg/mq1.jpg?v=4f26975d</thumbnail>
+</item>
+
+<item>
+<title>World Travel Channel</title>
+<link>rtsp://stream.taksimbilisim.com:1935/wtc/bant1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ww/world_travel_channel.png</thumbnail>
+</item>
+
+<item>
+<title>TV Acapulco</title>
+<link>rtmp://video.hosteris.com/tvacapulco/tvacapulco</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s102102q.png</thumbnail>
+</item>
+
+<item>
+<title>SkyNEws</title>
+<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+<thumbnail>http://thinkspalondon.com/wp-content/uploads/2010/04/sky-news-logo.png</thumbnail>
+</item>
+
+<item>
+<title>RETE SOLE UMBRIA PERUGIA</title>
+<link>mms://streaming1.bsnewline.com/retesoleperugia</link>
+<thumbnail>https://lh5.googleusercontent.com/-kBEGrKd_IF0/UKSkTvdK7gI/AAAAAAACD84/sAK9dU5iGd0/s1600/RETE%2520SOLE%2520133.jpg</thumbnail>
+</item>
+
+<item>
+<title>RETE TELEUNICA LECCO</title>
+<link>rtmp://flash3.ipercast.net/teleunica.tv-live/livestream1</link>
+<thumbnail>http://static.teleunica.tv.dl1.ipercast.net/theme/teleunica_production/images/header.png</thumbnail>
+</item>
+
+<item>
+<title>1970's ROCK</title>
+<link>mmsh://mediatv2.topix.it/247066?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rock_tv_hu.png</thumbnail>
 </item>
 
 <item>
