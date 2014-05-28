@@ -396,7 +396,7 @@
 
 <item>
 <title>NFL Network (English)</title>
-<link>rtmp://37.220.32.52:443/liverepeater playpath=20723 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream5.html live=1 timeout=10</link>
+<link>rtsp://live1.fifaembed.com:1935/live/nflnetwork-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDQ6MDY6MzUgQU0maGFzaF92YWx1ZT1RTlIydEtZV001VFRxeWJsdUxNbW5RPT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://www.shermanreport.com/wp-content/uploads/2013/11/nfl_network.png</thumbnail>
 </item>
 
