@@ -89,7 +89,7 @@
 
 <item>
 <title>TEST Channel</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://109.123.126.34/live playpath=fsgaeewr?id=62026 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/fsgaeewr/1/500/380 conn=S:OK</link>
+<link>rtmp://46.246.124.6:443/liverepeater/20724 live=1 pageUrl=http://movietrailers.yt</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Real_time_Italy.png</thumbnail>
 </item>
 
