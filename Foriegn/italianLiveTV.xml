@@ -457,7 +457,7 @@
 
 <item>
 <title>GOLF TV (English)</title>
-<link>rtmp://31.220.0.195:1935/live playpath=golf swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=golf&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://live1.fifaembed.com:1935/live/golfchannel-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDQ6MDM6MTUgQU0maGFzaF92YWx1ZT1Mc09YMVRqMlJSU0h2bHdvKytBOTVBPT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://www.eastlink.ca/portals/0/CableDigitalTV/Channel%20Thumbnails/golftv_generic.bmp</thumbnail>
 </item>
 
