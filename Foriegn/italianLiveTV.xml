@@ -10,9 +10,9 @@
 
 
 <item>
-<title>TV AZTECA</title>
-<link>rtmp://46.28.49.156/live playpath=AztecaEnVivo?id=67721 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/AztecaEnVivo/1/616/380 live=1 timeout=10</link>
-<thumbnail>http://sa.aos.ask.com/us/tv/azteca-2013.jpg</thumbnail>
+<title>UK/Irish Horse Racing</title>
+<link>rtsp://live1.fifaembed.com:1935/live/attheraces-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NTQ6NDIgQU0maGFzaF92YWx1ZT1CV0RTTHVmNWVwWGFRcURITGxsdUpRPT0mdmFsaWRtaW51dGVzPTIw</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcS8lfuKJxlFfwLHZA4D1kSLiHp77uDitjRuuE8ZXYMCWyueP6qdvQ</thumbnail>
 </item>
 
 <item>
