@@ -439,13 +439,13 @@
 
 <item>
 <title>Sky Sports Italia 2</title>
-<link>rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://live1.fifaembed.com:1935/live/skysport2italia-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NDQ6MjggQU0maGFzaF92YWx1ZT1ySk41VnNUK2s5ZWVDa09uSDlzZ0V3PT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20100531205525/logopedia/images/c/cc/Sky_Sport_2_Italy.svg</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports Italia 3</title>
-<link>rtmp://31.220.0.134:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://live1.fifaembed.com:1935/live/skysport3italia-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NDQ6MjggQU0maGFzaF92YWx1ZT1ySk41VnNUK2s5ZWVDa09uSDlzZ0V3PT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100531205721/logopedia/images/5/57/Sky_Sport_3_Italy.svg</thumbnail>
 </item>
 
@@ -523,7 +523,7 @@
 
 <item>
 <title>Sky Sports Italia 1 (a volte offline)</title>
-<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://live1.fifaembed.com:1935/live/skysport1italia-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NDQ6MjggQU0maGFzaF92YWx1ZT1ySk41VnNUK2s5ZWVDa09uSDlzZ0V3PT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100531205308/logopedia/images/0/05/Sky_Sport_1_Italy.svg</thumbnail>
 </item>
 
