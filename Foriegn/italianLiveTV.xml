@@ -364,31 +364,6 @@
 </item>
 
 <item>
-<title>TSN 2 (English)</title>
-<link>rtmp://31.220.0.133:1935/live playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://nll.uploads.mrx.ca/toronto/newser/2010/04/tsn22850.jpg</thumbnail>
-</item>
-
-<item>
-<title>TSN (English)</title>
-<link>rtmp://31.220.0.194:1935/live playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://pages.videotron.com/gerryted/pooldehockey/images/tsn.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet Ontario (English)</title>
-<link>rtmp://31.220.0.82:1935/live playpath=snontar swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snontar&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ontario.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet One (English)</title>
-<link>rtmp://31.220.0.195:1935/live playpath=snone swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snone&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
-</item>
-
-
-<item>
 <title>Sky Sport 24</title>
 <link>rtsp://live1.fifaembed.com:1935/live/skycalcio-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6Mzc6NTkgQU0maGFzaF92YWx1ZT13NWc3ZVRKaXBvK0Y2SWtqOXRuUE5nPT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://www.texmaster.it/index2_Sky-calcio-show-sfondo-trasparente.gif</thumbnail>
@@ -417,6 +392,12 @@
 <title>ESPN USA (English)</title>
 <link>rtsp://live1.fifaembed.com:1935/live/espnusa-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDQ6MTE6MjcgQU0maGFzaF92YWx1ZT00STZDRUUrRW9uY3QvakoreGRWcHFRPT0mdmFsaWRtaW51dGVzPTIw</link>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2009/08/espn-300x300.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN2 AMERICA</title>
+<link>rtsp://live1.fifaembed.com:1935/live/espn2usa-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDQ6MTE6MjcgQU0maGFzaF92YWx1ZT00STZDRUUrRW9uY3QvakoreGRWcHFRPT0mdmFsaWRtaW51dGVzPTIw</link>
+<thumbnail>http://images.majorleaguelacrosse.com/ESPN2-Logo-D795.png</thumbnail>
 </item>
 
 <item>
@@ -519,12 +500,6 @@
 <title>Sky Sports F1 (English)</title>
 <link>rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
-</item>
-
-<item>
-<title>SportsNet World (English)</title>
-<link>rtmp://31.220.0.195:1935/live playpath=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://a1.mzstatic.com/us/r30/Purple2/v4/40/b6/79/40b67992-455b-a221-4bda-4ad137e11e85/mzl.jeplcrsi.175x175-75.jpg</thumbnail>
 </item>
 
 <item>
