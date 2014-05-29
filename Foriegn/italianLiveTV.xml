@@ -221,6 +221,30 @@
 </item>
 
 <item>
+<title>Sky Sports 4 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:051A:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:119F:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 UK</title>
+<link>http://92.234.179.45:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+</item>
+
+<item>
 <title>City Of Boston TV</title>
 <link>rtmp://streaming.cityofboston.gov/live/cable</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/ff/Panoramic_Boston.jpg</thumbnail>
@@ -262,12 +286,10 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_news.png</thumbnail>
 </item>
 
-<item>
 <title>English Club TV</title>
 <link>http://159.224.165.2:8888/udp/238.0.0.52:1234</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/english_club_tv.png</thumbnail>
 </item>
-
 <item>
 <title>NHL Network</title>
 <link>rtmp://173.192.81.170:443/liverepeater playpath=stream21 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream21_.html live=1 timeout=10</link>
@@ -531,12 +553,6 @@
 <title>FOX Sports 2 (English)</title>
 <link>rtmp://31.220.0.103:1935/live playpath=fox2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=fox2&vw=620&vh=490 live=1 timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fd/FOX_Sports_2_logo.png</thumbnail>
-</item>
-
-<item>
-<title>BeIN sports 6</title>
-<link>rtmp://31.220.0.103:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b6r&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-sd6.jpg</thumbnail>
 </item>
 
 <item>
@@ -1116,8 +1132,8 @@
 </item>
 
 <item>
-<title>Sky Calcio (Sometimes OFFLINE/a volte offline)</title>
-<link>rtsp://live1.fifaembed.com:1935/live/skycalcio-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6Mzc6NTkgQU0maGFzaF92YWx1ZT13NWc3ZVRKaXBvK0Y2SWtqOXRuUE5nPT0mdmFsaWRtaW51dGVzPTIw</link>
+<title>Sky Calcio</title>
+<link>rtsp://31.220.0.138:1935/live/skycalcioit</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
 
