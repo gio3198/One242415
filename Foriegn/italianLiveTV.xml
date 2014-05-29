@@ -191,9 +191,9 @@
 </item>
 
 <item>
-<title>TEST Channel</title>
-<link>rtmp://46.246.124.6:443/liverepeater/20724 live=1 pageUrl=http://movietrailers.yt</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/01/Real_time_Italy.png</thumbnail>
+<title>ITV 1</title>
+<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=itv swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
+<thumbnail>http://www.tv-live.org.uk/wp/media/resources/itv1.png</thumbnail>
 </item>
 
 <item>
@@ -545,13 +545,13 @@
 
 <item>
 <title>FOX Sports 1 (English)</title>
-<link>rtmp://31.220.0.104:1935/live playpath=fox1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=fox1&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://31.220.0.138:1935/live/fox1</link>
 <thumbnail>http://www.brctv.com/sites/default/files/upload/FOX_Sports_1_Logo.png</thumbnail>
 </item>
 
 <item>
 <title>FOX Sports 2 (English)</title>
-<link>rtmp://31.220.0.103:1935/live playpath=fox2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=fox2&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtsp://31.220.0.138:1935/live/fox2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fd/FOX_Sports_2_logo.png</thumbnail>
 </item>
 
