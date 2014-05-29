@@ -467,9 +467,9 @@
 </item>
 
 <item>
-<title>TEST ONLY</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490</link>
-<thumbnail>http://i185.photobucket.com/albums/x217/Andi_VYB/testpatterns/testpattern2.jpg</thumbnail>
+<title>PREMIER SPORTS</title>
+<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=premier swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
 </item>
 
 <item>
