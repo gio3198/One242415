@@ -10,7 +10,17 @@
 
 
 
+<item>
+<title>CNN</title>
+<link>rtmp://c.cdn.livenewschat.eu/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15</link>
+<thumbnail>http://i1.ytimg.com/i/upvZG-5ko_eiXAupbDfxWw/mq1.jpg?v=51df0b06</thumbnail>
+</item>
 
+<item>
+<title>Sky One</title>
+<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=skyone swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+</item>
 
 <item>
 <title>BOX NATION</title>
