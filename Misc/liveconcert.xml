@@ -9,7 +9,35 @@
 ##############################################################################################################################
 
 
+<item>
+<title>01 Vevo 1</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
+<thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
+</item>
 
+<item>
+<title>01 TVM3</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=tvm3 swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.8.swf?sDescription=&sVersion=4%2E2%2E8&sTitle= pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=tvm3&name=html5&player=922</link>
+<thumbnail>http://effetcaribou.ch/wp-content/uploads/2013/07/logo-tvm3.png</thumbnail>
+</item>
+
+<item>
+<title>01 OUI FM TV</title>
+<link>rtmp://rtmp.infomaniak.ch:1935/livecast playpath=ouitv swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf?src=rtmp://rtmp.infomaniak.ch/livecast/ouitv&streamType=live&autoPlay=true/[[DYNAMIC]]/1 pageUrl=http://www.mytvonline.org/fr/OUi-tele.html</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/58/OuiFM_new.png/150px-OuiFM_new.png</thumbnail>
+</item>
+
+<item>
+<title>01 BPM</title>
+<link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT1P36I1UolxIc_NUxOdoeZC1DsGIT_zhT0SwfkoAwpj5w5tjc01A</thumbnail>
+</item>
+
+<item>
+<title>01 Europa Plus TV</title>
+<link>rtmp://europaplus.cdnvideo.ru:1935/europaplus-live playpath=mp4:eptv_main.sdp swfUrl=http://www.europaplustv.com/javascript/videoplayernew.swf pageUrl=http://www.europaplustv.com/online</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/europa_plus_radio.png</thumbnail>
+</item>
 
 <item>
 <title>01 Capital TV United Kingdom</title>
