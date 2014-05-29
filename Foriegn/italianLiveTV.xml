@@ -9,6 +9,13 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>beIN Sports</title>
+<link>rtsp://31.220.0.138:1935/live/b5r</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png</thumbnail>
+</item>
+
 <item>
 <title>Europa Plus TV</title>
 <link>rtmp://europaplus.cdnvideo.ru:1935/europaplus-live playpath=mp4:eptv_main.sdp swfUrl=http://www.europaplustv.com/javascript/videoplayernew.swf pageUrl=http://www.europaplustv.com/online</link>
@@ -211,30 +218,6 @@
 <title>Sport TV</title>
 <link>http://149.255.39.122/aasd/8814/index.m3u8</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 UK</title>
-<link>http://92.234.179.45:8001/1:0:1:051A:7E5:2:11A0000:0:0:0:</link>
-<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 UK</title>
-<link>http://92.234.179.45:8001/1:0:1:119F:7E5:2:11A0000:0:0:0:</link>
-<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 UK</title>
-<link>http://92.234.179.45:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:</link>
-<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 1 UK</title>
-<link>http://92.234.179.45:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:</link>
-<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
 </item>
 
 <item>
