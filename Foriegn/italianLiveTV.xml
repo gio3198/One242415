@@ -10,6 +10,26 @@
 
 
 
+
+
+<item>
+<title>BOX NATION</title>
+<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=boxnation swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
+</item>
+
+<item>
+<title>CANAL+LIGA HD</title>
+<link>rtmp://93.120.27.234:5587/loadbalance playpath=ligahdptc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_liga_hd.png</thumbnail>
+</item>
+
+<item>
+<title>RTE ONE</title>
+<link>rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rte_one_plus1.png</thumbnail>
+</item>
+
 <item>
 <title>beIN Sports</title>
 <link>rtsp://31.220.0.138:1935/live/b5r</link>
@@ -472,7 +492,7 @@
 
 <item>
 <title>NFL Network (English)</title>
-<link>rtsp://live1.fifaembed.com:1935/live/nflnetwork-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDQ6MDY6MzUgQU0maGFzaF92YWx1ZT1RTlIydEtZV001VFRxeWJsdUxNbW5RPT0mdmFsaWRtaW51dGVzPTIw</link>
+<link>rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1</link>
 <thumbnail>http://www.shermanreport.com/wp-content/uploads/2013/11/nfl_network.png</thumbnail>
 </item>
 
@@ -575,13 +595,13 @@
 
 <item>
 <title>BT Sport 1 (English)</title>
-<link>rtmp://31.220.0.196:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmp://37.220.34.61:443/liverepeater playpath=stream1 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130806193244/logopedia/images/6/68/BT_Sport_1_(pre-launch).svg</thumbnail>
 </item>
 
 <item>
 <title>BT Sport 2 (English)</title>
-<link>rtmp://31.220.0.86:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=1 timeout=10</link>
+<link>rtmpe://46.246.124.27:1935/redirect playpath=bt2hqsport swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=bt1hqsport&vw=600&vh=400&domain=hqsport.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
 
