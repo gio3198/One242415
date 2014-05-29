@@ -139,9 +139,9 @@
 </item>
 
 <item>
-<title>And They're OFF</title>
-<link>rtsp://live1.fifaembed.com:1935/live/racinguk-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NTk6MDcgQU0maGFzaF92YWx1ZT10b3RJU1lxREovU3ZvbmYyZ0hjV1BRPT0mdmFsaWRtaW51dGVzPTIw</link>
-<thumbnail>http://static.travel.usnews.com/images/destinations/268/and_theyre_off.jpg</thumbnail>
+<title>Racing UK</title>
+<link>rtmp://37.220.34.61:443/liverepeater playpath=stream8 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/</link>
+<thumbnail>https://intl.racinguk.com/app_themes/Everything/images/RacUKLogoBig.jpg</thumbnail>
 </item>
 
 <item>
