@@ -581,7 +581,7 @@
 
 <item>
 <title>BT Sport 1 (English)</title>
-<link>rtmp://37.220.34.61:443/liverepeater playpath=stream1 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/</link>
+<link>rtmpe://46.246.124.27:1935/redirect playpath=bt1hqsport swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=bt1hqsport&vw=600&vh=400&domain=hqsport.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20130806193244/logopedia/images/6/68/BT_Sport_1_(pre-launch).svg</thumbnail>
 </item>
 
