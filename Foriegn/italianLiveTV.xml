@@ -8,6 +8,23 @@
 </info>
 ##############################################################################################################################
 
+<item>
+<title>SkySports Italia 1</title>
+<link>rtmp://31.220.0.103:1935/live playpath=sky1italia swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://www.eucast.tv token=%ZZri(nKa@#Z</link>
+<thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
+</item>
+
+<item>
+<title>SkySports Italia 2</title>
+<link>rtmp://31.220.0.103:1935/live playpath=sky2italia swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://www.eucast.tv token=%ZZri(nKa@#Z</link>
+<thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
+</item>
+
+<item>
+<title>SkySports Italia 3</title>
+<link>rtmp://31.220.0.103:1935/live playpath=sky3italia swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://www.eucast.tv token=%ZZri(nKa@#Z</link>
+<thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
+</item>
 
 <item>
 <title>Mercedes Channel</title>
