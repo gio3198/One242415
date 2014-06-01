@@ -9,9 +9,17 @@
 ##############################################################################################################################
 
 
+
+<item>
+<title>01 MTV Dance</title>
+<link>http://217.113.227.239/mtvdance/mtvdance.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MTV_DANCE_logo.svg/493px-MTV_DANCE_logo.svg.png</thumbnail>
+</item>
+
+
 <item>
 <title>01 Vevo Country</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
 <thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
 </item>
 
@@ -23,7 +31,7 @@
 
 <item>
 <title>01 Vevo Hip Hop</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 <thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
 </item>
 
