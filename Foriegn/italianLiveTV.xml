@@ -10,6 +10,12 @@
 
 
 <item>
+<title>HBO USA</title>
+<link>rtmp://81.17.20.46/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://nakededgefilms.com/wp-content/uploads/2010/10/HBO.png</thumbnail>
+</item>
+
+<item>
 <title>MTV Dance</title>
 <link>http://217.113.227.239/mtvdance/mtvdance.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MTV_DANCE_logo.svg/493px-MTV_DANCE_logo.svg.png</thumbnail>
@@ -83,7 +89,7 @@
 
 <item>
 <title>CANAL+LIGA HD</title>
-<link>rtmp://93.120.27.234:5587/loadbalance playpath=ligahdptc swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed.php</link>
+<link>rtmp://50.7.133.98/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=12147&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_liga_hd.png</thumbnail>
 </item>
 
@@ -645,12 +651,6 @@
 </item>
 
 <item>
-<title>Sky Sports Italia 1 (a volte offline)</title>
-<link>rtsp://live1.fifaembed.com:1935/live/skysport1italia-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6NDQ6MjggQU0maGFzaF92YWx1ZT1ySk41VnNUK2s5ZWVDa09uSDlzZ0V3PT0mdmFsaWRtaW51dGVzPTIw</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20100531205308/logopedia/images/0/05/Sky_Sport_1_Italy.svg</thumbnail>
-</item>
-
-<item>
 <title>Canale 46 Sicilia</title>
 <link>rtmp://vs2.streamcaster.net:1935/test_live playpath=canale46 swfUrl=http://www.canale46.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.canale46.it/portale_web/lib/archivio.aspx?canale=1&id=1 live=1 timeout=10</link>
 <thumbnail>http://www.canale46.it/logocanale_192Logo%20traspok1%20300.gif</thumbnail>
@@ -1181,7 +1181,7 @@
 
 <item>
 <title>Sky Calcio</title>
-<link>rtsp://31.220.0.138:1935/live/skycalcioit</link>
+<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
 
