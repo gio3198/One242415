@@ -9,6 +9,12 @@
 ##############################################################################################################################
 
 <item>
+<title>The Sopranos</title>
+<link>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?sopranos live=1 timeout=10</link>
+<thumbnail>http://static.tvtropes.org/pmwiki/pub/images/the-sopranos-2_7524.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Simpsons (Non-Stop)</title>
 <link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502 live=1 timeout=10</link>
 <thumbnail>http://www.simpsoncrazy.com/content/wallpapers/simpsons/TheSimpsons1_1024.gif</thumbnail>
