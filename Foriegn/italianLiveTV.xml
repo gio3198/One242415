@@ -10,6 +10,18 @@
 
 
 <item>
+<title>Family Guy (Non-Stop)</title>
+<link>rtmp://198.27.74.25/app playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Family_Guy_Logo.svg/335px-Family_Guy_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>South Park (Non-Stop)</title>
+<link>rtmp://198.27.74.25/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</link>
+<thumbnail>http://2.bp.blogspot.com/-xEO8Q64Dr7A/Uy9zMc0aBII/AAAAAAAA3q0/EN1tzsZtJag/s1600/South_Park_banner.png</thumbnail>
+</item>
+
+<item>
 <title>HBO USA</title>
 <link>rtmp://81.17.20.46/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://nakededgefilms.com/wp-content/uploads/2010/10/HBO.png</thumbnail>
