@@ -10,6 +10,18 @@
 
 
 <item>
+<title>Everybody Loves Raymond (24/7)</title>
+<link>rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live=1 timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/73663/clearart/E_73663.png</thumbnail>
+</item>
+
+<item>
+<title>Seinfeld (24/7)</title>
+<link>rtmp://198.27.74.25/app playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03 lilve=1 timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/7c/Seinfeld.png</thumbnail>
+</item>
+
+<item>
 <title>I Love Lucy (24/7)</title>
 <link>rtmp://198.27.75.99/app playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1 timeout=10</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/915Ia2l56eL._SL1500_.jpg</thumbnail>
