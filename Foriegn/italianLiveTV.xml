@@ -417,9 +417,9 @@
 </item>
 
 <item>
-<title>TEST 5</title>
-<link>rtmp://46.165.251.74/zenex playpath=reatvbm?id=76 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/reatvbm/1/550/380</link>
-<thumbnail>http://www.ct4me.net/images/dmbtest.gif</thumbnail>
+<title>BBC ONE</title>
+<link>rtmpe://159.253.143.36:1935/redirect playpath=bbc swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein11&vw=640&vh=460&domain=hdfoots.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.wwsc.org.uk/news/images/bbc_one.png</thumbnail>
 </item>
 
 <item>
