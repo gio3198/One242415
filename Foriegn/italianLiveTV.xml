@@ -621,7 +621,7 @@
 
 <item>
 <title>Manchester United TV (English)</title>
-<link>rtmp://173.193.227.104:443/liverepeater playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream27.html live=1 timeout=10</link>
+<link>rtmp://67.228.177.165:443/liverepeater playpath=27 swfUrl=http://kingofplayers.com/atdedead.swf pageUrl=http://kingofplayers.com/player2.php?id=27&width=640&height=460</link>
 <thumbnail>http://www.manchesterphoenix.co.uk/img/387/300/-/-/1190790530/mutv-logo.gif</thumbnail>
 </item>
 
