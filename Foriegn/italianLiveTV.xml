@@ -263,6 +263,7 @@
 <item>
 <title>Racing UK</title>
 <link>rtmp://37.220.34.61:443/liverepeater playpath=stream8 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/</link>
+<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTQgNDozOToxOSBQTSZoYXNoX3ZhbHVlPUVXRTRvZitEMVU1ZWE1a3hGNFloMGc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=racinguk-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.liveonlinetv247.com/embed/racinguk.php?width=650&height=480</link>
 <thumbnail>https://intl.racinguk.com/app_themes/Everything/images/RacUKLogoBig.jpg</thumbnail>
 </item>
 
