@@ -77,12 +77,6 @@
 </item>
 
 <item>
-<title>MTV Dance</title>
-<link>http://217.113.227.239/mtvdance/mtvdance.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MTV_DANCE_logo.svg/493px-MTV_DANCE_logo.svg.png</thumbnail>
-</item>
-
-<item>
 <title>Vevo Country</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
 <thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
@@ -90,12 +84,6 @@
 
 <item>
 <title>Vevo Pop</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
-<thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
-</item>
-
-<item>
-<title>Vevo Hip Hop</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
 <thumbnail>http://www.razorianfly.com/wp-content/uploads/VEVO1.png</thumbnail>
 </item>
@@ -137,33 +125,9 @@
 </item>
 
 <item>
-<title>Sky One</title>
-<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=skyone swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
-<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
-</item>
-
-<item>
 <title>BOX NATION</title>
 <link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=boxnation swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
-</item>
-
-<item>
-<title>CANAL+LIGA HD</title>
-<link>rtmp://50.7.133.98/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=12147&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_liga_hd.png</thumbnail>
-</item>
-
-<item>
-<title>RTE ONE</title>
-<link>rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rte_one_plus1.png</thumbnail>
-</item>
-
-<item>
-<title>beIN Sports</title>
-<link>rtsp://31.220.0.138:1935/live/b5r</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png</thumbnail>
 </item>
 
 <item>
@@ -194,36 +158,6 @@
 <title>Porshe Channel</title>
 <link>mms://83.222.161.217/channel_porsche</link>
 <thumbnail>http://i1.ytimg.com/i/wGD76yp-_xejLDfnvqM64g/mq1.jpg?v=4f3017a9</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports Brasil</title>
-<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdn-br.com/swf/player.swf live=1 pageUrl=http://www.cdn-br.com/mastertv/FSB.htm --live</link>
-<thumbnail>http://dateeeeeena.files.wordpress.com/2012/01/fox-sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>SkyS4</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/09/skysports001.jpg</thumbnail>
-</item>
-
-<item>
-<title>SkyS3</title>
-<link>rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/09/skysports001.jpg</thumbnail>
-</item>
-
-<item>
-<title>SkyS2</title>
-<link>rtmp://37.220.32.55:443/liverepeater playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/09/skysports001.jpg</thumbnail>
-</item>
-
-<item>
-<title>SkyS1</title>
-<link>rtmp://37.220.32.43:443/liverepeater/23697 live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT</link>
-<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2012/09/skysports001.jpg</thumbnail>
 </item>
 
 <item>
