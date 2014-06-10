@@ -173,12 +173,6 @@
 </item>
 
 <item>
-<title>TV Acapulco</title>
-<link>rtmp://video.hosteris.com/tvacapulco/tvacapulco</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s102102q.png</thumbnail>
-</item>
-
-<item>
 <title>SkyNEws</title>
 <link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
 <thumbnail>http://thinkspalondon.com/wp-content/uploads/2010/04/sky-news-logo.png</thumbnail>
@@ -203,12 +197,6 @@
 </item>
 
 <item>
-<title>Racing UK</title>
-<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTQgNDozOToxOSBQTSZoYXNoX3ZhbHVlPUVXRTRvZitEMVU1ZWE1a3hGNFloMGc9PSZ2YWxpZG1pbnV0ZXM9MQ==/ playpath=racinguk-hq swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.liveonlinetv247.com/embed/racinguk.php?width=650&height=480</link>
-<thumbnail>https://intl.racinguk.com/app_themes/Everything/images/RacUKLogoBig.jpg</thumbnail>
-</item>
-
-<item>
 <title>Venezolana de Television</title>
 <link>rtmp://50.7.67.76:1935/vtvweb/ playpath=vtvweb swfUrl=http://www.movipbox.com/nuevo/player/player.swf pageUrl=http://www.movipbox.com/nuevo/embed/vtv/index1.html live=1 timeout=10</link>
 <thumbnail>http://www.vtv.gob.ve/articulos/2012/11/10/tves-trae-en-noviembre-nuevas-producciones-independientes-4132.html/tveslogo.jpg/@@images/355263cd-2b26-4395-8401-24258ef2edb4.jpeg</thumbnail>
@@ -221,21 +209,9 @@
 </item>
 
 <item>
-<title>Automotive TV Italia</title>
-<link>rtsp://46.249.213.87/broadcast/automotivetv-tablet.3gp</link>
-<thumbnail>http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/automotivetv-channel-images-logo-large.png?1360085874</thumbnail>
-</item>
-
-<item>
 <title>BMW CHANNEL ITALIA</title>
 <link>mms://100automoto.tv/bmw</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20100516075848/logopedia/images/2/25/BMW_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Auto Hoje TV</title>
-<link>mms://tv.autohoje.com/mpltv </link>
-<thumbnail>http://www.televan.com.br/images/stories/hd-tv-auto-hoje.jpj.jpg</thumbnail>
 </item>
 
 <item>
@@ -263,7 +239,7 @@
 </item>
 
 <item>
-<title>TRACE SPORTS (English)</title>
+<title>TRACE SPORTS</title>
 <link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
 <thumbnail>http://api.ning.com/files/2mjloAWAx2dVyg2jl8pjm1gTUsnFgKYvG7nzkIw09yzuHkgshyzAO9P3dl53VmWKvkuVCvbY-RiCDLHz6Lvidycf9ZH2Vpwx/TRACESportsLogo.png</thumbnail>
 </item>
@@ -281,18 +257,6 @@
 </item>
 
 <item>
-<title>Italia News</title>
-<link>rtmp://streaming-2.glomera.com/tv?ns=5e69d95e96d0849325ebb72bfe617dc2/5e69d95e96d0849325ebb72bfe617d..</link>
-<thumbnail>https://lh3.googleusercontent.com/-7VvKcapnLl8/AAAAAAAAAAI/AAAAAAAAAEI/7v7bl7Dnp4s/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>ArenaSport 1</title>
-<link>http://149.255.39.122/aasd/8812/index.m3u8</link>
-<thumbnail>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</thumbnail>
-</item>
-
-<item>
 <title>Cartoon Network</title>
 <link>http://8.12.105.44:8085/udp/239.34.153.85:1234</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20111202140926/logopedia/images/1/1f/Cartoon_Network_2004.svg</thumbnail>
@@ -305,51 +269,11 @@
 </item>
 
 <item>
-<title>City Of Boston TV</title>
-<link>rtmp://streaming.cityofboston.gov/live/cable</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/ff/Panoramic_Boston.jpg</thumbnail>
-</item>
-
-<item>
 <title>FOX Sports Plus</title>
 <link>rtmp://fmaster.servep2p.com:1935/live/sport3.stream</link>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRJHolt57iDpXzeS0anWfLlwwCS3NtHrgmvFTnneDa3vbq52GLxrg</thumbnail>
 </item>
 
-<item>
-<title>Astro Supersport</title>
-<link>rtmp://fmaster.servep2p.com:1935/live/sport6.stream</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg</thumbnail>
-</item>
-
-<item>
-<title>FOX Sports</title>
-<link>rtmp://fmaster.servep2p.com:1935/live/sport1.stream</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
-</item>
-
-<item>
-<title>Star Sports</title>
-<link>rtmp://fmaster.servep2p.com:1935/live/sport3.stream</link>
-<thumbnail>http://static.sportskeeda.com/wp-content/uploads/2013/11/star-sports-1990816.jpg</thumbnail>
-</item>
-
-<item>
-<title>Arenasport 3</title>
-<link>http://85.114.139.20:2048/</link>
-<thumbnail>http://www.miskobobic.com/wp-content/uploads/2010/08/arena-sport.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eurosport News</title>
-<link>http://159.224.165.2:8888/udp/238.0.16.153:1234</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_news.png</thumbnail>
-</item>
-
-<title>English Club TV</title>
-<link>http://159.224.165.2:8888/udp/238.0.0.52:1234</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/english_club_tv.png</thumbnail>
-</item>
 <item>
 <title>NHL Network</title>
 <link>rtmp://173.192.81.170:443/liverepeater playpath=stream21 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com/stream21_.html live=1 timeout=10</link>
@@ -369,18 +293,6 @@
 </item>
 
 <item>
-<title>TSE UNO</title>
-<link>http://fls.5.c3.audiovideoweb.com:443/live/5c3flslive2715/sansar.m3u8 </link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Test 4</title>
-<link>rtmp://67.228.235.73/zenex playpath=italaliicic?id=1405 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/italaliicic/1/550/380 live=1 timeout=10</link>
-<thumbnail>http://www.sandrazampa.it/wp-content/uploads/2012/04/tvlocali.jpg</thumbnail>
-</item>
-
-<item>
 <title>TSD TV</title>
 <link>http://fls.6.c3.audiovideoweb.com:443/live/6c3flslive2198/sansar.m3u8 </link>
 <thumbnail></thumbnail>
@@ -390,18 +302,6 @@
 <title>Media TV</title>
 <link>mmsh://mediatv2.topix.it/24Ipertv66</link>
 <thumbnail>http://www.media-tv.ro/logo-media-tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>RED BULL TV (English)</title>
-<link>http://redbulwebtvhd-f.akamaihd.net/webtvhd_3_696@54840?videoId=1389549382001&lineUpId=&pubId=710858724001&playerId=1398061561001&</link>
-<thumbnail>http://www.shalomlife.com/img/2013/01/18549/red_bull_logo_.jpg</thumbnail>
-</item>
-
-<item>
-<title>TEST 2</title>
-<link>http://195.245.120.10:1690/udp/239.0.0.199:4000</link>
-<thumbnail>http://www.high-techproductions.com/testPattern1.gif</thumbnail>
 </item>
 
 <item>
@@ -507,12 +407,6 @@
 </item>
 
 <item>
-<title>PREMIER SPORTS</title>
-<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=premier swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png</thumbnail>
-</item>
-
-<item>
 <title>La Nuova TV</title>
 <link>rtmp://lanuovatvbas.srfms.com:1961/live playpath=livestream swfUrl=http://www.serverroom.net/jwplayer5/player.swf pageUrl=http://www.lanuovatv.it/ live=1 timeout=10</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/La-Nuova-TV.gif</thumbnail>
@@ -525,21 +419,9 @@
 </item>
 
 <item>
-<title>Sky Sport 24</title>
-<link>rtsp://live1.fifaembed.com:1935/live/skycalcio-hq?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE0IDM6Mzc6NTkgQU0maGFzaF92YWx1ZT13NWc3ZVRKaXBvK0Y2SWtqOXRuUE5nPT0mdmFsaWRtaW51dGVzPTIw</link>
-<thumbnail>http://www.texmaster.it/index2_Sky-calcio-show-sfondo-trasparente.gif</thumbnail>
-</item>
-
-<item>
 <title>NFL Network (English)</title>
 <link>rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1</link>
 <thumbnail>http://www.shermanreport.com/wp-content/uploads/2013/11/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>WWE Network (English)</title>
-<link>rtmp://37.220.32.55:443/liverepeater playpath=stream38 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/stream38.html live=1 timeout=10</link>
-<thumbnail>http://www.chicagonow.com/ringside-chicago/files/2014/02/WWE-Network-3009089.png</thumbnail>
 </item>
 
 
@@ -579,28 +461,11 @@
 <thumbnail>http://media15.tv/img/client-liverpoolfc.jpg</thumbnail>
 </item>
 
-<item>
-<title>TEN SPORTS (English)</title>
-<link>rtmp://31.220.0.195:1935/live playpath=tensports swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=tensports&vw=620&vh=490 live=1 timeout=10</link>
-<thumbnail>http://yesjar.co/folderscreen/2543.png</thumbnail>
-</item>
 
 <item>
 <title>GOLF TV (English)</title>
 <link>rtmp://31.220.0.134:1935/live playpath=golf token=%ZZri(nKa@#Z  pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.eastlink.ca/portals/0/CableDigitalTV/Channel%20Thumbnails/golftv_generic.bmp</thumbnail>
-</item>
-
-<item>
-<title>FOX Sports 1 (English)</title>
-<link>rtsp://31.220.0.138:1935/live/fox1</link>
-<thumbnail>http://www.brctv.com/sites/default/files/upload/FOX_Sports_1_Logo.png</thumbnail>
-</item>
-
-<item>
-<title>FOX Sports 2 (English)</title>
-<link>rtsp://31.220.0.138:1935/live/fox2</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fd/FOX_Sports_2_logo.png</thumbnail>
 </item>
 
 <item>
@@ -622,63 +487,15 @@
 </item>
 
 <item>
-<title>BT Sport 1 (English)</title>
-<link>rtmpe://46.246.124.27:1935/redirect playpath=bt1hqsport swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=bt1hqsport&vw=600&vh=400&domain=hqsport.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20130806193244/logopedia/images/6/68/BT_Sport_1_(pre-launch).svg</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2 (English)</title>
-<link>rtmpe://46.246.124.27:1935/redirect playpath=bt2hqsport swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=bt1hqsport&vw=600&vh=400&domain=hqsport.tv live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News (English)</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=23701 swfUrl=http://static.surk.tv/player.swf pageUrl=http://1cdn.filotv.pw/ss.html live=1 timeout=10</link>
-<thumbnail>http://3.bp.blogspot.com/-ejR1k3Lz6M0/UE8YX_X3jUI/AAAAAAAAH4Y/92dCJx2Rhqk/s1600/SSN.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports F1 (English)</title>
-<link>rtmp://31.220.0.134:1935/live playpath=ssf1x token=%ZZri(nKa@#Z  pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
-</item>
-
-<item>
 <title>Canale 46 Sicilia</title>
 <link>rtmp://vs2.streamcaster.net:1935/test_live playpath=canale46 swfUrl=http://www.canale46.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.canale46.it/portale_web/lib/archivio.aspx?canale=1&id=1 live=1 timeout=10</link>
 <thumbnail>http://www.canale46.it/logocanale_192Logo%20traspok1%20300.gif</thumbnail>
 </item>
 
 <item>
-<title>Reggio TV</title>
-<link>http://livestream-f.akamaihd.net/717423_1829086_84070779_1_446@71777?v=3.0.3&fp=WIN%2013,0,0,182&r=SQUIM&g=KTBBCGJWNDXZ</link>
-<thumbnail>http://www.storiaradiotv.it/reggio%20TV%20RTV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Roxy Bar TV</title>
-<link>rtmp://94.32.101.18/cachestreamit playpath=mp4:webtv-b2b/streamit/575/2011/12/30/1146729_EV_-_Prof._Umberto_Veronesi.m4v swfUrl=http://roxybar.twww.tv/streamit.swf pageUrl=http://roxybar.twww.tv/?onair#video.php?nav=1&lang=EN live=1 timeout=10</link>
-<thumbnail>http://www.chiararagnini.it/wp-content/uploads/2012/02/Logotitolo.jpg</thumbnail>
-</item>
-
-<item>
-<title>CoRTOONS TV</title>
-<link>rtmp://94.32.97.10/cachestreamit playpath=mp4:webtv-b2b/streamit/63/2012/05/29/1188883_denti-1.mp4 swfUrl=http://www.streamit.it/streamit.swf pageUrl=http://www.streamit.it/?c=1#index_channels.php?nav=2&lang=EN live=1 timeout=10</link>
-<thumbnail>http://www.baritalianews.it/wp-content/uploads/2014/03/live_tv_logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>ODEON TV</title>
 <link>rtmp://highvolume03.streampartner.nl/odeon_livestream/_definst_ playpath=mp4:live.stream_720p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://media.streampartner.nl/player.php?url=odeo45afa2ead0c1a51 live=1 timeout=10</link>
 <thumbnail>http://www.tvstreaming.tv/wp-content/uploads/2009/11/Odeon-TV-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>RTV</title>
-<link>http://livestream-f.akamaihd.net/717423_1829086_36416379_1_446@71777?v=3.0.3&fp=WIN%2013,0,0,182&r=XIJCY&g=CRVKHPFMIFRI</link>
-<thumbnail>http://www.dtti.it/wp-content/uploads/2013/02/reggio-tv.jpg</thumbnail>
 </item>
 
 <item>
@@ -952,12 +769,6 @@
 </item>
 
 <item>
-<title>Citytv Toronto</title>
-<link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=2520508987001&pubId=593482582001&playerId=1958271076001&affiliateId=&v=3.2.0&fp=WIN%2012,0,0,44&r=JMWHB&g=CLJSQYLEARVD</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png</thumbnail>
-</item>
-
-<item>
 <title>TeleDiogene  Crotone, Calabria</title>
 <link>rtmp://wms.shared.streamshow.it:80/telediogene playpath=telediogene swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/telediogene.php?height=338&width=448 live=1 timeout=10</link>
 <thumbnail>http://sicilia.onderadio.net/Loghi/TV/KR/TVKR_TeleDiogene.JPG</thumbnail>
@@ -982,21 +793,9 @@
 </item>
 
 <item>
-<title>CNN International</title>
-<link>rtmp://a.cdn.livenewschat.eu/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://weplaylive.tv/international-stream/ live=1 timeout=10</link>
-<thumbnail>http://4.bp.blogspot.com/-uO_jCDv-1SI/UafIFX1DwFI/AAAAAAAAurY/qLzUx0f158g/s1600/CNN%2BInternational%2Blogo%2B2011.png</thumbnail>
-</item>
-
-<item>
 <title>TeleMia Roccella Jonica, Calabria</title>
 <link>rtmp://wms.shared.streamshow.it:80/telemia playpath=telemia swfUrl=http://player.streamshow.it/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://player.streamshow.it/embed/telemia.php?width=297&height=167 live=1 timeout=10</link>
 <thumbnail>http://www.storiaradiotv.it/ATRO%20LOGO%20STORICO%20TELEMIA.jpg</thumbnail>
-</item>
-
-<item>
-<title>TEN TeleuropaNetwork</title>
-<link>rtmp://212-70.livestream.com/mogulus-stream-edge/tenlive playpath>rtmp://212-96.livestream.com/affiliateStream/tenlive/6c69766572657065617465723a72746d703a2f2f3231322d39362eÈc69766573747265616d2e636f6d2f6d6f67756c75732f74656e6c6976652f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?time=&iconColor=0x555555&borderColor=0xCCCCCC&autoPlay=true&allowchat=false&hideInfo=true&lschannel=true&allowChat=true&showBorderControlBar=false&browseMode=false&showMoreVideos=false&jsEnabled=false&textLines=2&t=690433&hideChannelBranding=true&mode=false pageUrl=http://www.livestream.com/embed/tenlive?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=690433 live=1 timeout=10</link>
-<thumbnail>https://pbs.twimg.com/profile_images/707025002/ten_logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -1162,17 +961,10 @@
 </item>
 
 <item>
-<title>BBC News The Daily Politics</title>
-<link>mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv</link>
-<thumbnail>http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png</thumbnail>
-</item>
-
-<item>
 <title>San Marino TV</title>
 <link>rtmp://194.116.72.51/webtv_live4 playpath=0QBXFQ2L0I5P swfUrl=http://stream.senape.tv/scripts/player.swf pageUrl=http://www.smtvsanmarino.sm/programmi/web-tv live=1 timeout=10</link>
 <thumbnail>http://www.digital-sat.it/files-admin/Simone/sanmarino-tv.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Sky Calcio</title>
