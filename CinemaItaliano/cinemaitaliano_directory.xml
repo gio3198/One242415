@@ -57,9 +57,63 @@
 <thumbnail>http://s25.postimg.org/uidkubl1b/Actionmusica.png</thumbnail>
 </dir>
 
+<dir>
+<name>Biografico</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Biografico.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Documentario</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Documentario.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Guerra</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Guerra.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Horror</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Poliziesco</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Poliziesco.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Storico</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Storico.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
+
+<dir>
+<name>Thriller</name>
+<link>https://raw2.github.com/mash2k3/One242415/master/CinemaItaliano/Thriller.xml</link>
+<thumbnail>http://www.ilmondodeidoppiatori.it/images/8/88/Prossimamente.png</thumbnail>
+</dir>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+]
 
 
 
