@@ -8,6 +8,26 @@
 </info>
 ##############################################################################################################################
 
+
+
+<item>
+<title>HAITI Tele-Panou</title>
+<link>http://www.telepanou.com/</link>
+<thumbnail>http://live-tv.im/wp-content/uploads/2014/04/Tele-Panou.gif</thumbnail>
+</item>
+
+<item>
+<title>HAITI Tele Quisqueya</title>
+<link>rtmp://fcv14558.123flashchat.com:38723/123flashchat playpath=mp4:FCAVPresence.PRETTYQUEENONLY.av.f4v  swfUrl=http://host11501.123flashchat.com/haitipal/123flashchat.swf/[[DYNAMIC]]/4 pageUrl=http://www.haitipal.com/tq/</link>
+<thumbnail>http://www.haitipal.com/tq/tqlogos.gif</thumbnail>
+</item>
+
+<item>
+<title>HAITI Radio Tele Planet Compas</title>
+<link>rtmp://38.96.175.229:1935/live playpath=planet swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://planetcompas.com/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/500px-Flag_of_Haiti.svg.png</thumbnail>
+</item>
+
 <item>
 <title>MUTV</title>
 <link>rtmp://5.63.151.164:443/liverepeater playpath=27 swfUrl=http://kingofplayers.com/atdedead.swf pageUrl=http://kingofplayers.com/player2.php?id=27&width=640&height=460</link>
